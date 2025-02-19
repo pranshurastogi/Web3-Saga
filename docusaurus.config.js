@@ -6,8 +6,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Web3 Saga',
+  tagline: 'Explore. Innovate. Decentralize.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'pranshurastogi', // Usually your GitHub org/user name.
+  projectName: 'Web3-Saga', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -49,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/pranshurastogi/Web3-Saga/tree/main/',
         },
         blog: false,
         theme: {
@@ -67,16 +67,16 @@ const config = {
         disableSwitch: true,              // Disable the color mode toggle.
         respectPrefersColorScheme: false, // Ignore system preferences.
       },
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/card.png',
       navbar: {
-        title: 'My Site',
+        title: 'Web3 Saga',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Web3 Saga',
+          src: 'img/logo.png',
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/pranshurastogi/Web3-Saga',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,7 +89,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Portal',
                 to: '/docs/intro',
               },
             ],
@@ -98,16 +98,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/pushprotocol',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/PushChain',
               },
             ],
           },
@@ -116,12 +112,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/pranshurastogi/Web3-Saga',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Web3 Saga.`,
       },
       prism: {
         theme: prismThemes.github,
