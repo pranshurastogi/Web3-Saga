@@ -63,7 +63,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'dark',              // Always start in dark mode.
+        disableSwitch: true,              // Disable the color mode toggle.
+        respectPrefersColorScheme: false, // Ignore system preferences.
       },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
