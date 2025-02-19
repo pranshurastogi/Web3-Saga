@@ -1,3 +1,4 @@
+/* HOME PAGE CSS STARTS */
 .web3-landing {
   position: relative;
   overflow: hidden;
@@ -86,3 +87,65 @@
     padding: 0.5rem 1rem;
   }
 }
+/* HOME PAGE CSS ENDS */
+
+/* FOOTER CSS STARTS */
+.footer {
+  background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 2rem 0;
+  text-align: center;
+  color: #ffffff;
+}
+
+.footer__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer__links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.footer__link-item a {
+  color: #6c63ff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer__link-item a:hover {
+  color: #9c93ff;
+}
+
+.footer__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #6c63ff;
+}
+
+.footer__copyright {
+  font-size: 0.875rem;
+  opacity: 0.8;
+}
+
+[data-theme='dark'] .footer {
+  background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+}
+
+[data-theme='dark'] .footer__link-item a {
+  color: #00d1ff;
+}
+
+[data-theme='dark'] .footer__link-item a:hover {
+  color: #33e2ff;
+}
+
+[data-theme='dark'] .footer__title {
+  color: #00d1ff;
+}
+/* FOOTER CSS STARTS */
