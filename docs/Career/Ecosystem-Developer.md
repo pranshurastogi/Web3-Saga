@@ -7,7 +7,7 @@ sidebar_position: 3
 |-----------|---------|-------------|--------|--------|------|------------|
 | Growth Marketing Manager Mobile | Kraken | 1d | European Union | $75k - $99k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-mobile-kraken/96430) |
 | Engineering Manager Growth | Kraken | 1d | N/A | $113k - $165k | executive, engineer, growth, blockchain, crypto | [Apply](https://web3.career/engineering-manager-growth-kraken/96424) |
-| Software Engineer Growth | Alchemy | 1d | Remote | $73k - $115k | growth, dev, blockchain, react, typescript | [Apply](https://web3.career/software-engineer-growth-alchemy/58033) |
+| Software Engineer Growth | Alchemy | 2d | Remote | $73k - $115k | growth, dev, blockchain, react, typescript | [Apply](https://web3.career/software-engineer-growth-alchemy/58033) |
 | Growth Operations Regional Lead CIS CEE | Binance | 2d | Eastern Europe |  | growth, lead, operations, blockchain, crypto | [Apply](https://web3.career/growth-operations-regional-lead-cis-cee-binance/96318) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Senior Product Manager Exchange Growth UX | Crypto.com | 3d | , | $68k - $90k | growth, product manager, non tech, senior, design | [Apply](https://web3.career/senior-product-manager-exchange-growth-ux-crypto-com/96178) |
