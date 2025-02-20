@@ -5,7 +5,7 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Product Marketing Manager | Injective Labs | 12h | N/A | $105k - $115k | marketing manager, marketing, non tech, product marketing, remote | [Apply](https://web3.career/product-marketing-manager-injectivelabs/96571) |
+| Product Marketing Manager | Injective Labs | 13h | N/A | $105k - $115k | marketing manager, marketing, non tech, product marketing, remote | [Apply](https://web3.career/product-marketing-manager-injectivelabs/96571) |
 | Marketing Manager | Gate.io | 1d | APAC | $21k - $54k | marketing manager, marketing, non tech | [Apply](https://web3.career/marketing-manager-gate-io/96535) |
 | Binance Accelerator Program Marketing Swag Team | Binance | 1d | Asia |  | marketing, non tech, blockchain | [Apply](https://web3.career/binance-accelerator-program-marketing-swag-team-binance/96512) |
 | Product Marketing Manager | Blockaid | 1d | , | $36k - $65k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-blockaid/96504) |

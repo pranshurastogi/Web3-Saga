@@ -5,7 +5,7 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Business Development Representative Singapore | Figment | 3h | , | $33k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-representative-singapore-figment/96606) |
+| Business Development Representative Singapore | Figment | 4h | , | $33k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-representative-singapore-figment/96606) |
 | Senior Business Development Specialist Sales | Synternet | 17h | N/A |  | business development, sales, non tech, senior, head of sales | [Apply](https://web3.career/senior-business-development-specialist-sales-synternet/96564) |
 | Web3 Institutional Business Development commissionbased | prePO | 1d | , | $68k - $90k | business development, sales, non tech, crypto, defi | [Apply](https://web3.career/web3-institutional-business-development-commission-based-prepo/96529) |
 | DREX Business Development Manager | BitGo | 1d | , | $68k - $75k | business development, sales, non tech, blockchain | [Apply](https://web3.career/drex-business-development-manager-bitgo/96482) |
