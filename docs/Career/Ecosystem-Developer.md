@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Fulltime MeMe Branding and Growth Marketing Lead Remote | Nomad Capital | 1d | N/A | $50k - $100k | growth marketing, growth, remote, ads, full time | [Apply](https://web3.career/full-time-meme-branding-and-growth-marketing-lead-remote-nomad-capital/96615) |
-| Growth Marketing Manager Mobile | Kraken | 3d | European Union | $75k - $99k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-mobile-kraken/96430) |
-| Engineering Manager Growth | Kraken | 3d | N/A | $113k - $165k | executive, engineer, growth, blockchain, crypto | [Apply](https://web3.career/engineering-manager-growth-kraken/96424) |
-| Software Engineer Growth | Alchemy | 3d | Remote | $73k - $115k | growth, dev, blockchain, react, typescript | [Apply](https://web3.career/software-engineer-growth-alchemy/58033) |
+| Vice President Growth Crypto | Echo Base | 22h | Remote | $68k - $87k | growth, blockchain, crypto, defi, remote | [Apply](https://web3.career/vice-president-growth-crypto-echobase/96696) |
+| Software Engineer Backend Consumer Growth | Coinbase | 23h | N/A | $147k - $174k | growth, backend, engineer, dev, remote | [Apply](https://web3.career/software-engineer-backend-consumer-growth-coinbase/96695) |
+| Software Engineer Frontend Consumer Growth | Coinbase | 23h | N/A | $152k - $179k | growth, engineer, front end, dev, remote | [Apply](https://web3.career/software-engineer-frontend-consumer-growth-coinbase/96694) |
+| Fulltime MeMe Branding and Growth Marketing Lead Remote | Nomad Capital | 2d | N/A | $50k - $100k | growth marketing, growth, remote, ads, full time | [Apply](https://web3.career/full-time-meme-branding-and-growth-marketing-lead-remote-nomad-capital/96615) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Growth Operations Regional Lead CIS CEE | Binance | 3d | Eastern Europe |  | growth, lead, operations, blockchain, crypto | [Apply](https://web3.career/growth-operations-regional-lead-cis-cee-binance/96318) |
-| Senior Product Manager Exchange Growth UX | Crypto.com | 5d | , | $68k - $90k | growth, product manager, non tech, senior, design | [Apply](https://web3.career/senior-product-manager-exchange-growth-ux-crypto-com/96178) |
-| Head of Growth | Bloc3 | 6d | , | $140k - $180k | growth, executive, blockchain, crypto, defi | [Apply](https://web3.career/head-of-growth-bloc3/96135) |
-| Head of Ecosystem Growth | Arbitrum Foundation | 9d | APAC | $16k - $21k | growth, executive, blockchain, dapp, defi | [Apply](https://web3.career/head-of-ecosystem-growth-arbitrumfoundation/95950) |
-| Project Manager Content Web3 Growth Athens Hybrid | Sui Foundation | 9d | European Union | $75k - $99k | growth, project manager, non tech, blockchain, gaming | [Apply](https://web3.career/project-manager-for-content-web3-growth-athens-hybrid-suifoundation/95928) |
+| Growth Marketing Manager Mobile | Kraken | 4d | European Union | $75k - $99k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-mobile-kraken/96430) |
+| Engineering Manager Growth | Kraken | 4d | N/A | $113k - $165k | executive, engineer, growth, blockchain, crypto | [Apply](https://web3.career/engineering-manager-growth-kraken/96424) |
+| Software Engineer Growth | Alchemy | 4d | Remote | $73k - $115k | growth, dev, blockchain, react, typescript | [Apply](https://web3.career/software-engineer-growth-alchemy/58033) |
+| Growth Operations Regional Lead CIS CEE | Binance | 4d | Eastern Europe |  | growth, lead, operations, blockchain, crypto | [Apply](https://web3.career/growth-operations-regional-lead-cis-cee-binance/96318) |
+| Senior Product Manager Exchange Growth UX | Crypto.com | 6d | , | $68k - $90k | growth, product manager, non tech, senior, design | [Apply](https://web3.career/senior-product-manager-exchange-growth-ux-crypto-com/96178) |
