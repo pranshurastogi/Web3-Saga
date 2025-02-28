@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Marketing Lead | Flow Foundation | 3h | N/A | $111k - $189k | lead, marketing lead, marketing, non tech, remote | [Apply](https://web3.career/marketing-lead-flowfoundation/97085) |
-| Content Marketing Manager | Wormholefoundation | 1d | Remote | $39k - $45k | content marketing, marketing manager, marketing, non tech, blockchain | [Apply](https://web3.career/content-marketing-manager-wormholefoundation/96945) |
-| Product Marketing Manager PlayerZero | Readyplayerme | 1d | Remote | $54k - $100k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-for-playerzero-readyplayerme/92180) |
-| B2C Permance Marketing Manager Organic Channels | Rampnetwork | 1d | Remote | $140k - $150k | c, c plus plus, marketing manager, marketing, non tech | [Apply](https://web3.career/b2c-performance-marketing-manager-organic-channels-rampnetwork/95812) |
+| Chief Marketing Officer Web3 | Forestown | 35m | , | $21k - $72k | cmo, executive, marketing, non tech | [Apply](https://web3.career/chief-marketing-officer-web3-forestown/97199) |
+| Content Manager | Vodworks | 36m | UA | $36k - $65k | marketing, non tech, copywriting, blockchain | [Apply](https://web3.career/content-manager-vodworks/97194) |
+| Head of Marketing | Pylons | 37m | N/A | $90k - $150k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-pylons/97185) |
+| B2B B2C Marketing Expert | EtherMail | 39m | , | $105k - $168k | c, c plus plus, marketing, non tech, blockchain | [Apply](https://web3.career/b2b-b2c-marketing-expert-ethermail/97180) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| B2B Product Marketing Manager | Rampnetwork | 1d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/b2b-product-marketing-manager-rampnetwork/95811) |
-| Marketing Manager Regional Growth EU | Kraken | 1d | European Union | $85k - $99k | growth, marketing manager, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-manager-regional-growth-eu-kraken/96916) |
-| Marketing Coordinator Vietnamese Speaking | Easygo | 1d | Remote | $85k - $111k | marketing, non tech, crypto, gaming, remote | [Apply](https://web3.career/marketing-coordinator-vietnamese-speaking-easygo/96864) |
-| Marketing Coordinator Russian Speaking | Easygo | 1d | Remote | $85k - $111k | marketing, non tech, crypto, gaming, remote | [Apply](https://web3.career/marketing-coordinator-russian-speaking-easygo/96863) |
-| Marketing Coordinator | Easygo | 1d | , | $81k - $111k | marketing, non tech, gaming, crypto | [Apply](https://web3.career/marketing-coordinator-easygo/84837) |
+| Marketing Manager | Synthetix | 40m | N/A | $84k - $115k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-snx/97166) |
+| Marketing Manager – Lead Generation Brand Expansion | MillionMiner | 42m | , |  | marketing manager, brand, lead, marketing, non tech | [Apply](https://web3.career/marketing-manager-lead-generation-brand-expansion-millionminer/94523) |
+| Events Marketing Lead | Ondo Finance | 4h | N/A | $98k - $108k | events manager, non tech, lead, marketing lead, marketing | [Apply](https://web3.career/events-marketing-lead-ondofinance/97140) |
+| Marketing Lead | Flow Foundation | 1d | N/A | $111k - $189k | lead, marketing lead, marketing, non tech, remote | [Apply](https://web3.career/marketing-lead-flowfoundation/97085) |
+| Content Marketing Manager | Wormholefoundation | 2d | Remote | $39k - $45k | content marketing, marketing manager, marketing, non tech, blockchain | [Apply](https://web3.career/content-marketing-manager-wormholefoundation/96945) |
