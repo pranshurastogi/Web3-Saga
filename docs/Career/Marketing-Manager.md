@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Crypto Business Development Manager KOL | OSL | 2d | , | $98k - $108k | business development, sales, non tech, influencer marketing, social media | [Apply](https://web3.career/crypto-business-development-manager-kol-osl/97410) |
-| Director of Growth Marketing | AION | 3d | , | $84k - $90k | growth, executive, marketing, non tech, blockchain | [Apply](https://web3.career/director-of-growth-marketing-aion/97341) |
-| Client Relationship Manager Unlimit Accounts | Unlimit | 3d | , | $54k - $90k | marketing, non tech, crypto, defi | [Apply](https://web3.career/client-relationship-manager-unlimit-accounts-unlimit/97331) |
-| Sr. Customer Marketing Manager | Keyfactor | 3d | N/A |  | marketing manager, marketing, non tech, senior, remote | [Apply](https://web3.career/sr-customer-marketing-manager-keyfactor/97312) |
+| Retention Specialist I Policygenius | Zinnia | 6h | Remote | $105k - $110k | marketing, non tech, product manager, remote | [Apply](https://web3.career/retention-specialist-i-policygenius-zinnia/97588) |
+| Head of Marketing | Village Labs | 6h | , | $160k - $220k | head of marketing, marketing, non tech, executive | [Apply](https://web3.career/head-of-marketing-villagelabs/97576) |
+| B2C Permance Marketing Manager Organic Channels | Rampnetwork | 6h | Remote | $140k - $150k | c, c plus plus, marketing manager, marketing, non tech | [Apply](https://web3.career/b2c-performance-marketing-manager-organic-channels-rampnetwork/95812) |
+| B2B Product Marketing Manager | Rampnetwork | 6h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/b2b-product-marketing-manager-rampnetwork/95811) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| HubSpot Expert Digital Marketing Specialist | Count On Sheep | 4d | , | $70k - $80k | digital marketing, marketing specialist, marketing, non tech, crypto | [Apply](https://web3.career/hubspot-expert-digital-marketing-specialist-countonsheep/97215) |
-| Chief Marketing Officer Web3 | Forestown | 4d | , | $21k - $72k | cmo, executive, marketing, non tech | [Apply](https://web3.career/chief-marketing-officer-web3-forestown/97199) |
-| Content Manager | Vodworks | 4d | UA | $36k - $65k | marketing, non tech, copywriting, blockchain | [Apply](https://web3.career/content-manager-vodworks/97194) |
-| Head of Marketing | Pylons | 4d | N/A | $90k - $150k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-pylons/97185) |
-| B2B B2C Marketing Expert | EtherMail | 4d | , | $105k - $168k | c, c plus plus, marketing, non tech, blockchain | [Apply](https://web3.career/b2b-b2c-marketing-expert-ethermail/97180) |
+| Field Marketing Manager Contractor | Figure | 6h | Remote | $100k - $115k | marketing manager, contractor, marketing, non tech, remote | [Apply](https://web3.career/field-marketing-manager-contractor-figure/97527) |
+| Marketing Coordinator | Easygo | 6h | , | $81k - $111k | marketing, non tech, gaming, crypto | [Apply](https://web3.career/marketing-coordinator-easygo/84837) |
+| Specialist Affiliate Accounts France | Bitpanda | 7h | Remote | $84k - $113k | affiliate, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/specialist-affiliate-accounts-france-bitpanda/89760) |
+| Manager KOL Influencer Marketing | Bitpanda | 7h | Remote | $96k - $117k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/manager-kol-influencer-marketing-bitpanda/97511) |
+| Growth Intern | Polymarket | 8h | N/A |  | growth, intern, entry level, ai, blockchain | [Apply](https://web3.career/growth-intern-polymarket/76782) |
