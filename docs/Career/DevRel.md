@@ -5,9 +5,9 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Network Infrastructure | Aztec | 1d | N/A | $45k - $62k | developer relations, infrastructure, dev, remote, aws | [Apply](https://web3.career/developer-relations-network-infrastructure-aztec/84179) |
-| Developer Relations | Textileio | 22d | Remote | $91k - $100k | developer relations, dev, typescript, remote | [Apply](https://web3.career/developer-relations-textileio/96446) |
-| Head of Developer Relations Engineering | Aptoslabs | 29d | Remote | $112k - $180k | developer relations, executive, dev, blockchain, remote | [Apply](https://web3.career/head-of-developer-relations-engineering-aptoslabs/95684) |
+| Developer Relations Network Infrastructure | Aztec | 2d | N/A | $45k - $62k | developer relations, infrastructure, dev, remote, aws | [Apply](https://web3.career/developer-relations-network-infrastructure-aztec/84179) |
+| Developer Relations | Textileio | 23d | Remote | $91k - $100k | developer relations, dev, typescript, remote | [Apply](https://web3.career/developer-relations-textileio/96446) |
+| Head of Developer Relations Engineering | Aptoslabs | 1mo | Remote | $112k - $180k | developer relations, executive, dev, blockchain, remote | [Apply](https://web3.career/head-of-developer-relations-engineering-aptoslabs/95684) |
 | Developer Relations Lead Agave | Anza | 1mo | N/A | $140k - $180k | developer relations, dev, lead, blockchain, discord | [Apply](https://web3.career/developer-relations-lead-agave-anza/95471) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Principal Developer Relations Engineer Venture Studio | Moonsong Labs | 1mo | , | $76k - $90k | developer relations, vc, dev, engineer, executive | [Apply](https://web3.career/principal-developer-relations-engineer-venture-studio-moonsong-labs/95361) |
