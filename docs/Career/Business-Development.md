@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Science Business Development | molecule.xyz | 6h | , | $77k - $105k | business development, sales, non tech, blockchain, erc 20 | [Apply](https://web3.career/science-business-development-molecule-xyz/98366) |
-| Buniness Development Manager | Gravity Team | 11h | N/A | $60k - $200k | business development, crypto, remote, tokenization | [Apply](https://web3.career/buniness-development-manager-gravity-team/98320) |
-| Key Account Manager Web3 Rollups | Gelato Network | 12h | N/A |  | account manager, sales, non tech, business development, customer support | [Apply](https://web3.career/key-account-manager-web3-rollups-gelato-network/98319) |
-| Senior BD DeFi Specialist | Windranger Labs | 22h | , | $88k - $115k | business development, senior, blockchain, crypto, defi | [Apply](https://web3.career/senior-bd-defi-specialist-windrangerlabs/98299) |
+| Business Development Manager | Busha | 42m | , | $91k - $145k | business development, sales, non tech, bitcoin, crypto | [Apply](https://web3.career/business-development-manager-busha/98538) |
+| Business Development Manager | FinchTrade | 9h | N/A | $30k - $90k | business development, sales, non tech, account manager, remote | [Apply](https://web3.career/business-development-manager-finchtrade/98516) |
+| Science Business Development | Molecule | 16h | , | $72k - $90k | business development, sales, non tech, blockchain, erc 20 | [Apply](https://web3.career/science-business-development-molecule/98508) |
+| Science Business Development | molecule.xyz | 1d | , | $77k - $105k | business development, sales, non tech, blockchain, erc 20 | [Apply](https://web3.career/science-business-development-molecule-xyz/98366) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Head of Payments Business Development | Stellar | 2d | Remote | $255k - $385k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-payments-business-development-stellar/97571) |
-| Head of Business Development | Noble | 2d | Remote | $72k - $110k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-business-development-noble/98131) |
-| Senior Business Development Web3 Security | Nethermind | 2d | Remote | $126k - $138k | business development, sales, non tech, security, senior | [Apply](https://web3.career/senior-business-development-web3-security-nethermind/95798) |
-| Senior Business Development Executive APAC | Nethermind | 2d | Remote | $88k - $120k | business development, sales, non tech, executive, senior | [Apply](https://web3.career/senior-business-development-executive-apac-nethermind/98130) |
-| Business Development OffCycle Internship | Gsrmarkets | 2d | Remote | $45k - $77k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/business-development-off-cycle-internship-gsrmarkets/87814) |
+| Buniness Development Manager | Gravity Team | 1d | N/A | $60k - $200k | business development, crypto, remote, tokenization | [Apply](https://web3.career/buniness-development-manager-gravity-team/98320) |
+| Key Account Manager Web3 Rollups | Gelato Network | 1d | N/A |  | account manager, sales, non tech, business development, customer support | [Apply](https://web3.career/key-account-manager-web3-rollups-gelato-network/98319) |
+| Senior BD DeFi Specialist | Windranger Labs | 2d | , | $88k - $115k | business development, senior, blockchain, crypto, defi | [Apply](https://web3.career/senior-bd-defi-specialist-windrangerlabs/98299) |
+| Head of Payments Business Development | Stellar | 3d | Remote | $255k - $385k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-payments-business-development-stellar/97571) |
+| Head of Business Development | Noble | 3d | Remote | $72k - $110k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-business-development-noble/98131) |
