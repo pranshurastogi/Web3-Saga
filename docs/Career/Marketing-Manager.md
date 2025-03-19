@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Growth Marketing Manager Crypto Data AI | 21.co Technologies | 4h | , | $140k - $160k | growth marketing, growth, marketing manager, ai, marketing | [Apply](https://web3.career/growth-marketing-manager-crypto-data-ai-21-co-technologies/98693) |
-| VIP Institutional Marketing Lead | Binance | 21h | , |  | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/vip-institutional-marketing-lead-binance/98665) |
-| Web3 Social Media Content Manager Remote | Phoenix Growth | 3d | N/A |  | remote, marketing, non tech, copywriting, social media | [Apply](https://web3.career/web3-social-media-content-manager-remote-phoenix-growth/67094) |
-| Relationship Manager | Mudrex Inc. | 3d | , | $32k - $58k | marketing, non tech, crypto | [Apply](https://web3.career/relationship-manager-mudrexinc/98553) |
+| Lead Product Marketing Manager | Polygon Labs | 6h | N/A | $45k - $52k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-polygonlabs/98789) |
+| Marketing Manager | Gr8tech | 6h | Remote |  | marketing manager, marketing, non tech, gaming, remote | [Apply](https://web3.career/marketing-manager-gr8tech/98777) |
+| Director Events Marketing | Chainlink Labs | 6h | , | $16k - $120k | events manager, non tech, executive, marketing, blockchain | [Apply](https://web3.career/director-events-marketing-chainlinklabs/98775) |
+| Junior Casino Content Specialist | Gr8tech | 6h | Remote | $22k - $54k | casino, marketing, non tech, copywriting, junior | [Apply](https://web3.career/junior-casino-content-specialist-gr8tech/98124) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Binance Accelerator Program Marketing Community Operations | Binance | 4d | , |  | community manager, non tech, marketing, operations, blockchain | [Apply](https://web3.career/binance-accelerator-program-marketing-community-operations-binance/98475) |
-| Email Marketing Specialist PT Contractor | Novalabs | 4d | Remote |  | email marketing, marketing specialist, contractor, marketing, non tech | [Apply](https://web3.career/email-marketing-specialist-pt-contractor-novalabs/98383) |
-| Marketing Operations Project Coordinator | Aptoslabs | 4d | Remote | $120k - $150k | marketing, non tech, operations, blockchain, remote | [Apply](https://web3.career/marketing-operations-project-coordinator-aptoslabs/98343) |
-| Retention Specialist I Policygenius | Zinnia | 6d | Remote | $105k - $110k | marketing, non tech, product manager, remote | [Apply](https://web3.career/retention-specialist-i-policygenius-zinnia/97588) |
-| B2C Permance Marketing Manager Organic Channels | Rampnetwork | 6d | Remote | $140k - $150k | c, c plus plus, marketing manager, marketing, non tech | [Apply](https://web3.career/b2c-performance-marketing-manager-organic-channels-rampnetwork/95812) |
+| Senior Marketing Manager – Brand Growth | Blockstream | 6h | Remote | $106k - $109k | growth, marketing manager, brand, marketing, non tech | [Apply](https://web3.career/senior-marketing-manager-brand-growth-blockstream/98755) |
+| Manager KOL Influencer Marketing | Bitpanda | 6h | Remote | $96k - $117k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/manager-kol-influencer-marketing-bitpanda/97511) |
+| Product Marketing Manager | Aptoslabs | 7h | Remote | $125k - $176k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-aptoslabs/98750) |
+| Ecosystem Content Marketing Manager US | Aptoslabs | 7h | Remote | $120k - $165k | content marketing, marketing manager, marketing, non tech, blockchain | [Apply](https://web3.career/ecosystem-content-marketing-manager-us-aptoslabs/98748) |
+| Ecosystem Content Marketing Manager Greater China | Aptoslabs | 7h | Remote | $39k - $45k | china, content marketing, marketing manager, marketing, non tech | [Apply](https://web3.career/ecosystem-content-marketing-manager-greater-china-aptoslabs/98747) |

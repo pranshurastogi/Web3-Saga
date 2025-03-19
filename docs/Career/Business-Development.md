@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Crypto Business Development Specialist Remote | Token Metrics | 7h | , | $68k - $90k | business development, sales, non tech, remote, crypto | [Apply](https://web3.career/crypto-business-development-specialist-remote-tokenmetrics/98687) |
-| Business Development Manager | Busha | 3d | , | $91k - $145k | business development, sales, non tech, bitcoin, crypto | [Apply](https://web3.career/business-development-manager-busha/98538) |
-| Business Development Manager | FinchTrade | 3d | N/A | $30k - $90k | business development, sales, non tech, account manager, remote | [Apply](https://web3.career/business-development-manager-finchtrade/98516) |
-| Science Business Development | Molecule | 4d | , | $72k - $90k | business development, sales, non tech, blockchain, erc 20 | [Apply](https://web3.career/science-business-development-molecule/98508) |
+| Head of Payments Business Development | Stellar | 6h | Remote | $255k - $385k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-payments-business-development-stellar/97571) |
+| Senior Business Development Web3 Security | Nethermind | 6h | Remote | $126k - $138k | business development, sales, non tech, security, senior | [Apply](https://web3.career/senior-business-development-web3-security-nethermind/95798) |
+| Senior Business Development Executive APAC | Nethermind | 6h | Remote | $88k - $120k | business development, sales, non tech, executive, senior | [Apply](https://web3.career/senior-business-development-executive-apac-nethermind/98130) |
+| Business Development Operations Manager | Nexus | 6h | , | $54k - $88k | business development, sales, non tech, operations, blockchain | [Apply](https://web3.career/business-development-operations-manager-nexus/98785) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Science Business Development | molecule.xyz | 4d | , | $77k - $105k | business development, sales, non tech, blockchain, erc 20 | [Apply](https://web3.career/science-business-development-molecule-xyz/98366) |
-| Buniness Development Manager | Gravity Team | 4d | N/A | $60k - $200k | business development, crypto, remote, tokenization | [Apply](https://web3.career/buniness-development-manager-gravity-team/98320) |
-| Key Account Manager Web3 Rollups | Gelato Network | 4d | N/A |  | account manager, sales, non tech, business development, customer support | [Apply](https://web3.career/key-account-manager-web3-rollups-gelato-network/98319) |
-| Senior BD DeFi Specialist | Windranger Labs | 5d | , | $88k - $115k | business development, senior, blockchain, crypto, defi | [Apply](https://web3.career/senior-bd-defi-specialist-windrangerlabs/98299) |
-| Head of Payments Business Development | Stellar | 6d | Remote | $255k - $385k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-payments-business-development-stellar/97571) |
+| Business Development Analyst | Gsrmarkets | 6h | Remote | $100k - $150k | business development, sales, non tech, analyst, crypto | [Apply](https://web3.career/business-development-analyst-gsrmarkets/95741) |
+| Business Development | Gsrmarkets | 6h | Remote | $130k - $200k | business development, sales, non tech, crypto, remote | [Apply](https://web3.career/business-development-gsrmarkets/95740) |
+| Business Development Representative Singapore | Figment | 6h | , | $33k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-representative-singapore-figment/96606) |
+| Business Development Manager German | Bitpanda | 6h | Remote | $22k - $54k | business development, sales, non tech, crypto, gaming | [Apply](https://web3.career/business-development-manager-german-bitpanda/98086) |
+| Business Development Associate | Aztec | 7h | Remote | $81k - $95k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-associate-aztec/97708) |
