@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Marketing Manager | Dcentralab | 22h | Remote | $39k - $45k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-dcentralab/98860) |
-| Lead Product Marketing Manager | Polygon Labs | 1d | N/A | $45k - $52k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-polygonlabs/98789) |
-| Marketing Manager | Gr8tech | 1d | Remote |  | marketing manager, marketing, non tech, gaming, remote | [Apply](https://web3.career/marketing-manager-gr8tech/98777) |
-| Director Events Marketing | Chainlink Labs | 1d | , | $16k - $120k | events manager, non tech, executive, marketing, blockchain | [Apply](https://web3.career/director-events-marketing-chainlinklabs/98775) |
+| CRM Marketing Manager | Zinnia | 5h | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
+| Senior Marketing Graphic Designer | Mythicalgames | 5h | Remote | $146k - $201k | graphic designer, design, non tech, marketing, senior | [Apply](https://web3.career/senior-marketing-graphic-designer-mythicalgames/98966) |
+| Marketing Lead | Ether.fi | 6h | , | $45k - $52k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-lead-ether-fi/98958) |
+| Senior SEO Content Manager | Okx | 7h | Remote | $91k - $118k | marketing, non tech, copywriting, senior, seo | [Apply](https://web3.career/senior-seo-content-manager-okx/98937) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Junior Casino Content Specialist | Gr8tech | 1d | Remote | $22k - $54k | casino, marketing, non tech, copywriting, junior | [Apply](https://web3.career/junior-casino-content-specialist-gr8tech/98124) |
-| Senior Marketing Manager – Brand Growth | Blockstream | 1d | Remote | $106k - $109k | growth, marketing manager, brand, marketing, non tech | [Apply](https://web3.career/senior-marketing-manager-brand-growth-blockstream/98755) |
-| Manager KOL Influencer Marketing | Bitpanda | 1d | Remote | $96k - $117k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/manager-kol-influencer-marketing-bitpanda/97511) |
-| Product Marketing Manager | Aptoslabs | 1d | Remote | $125k - $176k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-aptoslabs/98750) |
-| Ecosystem Content Marketing Manager US | Aptoslabs | 1d | Remote | $120k - $165k | content marketing, marketing manager, marketing, non tech, blockchain | [Apply](https://web3.career/ecosystem-content-marketing-manager-us-aptoslabs/98748) |
+| KOL Manager Web3 Crypto Project | DHY | Diamond Hands Yield | 10h | N/A | $10k - $16k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/kol-manager-for-web3-crypto-project-dhy-diamond-hands-yield/98932) |
+| Marketing Strategy Operations Manager | Arbitrum Foundation | 13h | , | $72k - $97k | strategy, non tech, marketing, operations, blockchain | [Apply](https://web3.career/marketing-strategy-operations-manager-arbitrumfoundation/98931) |
+| Growth Hacker | Enflux | 15h | N/A |  | growth hacker, growth, business development, crypto, digital marketing | [Apply](https://web3.career/growth-hacker-enflux/98928) |
+| Paid Ads Marketing Manager | Decentralized Masters | 20h | , | $39k - $45k | marketing manager, ads, marketing, non tech, blockchain | [Apply](https://web3.career/paid-ads-marketing-manager-decentralizedmasters/98918) |
+| Affiliate Manager | Decentralized Masters | 20h | , | $39k - $45k | affiliate, marketing, non tech, blockchain, defi | [Apply](https://web3.career/affiliate-manager-decentralizedmasters/98916) |
