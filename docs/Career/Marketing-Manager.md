@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Communications Manager Crypto Consumer Products | Coinbase | 20h | N/A | $170k - $200k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/communications-manager-crypto-consumer-products-coinbase/99100) |
-| Marketing Associate | Loopscale | 1d | , | $80k - $120k | marketing, non tech, crypto, defi, solana | [Apply](https://web3.career/marketing-associate-loopscale/99054) |
-| Influencer Manager Crypto | Kinetic Investments | 3d | Remote | $39k - $45k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/influencer-manager-crypto-kineticinvestments/99029) |
-| CRM Marketing Manager | Zinnia | 4d | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
+| Head of Marketing Mantle Network | Windranger Labs | 6h | , | $84k - $162k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-mantle-network-windrangerlabs/99277) |
+| Marketing Manager | Gr8tech | 6h | Remote |  | marketing manager, marketing, non tech, gaming, remote | [Apply](https://web3.career/marketing-manager-gr8tech/98777) |
+| Senior Consultant Retention | Flaunt | 6h | Remote | $110k - $165k | marketing, non tech, product manager, consulting, senior | [Apply](https://web3.career/senior-consultant-retention-flaunt/99247) |
+| Manager KOL Influencer Marketing | Bitpanda | 6h | Remote | $96k - $117k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/manager-kol-influencer-marketing-bitpanda/97511) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Senior Marketing Graphic Designer | Mythicalgames | 4d | Remote | $146k - $201k | graphic designer, design, non tech, marketing, senior | [Apply](https://web3.career/senior-marketing-graphic-designer-mythicalgames/98966) |
-| Marketing Lead | Ether.fi | 4d | , | $45k - $52k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-lead-ether-fi/98958) |
-| Senior SEO Content Manager | Okx | 4d | Remote | $91k - $118k | marketing, non tech, copywriting, senior, seo | [Apply](https://web3.career/senior-seo-content-manager-okx/98937) |
-| KOL Manager Web3 Crypto Project | DHY | Diamond Hands Yield | 4d | N/A | $10k - $16k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/kol-manager-for-web3-crypto-project-dhy-diamond-hands-yield/98932) |
-| Marketing Strategy Operations Manager | Arbitrum Foundation | 5d | , | $72k - $97k | strategy, non tech, marketing, operations, blockchain | [Apply](https://web3.career/marketing-strategy-operations-manager-arbitrumfoundation/98931) |
+| Director of Marketing | Bitcoindepot | 6h | Remote | $122k - $163k | cmo, executive, marketing, non tech, bitcoin | [Apply](https://web3.career/director-of-marketing-bitcoindepot/99225) |
+| Marketing Press Intern | Alliedglobalmarketing | 6h | Remote | $21k - $60k | intern, entry level, marketing, non tech, remote | [Apply](https://web3.career/marketing-press-intern-alliedglobalmarketing/99223) |
+| Multicultural Marketing Intern | Alliedglobalmarketing | 6h | Remote | $21k - $60k | intern, entry level, marketing, non tech, remote | [Apply](https://web3.career/multicultural-marketing-intern-alliedglobalmarketing/99221) |
+| Influencer Marketing Manager | Alliedglobalmarketing | 6h | Remote | $36k - $65k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/influencer-marketing-manager-alliedglobalmarketing/99220) |
+| Field Influencer Marketing Associate | Alliedglobalmarketing | 7h | Remote | $36k - $65k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/field-influencer-marketing-associate-alliedglobalmarketing/99214) |
