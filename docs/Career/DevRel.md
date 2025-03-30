@@ -5,8 +5,8 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Head of Developer Relations | DoubleZero | 3d | Remote | $122k - $150k | developer relations, executive, dev, blockchain, crypto | [Apply](https://web3.career/head-of-developer-relations-doublezero/99253) |
-| Developer Relations Network Infrastructure | Aztec | 3d | N/A | $45k - $62k | developer relations, infrastructure, dev, remote, aws | [Apply](https://web3.career/developer-relations-network-infrastructure-aztec/84179) |
+| Head of Developer Relations | DoubleZero | 4d | Remote | $122k - $150k | developer relations, executive, dev, blockchain, crypto | [Apply](https://web3.career/head-of-developer-relations-doublezero/99253) |
+| Developer Relations Network Infrastructure | Aztec | 4d | N/A | $45k - $62k | developer relations, infrastructure, dev, remote, aws | [Apply](https://web3.career/developer-relations-network-infrastructure-aztec/84179) |
 | Developer Relations | Textileio | 1mo | Remote | $91k - $100k | developer relations, dev, typescript, remote | [Apply](https://web3.career/developer-relations-textileio/96446) |
 | Head of Developer Relations Engineering | Aptoslabs | 2mo | Remote | $112k - $180k | developer relations, executive, dev, blockchain, remote | [Apply](https://web3.career/head-of-developer-relations-engineering-aptoslabs/95684) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
