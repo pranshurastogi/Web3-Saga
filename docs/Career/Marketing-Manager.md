@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Fulltime MeMe Branding and Growth Marketing Lead Remote | Nomad Capital | 10h | N/A | $50k - $100k | growth marketing, growth, remote, ads, full time | [Apply](https://web3.career/full-time-meme-branding-and-growth-marketing-lead-remote-nomad-capital/96615) |
-| Binance Accelerator Program Marketing Sweden | Binance | 19h | , |  | marketing, non tech, blockchain, crypto | [Apply](https://web3.career/binance-accelerator-program-marketing-sweden-binance/99892) |
-| Permance Marketing Customer Acquisition Manager 100% remote Dubai | Tether | 1d | , | $94k - $113k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-dubai-tether/99862) |
-| Permance Marketing Customer Acquisition Manager 100% remote Brazil | Tether | 1d | , | $94k - $113k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-brazil-tether/99861) |
+| Product Marketing Manager | Nearfoundation | 5h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Senior Product Designer User Acquisition and Websites | Bitpanda | 6h | Remote | $98k - $112k | product designer, design, non tech, senior, user acquisition | [Apply](https://web3.career/senior-product-designer-user-acquisition-and-websites-bitpanda/100175) |
+| DeFi Growth Marketing Manager | Polygon Labs | 6h | N/A | $72k - $87k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/defi-growth-marketing-manager-polygonlabs/100165) |
+| Head of Product Marketing Kraken Pro | Kraken | 6h | N/A | $105k - $157k | executive, marketing, non tech, product manager, product marketing | [Apply](https://web3.career/head-of-product-marketing-kraken-pro-kraken/100152) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Permance Marketing Customer Acquisition Manager 100% remote El Salvador | Tether | 1d | , | $94k - $113k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-el-salvador-tether/99857) |
-| Permance Marketing Customer Acquisition Manager 100% remote Argentina | Tether | 1d | , | $94k - $113k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-argentina-tether/99856) |
-| Permance Marketing Customer Acquisition Manager 100% remote UK | Tether | 1d | , | $94k - $113k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-uk-tether/99855) |
-| Permance Marketing Customer Acquisition Manager 100% remote Poland | Tether | 1d | , | $94k - $113k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-poland-tether/99854) |
-| Permance Marketing Customer Acquisition Manager 100% remote Madrid | Tether | 1d | , | $94k - $113k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-madrid-tether/99853) |
+| Logos Campaign Director | Iftother | 6h | Remote | $32k - $90k | marketing, non tech, executive, crypto, remote | [Apply](https://web3.career/logos-campaign-director-iftother/100146) |
+| Logos Campaign Director | Logos | 6h | Remote | $32k - $90k | marketing, non tech, executive, crypto, remote | [Apply](https://web3.career/logos-campaign-director-logos/100142) |
+| Product Marketing Director | Sfox | 6h | Remote | $160k - $210k | executive, cmo, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-director-sfox/100130) |
+| Marketing Manager | Kronosresearch | 6h | Remote | $21k - $54k | marketing manager, marketing, non tech, crypto, remote | [Apply](https://web3.career/marketing-manager-kronosresearch/100103) |
+| Marketing Campaign Manager | Dfinity | 7h | Remote | $84k - $150k | marketing, non tech, bitcoin, blockchain, crypto | [Apply](https://web3.career/marketing-campaign-manager-dfinity/100081) |
