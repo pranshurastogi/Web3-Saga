@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Partner Marketing Manager | Presto | 20h | APAC | $21k - $54k | marketing manager, marketing, non tech, crypto | [Apply](https://web3.career/partner-marketing-manager-presto/100368) |
-| Marketing Leader | Gemini | 1d | , | $105k - $148k | lead, marketing, non tech, bitcoin, crypto | [Apply](https://web3.career/marketing-leader-gemini/100365) |
-| Social Media Marketing Manager – Instagram Focus Remote | Rainfall | 1d | N/A | $36k - $65k | marketing manager, remote, social media, non tech, marketing | [Apply](https://web3.career/social-media-marketing-manager-instagram-focus-remote-rainfall/100344) |
-| Growth Marketing Lead | Allium | 2d | , | $45k - $64k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-allium/100334) |
+| CRM Marketing Manager | Zinnia | 5h | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
+| Director User Acquisition | Bitpanda | 6h | Remote | $122k - $165k | executive, user acquisition, marketing, non tech, crypto | [Apply](https://web3.career/director-user-acquisition-bitpanda/99415) |
+| Manager KOL Influencer Marketing | Bitpanda | 6h | Remote | $96k - $117k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/manager-kol-influencer-marketing-bitpanda/97511) |
+| Account Manager Partnership Marketing | Alliedglobalmarketing | 6h | Remote | $63k - $75k | account manager, sales, non tech, partnership, marketing | [Apply](https://web3.career/account-manager-partnership-marketing-alliedglobalmarketing/100450) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Product Marketing Manager | Allium | 2d | , | $130k - $160k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-allium/100333) |
-| Marketing Lead | Tensor | 3d | , | $120k - $210k | lead, marketing lead, marketing, non tech, crypto | [Apply](https://web3.career/marketing-lead-tensor/100300) |
-| Senior Director Product Marketing | Circle | 3d | N/A | $88k - $151k | executive, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-director-product-marketing-circle/100267) |
-| Graphic Designer – Marketing Communications Remote | Rainfall | 3d | N/A | $32k - $58k | pr, non tech, communications, graphic designer, remote | [Apply](https://web3.career/graphic-designer-marketing-communications-remote-rainfall/100255) |
-| Marketing Lead | Cere Network | 4d | , |  | lead, marketing lead, marketing, non tech, gaming | [Apply](https://web3.career/marketing-lead-cere-network/78887) |
+| Account Executive Partnership Marketing | Alliedglobalmarketing | 6h | Remote | $63k - $110k | account manager, sales, non tech, partnership, executive | [Apply](https://web3.career/account-executive-partnership-marketing-alliedglobalmarketing/100449) |
+| Account Director Partnership Marketing | Alliedglobalmarketing | 6h | Remote | $13k - $90k | sales, non tech, partnership, executive, marketing | [Apply](https://web3.career/account-director-partnership-marketing-alliedglobalmarketing/100448) |
+| Communications Manager | Alchemy | 6h | remote | $72k - $100k | marketing, non tech, remote | [Apply](https://web3.career/communications-manager-alchemy/40299) |
+| Ecosystem Marketing Manager | Woo | 6h | Remote | $54k - $90k | marketing manager, marketing, non tech, crypto, defi | [Apply](https://web3.career/ecosystem-marketing-manager-woo/100445) |
+| Permance Marketing Manager | Immunefi | 7h | Remote |  | marketing manager, marketing, non tech, remote | [Apply](https://web3.career/performance-marketing-manager-immunefi/62058) |
