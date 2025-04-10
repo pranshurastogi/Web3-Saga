@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| DeFi Growth Manager | Uniswapfoundation | 5h | Remote | $68k - $90k | growth, crypto, defi, remote | [Apply](https://web3.career/defi-growth-manager-uniswapfoundation/100496) |
-| Senior Growth Product Manager | Woo | 6h | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
-| Senior Backend Engineer Growth Visa Sponsorship and relocation to the UK offered | MoonPay | 15h | , | $81k - $96k | growth, backend, engineer, senior, aws | [Apply](https://web3.career/senior-backend-engineer-growth-visa-sponsorship-and-relocation-to-the-uk-offered-moonpay/100415) |
-| Growth Data Scientist Analyst | Crypto.com | 20h | N/A | $94k - $105k | growth, scientist, analyst, data science, crypto | [Apply](https://web3.career/growth-data-scientist-analyst-crypto-com/100407) |
+| Head of Customer Growth Americas | Immutable | 2h | AMER | $72k - $111k | growth, executive, blockchain, crypto, ethereum | [Apply](https://web3.career/head-of-customer-growth-americas-immutable/100597) |
+| Customer Growth Lead | Immutable | 2h | N/A | $90k - $118k | growth, lead, blockchain, crypto, ethereum | [Apply](https://web3.career/customer-growth-lead-immutable/100596) |
+| Director Organic Growth Sports | Crypto.com | 21h | , | $98k - $149k | growth, executive | [Apply](https://web3.career/director-organic-growth-sports-crypto-com/100551) |
+| Director Organic Growth Crypto | Crypto.com | 21h | , | $98k - $180k | growth, executive, crypto | [Apply](https://web3.career/director-organic-growth-crypto-crypto-com/100550) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Growth Marketing Lead | Allium | 3d | , | $45k - $64k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-allium/100334) |
-| DeFi Growth Marketing Manager | Polygon Labs | 5d | N/A | $72k - $87k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/defi-growth-marketing-manager-polygonlabs/100165) |
-| Growth Marketing Lead | Dfinity | 5d | Remote | $125k - $175k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-dfinity/100080) |
-| Growth Managers Community Managers in the Nordics | OKX | 6d | N/A |  | growth, community manager, non tech, social media, remote | [Apply](https://web3.career/growth-managers-community-managers-in-the-nordics-okx/99982) |
-| Fulltime MeMe Branding and Growth Marketing Lead Remote | Nomad Capital | 6d | N/A | $50k - $100k | growth marketing, growth, remote, ads, full time | [Apply](https://web3.career/full-time-meme-branding-and-growth-marketing-lead-remote-nomad-capital/96615) |
+| Spot Institutional Growth | Binance | 24h | Asia |  | growth, blockchain, crypto | [Apply](https://web3.career/spot-institutional-growth-binance/100544) |
+| DeFi Growth Manager | Uniswapfoundation | 1d | Remote | $68k - $90k | growth, crypto, defi, remote | [Apply](https://web3.career/defi-growth-manager-uniswapfoundation/100496) |
+| Senior Growth Product Manager | Woo | 1d | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
+| Senior Backend Engineer Growth Visa Sponsorship and relocation to the UK offered | MoonPay | 1d | , | $81k - $96k | growth, backend, engineer, senior, aws | [Apply](https://web3.career/senior-backend-engineer-growth-visa-sponsorship-and-relocation-to-the-uk-offered-moonpay/100415) |
+| Growth Data Scientist Analyst | Crypto.com | 2d | N/A | $94k - $105k | growth, scientist, analyst, data science, crypto | [Apply](https://web3.career/growth-data-scientist-analyst-crypto-com/100407) |
