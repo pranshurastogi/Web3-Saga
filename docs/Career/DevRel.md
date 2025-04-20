@@ -5,13 +5,13 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Blockchain Solutions Engineer Developer Relations | Crypto.com | 22h | , | $62k - $77k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/blockchain-solutions-engineer-developer-relations-crypto-com/101226) |
-| Senior Developer Relations Engineer Walrus Remote EU | Sui Foundation | 10d | European Union | $36k - $54k | developer relations, remote, dev, engineer, senior | [Apply](https://web3.career/senior-developer-relations-engineer-walrus-remote-eu-suifoundation/100480) |
-| Senior Developer Relations Engineer Walrus Remote APAC | Sui Foundation | 10d | N/A | $36k - $54k | developer relations, remote, dev, engineer, senior | [Apply](https://web3.career/senior-developer-relations-engineer-walrus-remote-apac-suifoundation/100479) |
-| Developer Relations Network Infrastructure | Aztec | 10d | N/A | $45k - $62k | developer relations, infrastructure, dev, remote, aws | [Apply](https://web3.career/developer-relations-network-infrastructure-aztec/84179) |
+| Blockchain Solutions Engineer Developer Relations | Crypto.com | 2d | , | $62k - $77k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/blockchain-solutions-engineer-developer-relations-crypto-com/101226) |
+| Senior Developer Relations Engineer Walrus Remote EU | Sui Foundation | 11d | European Union | $36k - $54k | developer relations, remote, dev, engineer, senior | [Apply](https://web3.career/senior-developer-relations-engineer-walrus-remote-eu-suifoundation/100480) |
+| Senior Developer Relations Engineer Walrus Remote APAC | Sui Foundation | 11d | N/A | $36k - $54k | developer relations, remote, dev, engineer, senior | [Apply](https://web3.career/senior-developer-relations-engineer-walrus-remote-apac-suifoundation/100479) |
+| Developer Relations Network Infrastructure | Aztec | 11d | N/A | $45k - $62k | developer relations, infrastructure, dev, remote, aws | [Apply](https://web3.career/developer-relations-network-infrastructure-aztec/84179) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Ecosystem Development Manager | Web3 Recruit | 14d | N/A | $80k - $110k | community manager, crypto, developer advocate, developer relations, marketing communication | [Apply](https://web3.career/ecosystem-development-manager-web3-recruit/100245) |
-| Developer Relations Engineer | Dfinity | 15d | Remote | $150k - $235k | developer relations, dev, engineer, bitcoin, blockchain | [Apply](https://web3.career/developer-relations-engineer-dfinity/100077) |
-| Head of Developer Relations | DoubleZero | 24d | Remote | $122k - $150k | developer relations, executive, dev, blockchain, crypto | [Apply](https://web3.career/head-of-developer-relations-doublezero/99253) |
+| Ecosystem Development Manager | Web3 Recruit | 15d | N/A | $80k - $110k | community manager, crypto, developer advocate, developer relations, marketing communication | [Apply](https://web3.career/ecosystem-development-manager-web3-recruit/100245) |
+| Developer Relations Engineer | Dfinity | 16d | Remote | $150k - $235k | developer relations, dev, engineer, bitcoin, blockchain | [Apply](https://web3.career/developer-relations-engineer-dfinity/100077) |
+| Head of Developer Relations | DoubleZero | 25d | Remote | $122k - $150k | developer relations, executive, dev, blockchain, crypto | [Apply](https://web3.career/head-of-developer-relations-doublezero/99253) |
 | Developer Relations | Textileio | 2mo | Remote | $91k - $100k | developer relations, dev, typescript, remote | [Apply](https://web3.career/developer-relations-textileio/96446) |
 | Head of Developer Relations Engineering | Aptoslabs | 2mo | Remote | $112k - $180k | developer relations, executive, dev, blockchain, remote | [Apply](https://web3.career/head-of-developer-relations-engineering-aptoslabs/95684) |
