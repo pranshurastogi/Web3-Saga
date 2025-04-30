@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Relationship Manager | Unlimit | 21h | , | $54k - $90k | marketing, non tech, crypto, defi | [Apply](https://web3.career/relationship-manager-unlimit/101744) |
-| Influencer Manager Crypto | Blockovate | 22h | Remote | $39k - $45k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/influencer-manager-crypto-blockovate/101741) |
-| Digital Marketing Assistant | Applied Blockchain | 3d | , | $90k - $105k | digital marketing, virtual assistant, marketing, non tech, blockchain | [Apply](https://web3.career/digital-marketing-assistant-appliedblockchain/101704) |
-| Sales Manager Affiliate Partner Fintech Banking WEB3 | Vbanq | 3d | Remote | $72k - $105k | affiliate, marketing, non tech, finance, fintech | [Apply](https://web3.career/sales-manager-affiliate-partner-fintech-banking-web3-vbanq/101703) |
+| Retention Specialist I Policygenius | Zinnia | 6h | Remote | $105k - $110k | marketing, non tech, product manager, remote | [Apply](https://web3.career/retention-specialist-i-policygenius-zinnia/97588) |
+| CRM Marketing Manager | Zinnia | 6h | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
+| Product Marketing Manager | Nearfoundation | 6h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Senior Product Marketing Manager | Exodus54 | 6h | Remote | $170k - $230k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-exodus54/101829) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Business Development Marketing Assistant Alternance 12 mois Septembre 2025 F H NB | ubisoft2 | 4d | , | $76k - $180k | business development, sales, non tech, virtual assistant, marketing | [Apply](https://web3.career/business-development-marketing-assistant-alternance-12-mois-septembre-2025-f-h-nb-ubisoft2/101657) |
-| Content Manager Shenzhenbased | Finoverse | 4d | , | $36k - $65k | marketing, non tech, copywriting | [Apply](https://web3.career/content-manager-shenzhen-based-finoverse/101651) |
-| Marketing Manager Shenzhenbased | Finoverse | 4d | , | $21k - $54k | marketing manager, marketing, non tech | [Apply](https://web3.career/marketing-manager-shenzhen-based-finoverse/101650) |
-| Corporate Relationship Manager EMEA Institutional Digital Assets | Keyrock | 4d | , | $72k - $90k | finance, non tech, marketing, crypto, defi | [Apply](https://web3.career/corporate-relationship-manager-emea-institutional-digital-assets-keyrock/101621) |
-| Growth Marketing Manager | Bloxstaking | 4d | Remote | $90k - $125k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-bloxstaking/101616) |
+| Director User Acquisition | Bitpanda | 6h | Remote | $122k - $165k | executive, user acquisition, marketing, non tech, crypto | [Apply](https://web3.career/director-user-acquisition-bitpanda/99415) |
+| Lead Marketing UK | Bitpanda | 6h | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
+| Marketing Intern Digital Earned Media | Alliedglobalmarketing | 6h | Remote | $32k - $60k | intern, entry level, marketing, non tech, remote | [Apply](https://web3.career/marketing-intern-digital-earned-media-alliedglobalmarketing/101812) |
+| Marketing Associate | Alliedglobalmarketing | 6h | Remote | $32k - $65k | marketing, non tech, remote | [Apply](https://web3.career/marketing-associate-alliedglobalmarketing/101810) |
+| Communications Manager | Alchemy | 6h | remote | $72k - $100k | marketing, non tech, remote | [Apply](https://web3.career/communications-manager-alchemy/40299) |
