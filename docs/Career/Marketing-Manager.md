@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Blockchain Content Specialist | XREX | 1h | , | $36k - $65k | marketing, non tech, copywriting, blockchain | [Apply](https://web3.career/blockchain-content-specialist-xrex/102766) |
-| Enterprise Liaison Relationship Manager Ethereum Ecosystem | Ethereum Foundation | 1d | N/A | $80k - $130k | marketing, non tech, ethereum, remote, blockchain | [Apply](https://web3.career/enterprise-liaison-relationship-manager-ethereum-ecosystem-ethereum-foundation/102618) |
-| Affiliate Manager – Social Media Crypto iGaming | Khan Tech | 2d | N/A | $90k - $112k | affiliate, marketing, non tech, social media, crypto | [Apply](https://web3.career/affiliate-manager-social-media-crypto-igaming-khantech/102595) |
-| Senior Product Marketing Manager | Coin Market Cap Ltd | 4d | , | $91k - $117k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-coinmarketcap/102521) |
+| Retention Specialist I Policygenius | Zinnia | 6h | Remote | $105k - $110k | marketing, non tech, product manager, remote | [Apply](https://web3.career/retention-specialist-i-policygenius-zinnia/97588) |
+| CRM Marketing Manager | Zinnia | 6h | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
+| Product Marketing Manager | Nearfoundation | 6h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Marketing Operations Coordinator | Figment | 6h | N/A | $23k - $38k | marketing, non tech, operations, blockchain, crypto | [Apply](https://web3.career/marketing-operations-coordinator-figment/101980) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Head of Marketing | Noble | 4d | Remote | $112k - $150k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-noble/102484) |
-| Product Marketing Manager RemoteEurope | P2P. org | 4d | European Union |  | marketing manager, remote, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-manager-remote-europe-p2p-org/102482) |
-| Web3 Marketing Manager ContentFocused | Manta Network, Powered by p0x labs | 5d | N/A | $21k - $54k | marketing manager, marketing, non tech, remote | [Apply](https://web3.career/web3-marketing-manager-content-focused-mantanetwork/102431) |
-| Marketing Comms Executive Maternity Cover | Avant Arte | 5d | N/A | $34k - $40k | community manager, non tech, executive, marketing | [Apply](https://web3.career/marketing-comms-executive-maternity-cover-avantarte/102412) |
-| Social Media Content Manager Web3 Advertising Marketplace | Klink Finance | 6d | Remote | $90k - $117k | marketing, non tech, copywriting, social media, blockchain | [Apply](https://web3.career/social-media-content-manager-web3-advertising-marketplace-klinkfinance/102383) |
+| Director User Acquisition | Bitpanda | 6h | Remote | $122k - $165k | executive, user acquisition, marketing, non tech, crypto | [Apply](https://web3.career/director-user-acquisition-bitpanda/99415) |
+| Marketing Manager Web3 | Bitpanda | 6h | Remote | $91k - $117k | marketing manager, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/marketing-manager-web3-bitpanda/102818) |
+| Lead Marketing UK | Bitpanda | 6h | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
+| Communications Manager | Alchemy | 6h | remote | $72k - $100k | marketing, non tech, remote | [Apply](https://web3.career/communications-manager-alchemy/40299) |
+| Permance Marketing Manager | Immunefi | 7h | Remote |  | marketing manager, marketing, non tech, remote | [Apply](https://web3.career/performance-marketing-manager-immunefi/62058) |
