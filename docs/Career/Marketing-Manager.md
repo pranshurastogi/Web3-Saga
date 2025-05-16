@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Product Marketing Lead | Metaplex | 16h | N/A | $175k - $225k | lead, marketing lead, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-lead-metaplex/102872) |
-| Retention Specialist I Policygenius | Zinnia | 1d | Remote | $105k - $110k | marketing, non tech, product manager, remote | [Apply](https://web3.career/retention-specialist-i-policygenius-zinnia/97588) |
-| CRM Marketing Manager | Zinnia | 1d | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
-| Product Marketing Manager | Nearfoundation | 1d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Social Media and Content Specialist | Pintu | 16m | , | $39k - $45k | marketing, non tech, copywriting, social media, blockchain | [Apply](https://web3.career/social-media-and-content-specialist-pintu/103059) |
+| Director Product Marketing MetaMask | Consensys | 19m | N/A | $146k - $215k | executive, marketing, non tech, product marketing, remote | [Apply](https://web3.career/director-product-marketing-metamask-consensys/103052) |
+| Member of Product Marketing Protocols | Anchorage Digital | 3h | N/A | $68k - $148k | marketing, non tech, product manager, product marketing, crypto | [Apply](https://web3.career/member-of-product-marketing-protocols-anchorage/103042) |
+| Senior Marketing Operations Specialist | Kraken | 6h | N/A | $96k - $153k | marketing, non tech, operations, senior, blockchain | [Apply](https://web3.career/senior-marketing-operations-specialist-kraken/102986) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Marketing Operations Coordinator | Figment | 1d | N/A | $23k - $38k | marketing, non tech, operations, blockchain, crypto | [Apply](https://web3.career/marketing-operations-coordinator-figment/101980) |
-| Director User Acquisition | Bitpanda | 1d | Remote | $122k - $165k | executive, user acquisition, marketing, non tech, crypto | [Apply](https://web3.career/director-user-acquisition-bitpanda/99415) |
-| Marketing Manager Web3 | Bitpanda | 1d | Remote | $91k - $117k | marketing manager, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/marketing-manager-web3-bitpanda/102818) |
-| Lead Marketing UK | Bitpanda | 1d | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
-| Communications Manager | Alchemy | 1d | remote | $72k - $100k | marketing, non tech, remote | [Apply](https://web3.career/communications-manager-alchemy/40299) |
+| Head of Marketing Communications | dClimate | 6h | , | $36k - $65k | pr, non tech, communications, head of marketing, marketing | [Apply](https://web3.career/head-of-marketing-communications-dclimate/102981) |
+| Staff Designer Marketing | Uniswaplabs | 7h | Remote | $213k - $236k | design, non tech, marketing, crypto, defi | [Apply](https://web3.career/staff-designer-marketing-uniswaplabs/102960) |
+| Growth Marketing Hacker: TradFi Stocks Equities | Crypto.com | 17h | , | $32k - $58k | growth marketing, growth, marketing, non tech, crypto | [Apply](https://web3.career/growth-marketing-hacker-tradfi-stocks-equities-crypto-com/102947) |
+| Growth Marketing Hacker: Sports Prediction Markets | Crypto.com | 17h | , | $111k - $119k | growth marketing, growth, marketing, non tech, crypto | [Apply](https://web3.career/growth-marketing-hacker-sports-prediction-markets-crypto-com/102946) |
+| Growth Marketing Hacker: Exchange Main App | Crypto.com | 17h | , | $32k - $58k | growth marketing, growth, marketing, non tech, crypto | [Apply](https://web3.career/growth-marketing-hacker-exchange-main-app-crypto-com/102945) |
