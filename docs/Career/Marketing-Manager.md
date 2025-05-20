@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Social Media Marketing Designer Web3 Full Time Remote | Hike | 2d | Remote | $54k - $90k | remote, design, non tech, full time, marketing | [Apply](https://web3.career/social-media-marketing-designer-web3-full-time-remote-hike/103097) |
-| Senior Content Marketing Manager | Fireblocks | 2d | Remote | $120k - $158k | content marketing, marketing manager, marketing, non tech, senior | [Apply](https://web3.career/senior-content-marketing-manager-fireblocks/103091) |
-| Growth Marketing Manager | MoonPay | 2d | , | $54k - $70k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-moonpay/103085) |
-| Senior Marketing Specialist DEFI BLOCKCHAIN | Blockreum USA, Corp | 3d | , | $80k - $100k | marketing specialist, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-marketing-specialist-defi-blockchain-blockreumusa-corp/103065) |
+| Principal Brand Marketing 5Month Contract | Gemini | 18m | N/A | $75k - $105k | brand marketing, brand, marketing, non tech, executive | [Apply](https://web3.career/principal-brand-marketing-5-month-contract-gemini/103232) |
+| Senior Product Marketing Manager | Fireblocks | 20m | Remote | $145k - $190k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-fireblocks/103227) |
+| Senior Product Marketing Manager | Fireblocks | 20m | Remote | $145k - $190k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-fireblocks/103226) |
+| Product Marketing Director | Fireblocks | 20m | Remote | $180k - $230k | executive, cmo, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-director-fireblocks/103225) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Social Media and Content Specialist | Pintu | 3d | , | $39k - $45k | marketing, non tech, copywriting, social media, blockchain | [Apply](https://web3.career/social-media-and-content-specialist-pintu/103059) |
-| Director Product Marketing MetaMask | Consensys | 3d | N/A | $146k - $215k | executive, marketing, non tech, product marketing, remote | [Apply](https://web3.career/director-product-marketing-metamask-consensys/103052) |
-| Member of Product Marketing Protocols | Anchorage Digital | 3d | N/A | $68k - $148k | marketing, non tech, product manager, product marketing, crypto | [Apply](https://web3.career/member-of-product-marketing-protocols-anchorage/103042) |
-| Senior Marketing Operations Specialist | Kraken | 3d | N/A | $96k - $153k | marketing, non tech, operations, senior, blockchain | [Apply](https://web3.career/senior-marketing-operations-specialist-kraken/102986) |
-| Head of Marketing Communications | dClimate | 3d | , | $36k - $65k | pr, non tech, communications, head of marketing, marketing | [Apply](https://web3.career/head-of-marketing-communications-dclimate/102981) |
+| Product Marketing Director | Fireblocks | 20m | Remote | $36k - $65k | executive, cmo, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-director-fireblocks/103224) |
+| Marketing Associate | Superstate | 2h | , | $39k - $45k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/marketing-associate-superstate/103221) |
+| KOL BD | Gate | 14h | South East Asia | $36k - $108k | business development, influencer marketing, social media, non tech, kol | [Apply](https://web3.career/kol-bd-gate-io/103161) |
+| Growth Marketing Specialist | Binance | 17h | Asia |  | growth marketing, growth, marketing specialist, marketing, non tech | [Apply](https://web3.career/growth-marketing-specialist-binance/103159) |
+| Product Marketing Manager: DeFi Wallet Crypto.com Onchain | Crypto.com | 18h | , | $39k - $45k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-defi-wallet-crypto-com-onchain-crypto-com/103157) |
