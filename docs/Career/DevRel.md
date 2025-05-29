@@ -5,8 +5,8 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Engineer | Aptoslabs | 14d | Remote | $130k - $210k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/developer-relations-engineer-aptoslabs/102813) |
-| Developer Relations Engineer | Chainlink Labs | 26d | N/A | $122k - $150k | developer relations, dev, engineer, blockchain, defi | [Apply](https://web3.career/developer-relations-engineer-chainlinklabs/101995) |
+| Developer Relations Engineer | Aptoslabs | 15d | Remote | $130k - $210k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/developer-relations-engineer-aptoslabs/102813) |
+| Developer Relations Engineer | Chainlink Labs | 27d | N/A | $122k - $150k | developer relations, dev, engineer, blockchain, defi | [Apply](https://web3.career/developer-relations-engineer-chainlinklabs/101995) |
 | Developer Relations Engineer | Sarvatech Labs Pvt Ltd | 1mo | , | $72k - $75k | developer relations, dev, engineer, blockchain, discord | [Apply](https://web3.career/developer-relations-engineer-sarvatechlabspvtltd/101339) |
 | Blockchain Solutions Engineer Developer Relations | Crypto.com | 1mo | , | $62k - $77k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/blockchain-solutions-engineer-developer-relations-crypto-com/101226) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
