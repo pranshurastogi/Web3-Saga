@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Director Finance Marketing | Paypal | 2d | , | $152k - $262k | executive, finance, non tech, marketing, crypto | [Apply](https://web3.career/director-finance-marketing-paypal/103941) |
-| Marketing Manager Africa | Binance | 3d | , |  | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-africa-binance/103926) |
-| Marketing Intern CRM data management | Finoverse | 3d | , | $32k - $60k | crm, intern, entry level, marketing, non tech | [Apply](https://web3.career/marketing-intern-crm-data-management-finoverse/103904) |
-| KOL Manager | Rarible | 3d | N/A | $36k - $65k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/kol-manager-rarible/103901) |
+| Retention Specialist I Policygenius | Zinnia | 6h | Remote | $105k - $110k | marketing, non tech, product manager, remote | [Apply](https://web3.career/retention-specialist-i-policygenius-zinnia/97588) |
+| CRM Marketing Manager | Zinnia | 6h | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
+| Marketing Manager | Whatnot | 6h | Remote |  | marketing manager, marketing, non tech, gaming, remote | [Apply](https://web3.career/marketing-manager-whatnot/104095) |
+| Product Marketing Manager | Nearfoundation | 6h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Content Marketing US Intern | Sorare | 4d | , | $33k | content marketing, intern, entry level, marketing, non tech | [Apply](https://web3.career/content-marketing-us-intern-sorare/103857) |
-| Senior Manager Product Marketing CTV | Inmobi | 4d | Remote | $150k - $227k | marketing, non tech, product marketing, senior, remote | [Apply](https://web3.career/senior-manager-product-marketing-ctv-inmobi/103852) |
-| Communications Manager | Alchemy | 4d | remote | $72k - $100k | marketing, non tech, remote | [Apply](https://web3.career/communications-manager-alchemy/40299) |
-| Marketing Lead Canada Wide Remote | Newton | 5d | , | $54k - $85k | remote, lead, marketing lead, marketing, non tech | [Apply](https://web3.career/marketing-lead-canada-wide-remote-newton/103799) |
-| Web3 Marketing Content Manager | Finoverse | 5d | , | $39k - $45k | marketing, non tech, copywriting, blockchain, defi | [Apply](https://web3.career/web3-marketing-content-manager-finoverse/103790) |
+| Product Marketing Institutions | Layerzerolabs | 6h | Remote | $39k - $45k | marketing, non tech, product marketing, blockchain, crypto | [Apply](https://web3.career/product-marketing-institutions-layerzerolabs/104085) |
+| Product Marketing Crypto | Layerzerolabs | 6h | , | $39k - $45k | marketing, non tech, product marketing, blockchain, crypto | [Apply](https://web3.career/product-marketing-crypto-layerzerolabs/104084) |
+| Content Marketing Interop Chains | Layerzerolabs | 6h | Remote | $39k - $45k | content marketing, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/content-marketing-interop-chains-layerzerolabs/104083) |
+| Marketing and Social Media Intern | Genies | 6h | N/A | $20k - $25k | intern, entry level, marketing, non tech, social media | [Apply](https://web3.career/marketing-and-social-media-intern-genies/104067) |
+| Field Marketing Manager and Community Manager Contractor | Figure | 6h | Remote | $100k - $115k | marketing manager, community manager, non tech, contractor, marketing | [Apply](https://web3.career/field-marketing-manager-and-community-manager-contractor-figure/104064) |

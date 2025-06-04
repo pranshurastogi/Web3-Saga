@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Growth Product Manager | Woo | 6d | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
-| Associate Growth Marketer Social Media | nXscaleSolutions Inc | 11d | N/A | $85k - $109k | growth, marketing, non tech, social media, blockchain | [Apply](https://web3.career/associate-growth-marketer-social-media-nxscale/103520) |
-| Machine Learning Engineer Buyer Growth | Whatnot | 11d | Remote | $91k - $117k | growth, engineer, machine learning, ai, tensorflow | [Apply](https://web3.career/machine-learning-engineer-buyer-growth-whatnot/103488) |
-| Growth Analyst Financial Institutions Group FIG | Anchorage Digital | 11d | N/A | $67k - $75k | growth, analyst, finance, non tech, crypto | [Apply](https://web3.career/growth-analyst-financial-institutions-group-fig-anchorage/103436) |
+| Senior KOL Growth Marketer Korean Speaker | Bitmex | 6h | Remote | $98k - $112k | growth, influencer marketing, social media, non tech, kol | [Apply](https://web3.career/senior-kol-growth-marketer-korean-speaker-bitmex/104045) |
+| KOL Growth Marketer Russian Speaker | Bitmex | 6h | Remote | $84k - $90k | growth, influencer marketing, social media, non tech, kol | [Apply](https://web3.career/kol-growth-marketer-russian-speaker-bitmex/104044) |
+| KOL Growth Marketer Europe | Bitmex | 6h | Remote | $84k - $90k | growth, influencer marketing, social media, non tech, kol | [Apply](https://web3.career/kol-growth-marketer-europe-bitmex/104043) |
+| Senior Growth Product Manager | Woo | 6h | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Product Growth Hacker: Exchange Main App | Crypto.com | 13d | , | $72k - $80k | growth hacker, growth, crypto | [Apply](https://web3.career/product-growth-hacker-exchange-main-app-crypto-com/103385) |
-| Product Growth Hacker | Crypto.com | 13d | , | $54k - $80k | growth hacker, growth, crypto, defi | [Apply](https://web3.career/product-growth-hacker-crypto-com/103383) |
-| Growth Data Analyst | Sorare | 13d | , | $81k - $84k | growth, analyst, data science, gaming | [Apply](https://web3.career/growth-data-analyst-sorare/103294) |
-| Growth Marketing Lead | Presto | 14d | APAC | $91k - $96k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-presto/103246) |
-| Senior Growth Brand Specialist | StreamFlow | 14d | Remote | $42k - $48k | growth, brand, senior, solana, remote | [Apply](https://web3.career/senior-growth-brand-specialist-streamflow/103241) |
+| Senior KOL Growth Marketer Chinese Speaker | Bitmex | 7h | Remote | $98k - $112k | growth, influencer marketing, social media, non tech, kol | [Apply](https://web3.career/senior-kol-growth-marketer-chinese-speaker-bitmex/104034) |
+| Associate Growth Marketer Social Media | nXscaleSolutions Inc | 12d | N/A | $85k - $109k | growth, marketing, non tech, social media, blockchain | [Apply](https://web3.career/associate-growth-marketer-social-media-nxscale/103520) |
+| Machine Learning Engineer Buyer Growth | Whatnot | 12d | Remote | $91k - $117k | growth, engineer, machine learning, ai, tensorflow | [Apply](https://web3.career/machine-learning-engineer-buyer-growth-whatnot/103488) |
+| Growth Analyst Financial Institutions Group FIG | Anchorage Digital | 12d | N/A | $67k - $75k | growth, analyst, finance, non tech, crypto | [Apply](https://web3.career/growth-analyst-financial-institutions-group-fig-anchorage/103436) |
+| Product Growth Hacker: Exchange Main App | Crypto.com | 14d | , | $72k - $80k | growth hacker, growth, crypto | [Apply](https://web3.career/product-growth-hacker-exchange-main-app-crypto-com/103385) |
