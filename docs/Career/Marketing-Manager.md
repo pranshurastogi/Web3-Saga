@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Marketing Communication Specialist | RoofStacks | 4h | İstanbul | $85k - $99k | pr, non tech, communication, marketing communication, marketing | [Apply](https://web3.career/senior-marketing-communication-specialist-roofstacks/104484) |
-| Marketing Associate | Trojan | 16h | Remote | $100k - $350k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/marketing-associate-trojan/104472) |
-| Head of Growth Marketing | Starkware | 22h | Remote | $133k - $156k | growth marketing, growth, executive, marketing, non tech | [Apply](https://web3.career/head-of-growth-marketing-starkware/104461) |
-| Permance Marketing Customer Acquisition Manager 100% remote Poland | Tether | 2d | , | $98k - $117k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-poland-tether/104394) |
+| GTM Content Socials and Marketing Core Contributor Role | Seamless Protocol | 43m | N/A | $90k - $183k | gtm, marketing, non tech, crypto, defi | [Apply](https://web3.career/gtm-content-socials-and-marketing-core-contributor-role-seamless/104651) |
+| Retention Specialist I Policygenius | Zinnia | 6h | Remote | $105k - $110k | marketing, non tech, product manager, remote | [Apply](https://web3.career/retention-specialist-i-policygenius-zinnia/97588) |
+| CRM Marketing Manager | Zinnia | 6h | Remote | $124k - $143k | marketing manager, crm, marketing, non tech, remote | [Apply](https://web3.career/crm-marketing-manager-zinnia/98977) |
+| Senior Communications Manager | Whatnot | 6h | Remote |  | marketing, non tech, pr, communications, senior | [Apply](https://web3.career/senior-communications-manager-whatnot/104620) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Permance Marketing Customer Acquisition Manager 100% remote Madrid | Tether | 2d | , | $98k - $117k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-madrid-tether/104393) |
-| Permance Marketing Customer Acquisition Manager 100% remote Poland | Tether | 2d | , | $98k - $117k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-poland-tether/104392) |
-| Permance Marketing Customer Acquisition Manager 100% remote Barcelona | Tether | 2d | , | $98k - $117k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-barcelona-tether/104391) |
-| Permance Marketing Customer Acquisition Manager 100% remote UK | Tether | 2d | , | $98k - $117k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-uk-tether/104390) |
-| Permance Marketing Customer Acquisition Manager 100% remote Brazil | Tether | 2d | , | $98k - $117k | remote, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/performance-marketing-customer-acquisition-manager-100-remote-brazil-tether/104389) |
+| Senior Marketing Manager | Rampnetwork | 6h | Remote | $91k - $117k | marketing manager, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-marketing-manager-rampnetwork/104616) |
+| Marketing Lead – Growth Brand | Rampnetwork | 6h | Remote | $68k - $99k | growth, brand, lead, marketing lead, marketing | [Apply](https://web3.career/marketing-lead-growth-brand-rampnetwork/104615) |
+| Director of Marketing | Trilitech | 6h | , | $72k - $150k | cmo, executive, marketing, non tech, blockchain | [Apply](https://web3.career/director-of-marketing-trilitech/104609) |
+| Head of Marketing Compliance | Okx | 6h | Remote | $200k - $300k | compliance, non tech, head of marketing, marketing, executive | [Apply](https://web3.career/head-of-marketing-compliance-okx/104605) |
+| Senior Integrated Marketing Manager | Sui Foundation | 6h | N/A | $84k - $90k | marketing manager, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-integrated-marketing-manager-suifoundation/104603) |

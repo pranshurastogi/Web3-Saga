@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Business Development Manager | theKOLLAB | 1d | N/A |  | business development, sales, non tech, crypto, discord | [Apply](https://web3.career/business-development-manager-thekollab/103244) |
-| Head of APAC BD | Jito Foundation | 2d | N/A | $126k - $180k | business development, executive, remote, crypto, defi | [Apply](https://web3.career/head-of-apac-bd-jito/104370) |
-| Business Development Lead | Helius | 3d | N/A | $170k - $250k | business development, sales, non tech, lead, aws | [Apply](https://web3.career/business-development-lead-helius/104364) |
-| Business Development Manager Alternative Payment Method | Unlimit | 3d | , | $68k - $90k | business development, sales, non tech, crypto, defi | [Apply](https://web3.career/business-development-manager-alternative-payment-method-unlimit/104353) |
+| Senior Manager Business Development | Polygon Labs | 6h | N/A | $87k - $87k | business development, sales, non tech, senior, blockchain | [Apply](https://web3.career/senior-manager-business-development-polygonlabs/104591) |
+| Business Development Associate | Foundrydigital | 6h | Remote | $60k - $75k | business development, sales, non tech, bitcoin, blockchain | [Apply](https://web3.career/business-development-associate-foundrydigital/104580) |
+| Global Business Development Manager Card Team | Woo | 6h | Remote | $68k - $90k | business development, sales, non tech, crypto, remote | [Apply](https://web3.career/global-business-development-manager-card-team-woo/95645) |
+| Business Development Manager | Woo | 6h | Remote | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-woo/95644) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Business Development Manager | Bitstamp by Robinhood | 4d | , | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-bitstampbyrobinhood/104341) |
-| Business Development Manager US New York City | LI.FI | 6d | N/A | $120k - $200k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-us-new-york-city-li-fi/104246) |
-| Institutional Business Development Lead | Chainlink Labs | 6d | , | $111k - $189k | business development, sales, non tech, lead, blockchain | [Apply](https://web3.career/institutional-business-development-lead-chainlinklabs/104238) |
-| Head of Payments Business Development | Stellar | 8d | Remote | $255k - $385k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-payments-business-development-stellar/97571) |
-| Business Development Financial Services Product GTM Lead | Layerzerolabs | 8d | Remote | $68k - $90k | business development, sales, non tech, gtm, finance | [Apply](https://web3.career/business-development-financial-services-product-gtm-lead-layerzerolabs/104077) |
+| Head of Business Development Americas | Aurosglobal | 7h | Remote | $140k - $180k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-business-development-americas-aurosglobal/104540) |
+| Head of Payments Business Development | Stellar | 7h | Remote | $255k - $385k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/head-of-payments-business-development-stellar/97571) |
+| Enterprise Business Development Executive EMEA | Notabene | 11h | , | $140k - $180k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/enterprise-business-development-executive-emea-notabene/104520) |
+| Business Development Manager | theKOLLAB | 3d | N/A |  | business development, sales, non tech, crypto, discord | [Apply](https://web3.career/business-development-manager-thekollab/103244) |
+| Head of APAC BD | Jito Foundation | 3d | N/A | $126k - $180k | business development, executive, remote, crypto, defi | [Apply](https://web3.career/head-of-apac-bd-jito/104370) |
