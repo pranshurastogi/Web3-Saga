@@ -5,9 +5,9 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Manager Developer Relations and Ecosystem Marketing APAC | Circle | 3d | , | $91k - $96k | developer relations, dev, marketing, non tech, senior | [Apply](https://web3.career/senior-manager-developer-relations-and-ecosystem-marketing-apac-circle/104663) |
-| Developer Relations Engineer Mobile | Monad Foundation | 10d | Remote | $72k - $78k | developer relations, dev, engineer, mobile, blockchain | [Apply](https://web3.career/developer-relations-engineer-mobile-monadfoundation/104251) |
-| Developer Relations Engineer | Monad Foundation | 10d | Remote | $91k - $96k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/developer-relations-engineer-monadfoundation/104249) |
+| Senior Manager Developer Relations and Ecosystem Marketing APAC | Circle | 4d | , | $91k - $96k | developer relations, dev, marketing, non tech, senior | [Apply](https://web3.career/senior-manager-developer-relations-and-ecosystem-marketing-apac-circle/104663) |
+| Developer Relations Engineer Mobile | Monad Foundation | 11d | Remote | $72k - $78k | developer relations, dev, engineer, mobile, blockchain | [Apply](https://web3.career/developer-relations-engineer-mobile-monadfoundation/104251) |
+| Developer Relations Engineer | Monad Foundation | 11d | Remote | $91k - $96k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/developer-relations-engineer-monadfoundation/104249) |
 | Developer Relations Engineer | Aptoslabs | 1mo | Remote | $130k - $210k | developer relations, dev, engineer, blockchain, crypto | [Apply](https://web3.career/developer-relations-engineer-aptoslabs/102813) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Developer Relations Engineer | Chainlink Labs | 2mo | N/A | $122k - $150k | developer relations, dev, engineer, blockchain, defi | [Apply](https://web3.career/developer-relations-engineer-chainlinklabs/101995) |
