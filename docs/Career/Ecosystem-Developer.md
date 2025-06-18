@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Growth Manager Wakehacker FT | Ackee Blockchain | 4d | , | $45k - $90k | growth, crypto, defi, discord, nft | [Apply](https://web3.career/growth-manager-for-wakehacker-ft-ackeeblockchain/104689) |
-| DeFi Growth Partnership Manager | Somnia | 4d | N/A | $54k - $90k | growth, partnership, sales, non tech, blockchain | [Apply](https://web3.career/defi-growth-partnership-manager-somnia/104672) |
-| Marketing Lead – Growth Brand | Rampnetwork | 4d | Remote | $68k - $99k | growth, brand, lead, marketing lead, marketing | [Apply](https://web3.career/marketing-lead-growth-brand-rampnetwork/104615) |
-| Product Compliance Lead Growth Partnerships | Okx | 4d | Remote | $171k - $257k | compliance, non tech, growth, partnership, sales | [Apply](https://web3.career/product-compliance-lead-growth-partnerships-okx/104607) |
+| Growth Manager Hacker | Syndica | 6h | N/A | N/A | growth, crypto, solana | [Apply](https://web3.career/growth-manager-hacker-syndica/104930) |
+| Lead Client Growth Manager | Inmobi | 6h | Remote | $115k - $173k | growth, lead, remote | [Apply](https://web3.career/lead-client-growth-manager-inmobi/104919) |
+| Growth Consultant LATAM | Avalabs | 6h | N/A | $54k - $90k | growth, consulting, remote, gaming, blockchain | [Apply](https://web3.career/growth-consultant-latam-avalabs/80818) |
+| Senior Growth Product Manager | Woo | 6h | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Growth Marketing Associate | Avalabs | 4d | Remote | $86k - $107k | growth marketing, growth, marketing, non tech, blockchain | [Apply](https://web3.career/growth-marketing-associate-avalabs/104557) |
-| Senior Growth Product Manager | Woo | 4d | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
-| Social Media Manager Web3 Growth Lead Contract | Sui Foundation | 5d | N/A | $105k - $148k | growth, lead, social media, non tech, bitcoin | [Apply](https://web3.career/social-media-manager-web3-growth-lead-contract-suifoundation/104507) |
-| Head of Growth Marketing | Starkware | 6d | Remote | $133k - $156k | growth marketing, growth, executive, marketing, non tech | [Apply](https://web3.career/head-of-growth-marketing-starkware/104461) |
-| Web3 Growth Lead | Kokomo Games | 8d | , | $111k - $119k | growth, lead, crypto, defi, gaming | [Apply](https://web3.career/web3-growth-lead-kokomogames/104360) |
+| Growth Partnerships Manager | Crypto.com | 18h | , | $140k - $180k | growth, partnership, sales, non tech, crypto | [Apply](https://web3.career/growth-partnerships-manager-crypto-com/104866) |
+| Growth Manager Wakehacker FT | Ackee Blockchain | 5d | , | $45k - $90k | growth, crypto, defi, discord, nft | [Apply](https://web3.career/growth-manager-for-wakehacker-ft-ackeeblockchain/104689) |
+| DeFi Growth Partnership Manager | Somnia | 5d | N/A | $54k - $90k | growth, partnership, sales, non tech, blockchain | [Apply](https://web3.career/defi-growth-partnership-manager-somnia/104672) |
+| Marketing Lead – Growth Brand | Rampnetwork | 5d | Remote | $68k - $99k | growth, brand, lead, marketing lead, marketing | [Apply](https://web3.career/marketing-lead-growth-brand-rampnetwork/104615) |
+| Product Compliance Lead Growth Partnerships | Okx | 5d | Remote | $171k - $257k | compliance, non tech, growth, partnership, sales | [Apply](https://web3.career/product-compliance-lead-growth-partnerships-okx/104607) |
