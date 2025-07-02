@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Growth Manager Credit Cards | Crypto.com | 1h | N/A | $76k - $110k | growth, crypto | [Apply](https://web3.career/growth-manager-credit-cards-crypto-com/105496) |
-| Communications Associate Growth Community | Zircuit | 9h | N/A |  | pr, non tech, communications, growth, community manager | [Apply](https://web3.career/communications-associate-growth-community-zircuit/105486) |
-| DeFi Growth Lead | Avara | 15h | , | $68k - $99k | growth, lead, blockchain, crypto, defi | [Apply](https://web3.career/defi-growth-lead-avara/105475) |
-| Growth Marketer | Arbitrum Foundation | 2d | APAC | $72k - $90k | growth, marketing, non tech, blockchain, defi | [Apply](https://web3.career/growth-marketer-arbitrumfoundation/105437) |
+| Marketing Lead – Growth Brand | Rampnetwork | 6h | Remote | $68k - $99k | growth, brand, lead, marketing lead, marketing | [Apply](https://web3.career/marketing-lead-growth-brand-rampnetwork/104615) |
+| Designer Growth Senior Designer Growth Public Active Trading | Public | 6h | Remote | $88k - $109k | growth, design, non tech, senior, crypto | [Apply](https://web3.career/designer-growth-senior-designer-growth-public-active-trading-public/105601) |
+| Product Compliance Lead Growth Partnerships | Okx | 6h | Remote | $171k - $257k | compliance, non tech, growth, partnership, sales | [Apply](https://web3.career/product-compliance-lead-growth-partnerships-okx/104607) |
+| Lead Validator Staking Growth Solana | Raiku | 6h | , | $77k - $180k | growth, lead, blockchain, node, solana | [Apply](https://web3.career/lead-validator-staking-growth-solana-raiku/105552) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Senior Software Engineer Growth Vertical | Bitgo | 4d | Remote | $165k - $210k | growth, engineer, senior, dev, bitcoin | [Apply](https://web3.career/senior-software-engineer-growth-vertical-bitgo/105327) |
-| Growth Operation Specialist Greater China | Binance | 5d | Asia |  | china, growth, blockchain | [Apply](https://web3.career/growth-operation-specialist-greater-china-binance/105306) |
-| Growth Marketer | Bullet | 6d | , | $60k - $120k | growth, marketing, non tech, crypto, defi | [Apply](https://web3.career/growth-marketer-bullet/105268) |
-| Marketing Lead – Growth Brand | Rampnetwork | 6d | Remote | $68k - $99k | growth, brand, lead, marketing lead, marketing | [Apply](https://web3.career/marketing-lead-growth-brand-rampnetwork/104615) |
-| Product Compliance Lead Growth Partnerships | Okx | 6d | Remote | $171k - $257k | compliance, non tech, growth, partnership, sales | [Apply](https://web3.career/product-compliance-lead-growth-partnerships-okx/104607) |
+| Lead Ecosystem Growth Solana | Raiku | 6h | , | $98k - $112k | growth, lead, blockchain, defi, solana | [Apply](https://web3.career/lead-ecosystem-growth-solana-raiku/105551) |
+| Senior Growth Product Manager | Woo | 6h | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
+| Senior Software Engineer Growth Vertical | Bitgo | 7h | Remote | $165k - $210k | growth, engineer, senior, dev, bitcoin | [Apply](https://web3.career/senior-software-engineer-growth-vertical-bitgo/105327) |
+| Growth Marketing Manager Community Events | Okx | 7h | Remote | $54k - $70k | events manager, non tech, growth marketing, growth, marketing manager | [Apply](https://web3.career/growth-marketing-manager-community-events-okx/105539) |
+| Growth Manager Credit Cards | Crypto.com | 1d | N/A | $76k - $110k | growth, crypto | [Apply](https://web3.career/growth-manager-credit-cards-crypto-com/105496) |
