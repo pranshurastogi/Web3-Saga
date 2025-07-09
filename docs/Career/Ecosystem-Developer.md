@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Staff Growth Data Scientist Monetization | MoonPay | 15h | , | $84k - $109k | growth, scientist, data science, crypto, docker | [Apply](https://web3.career/staff-growth-data-scientist-monetization-moonpay/105876) |
-| Growth Intern | Cube Group, Inc. | 16h | N/A | $22k - $31k | growth, intern, entry level, blockchain, crypto | [Apply](https://web3.career/growth-intern-cubegroup-inc/105873) |
-| Growth Partnerships Manager APAC | Crypto.com | 4d | , | $140k - $180k | growth, partnership, sales, non tech, crypto | [Apply](https://web3.career/growth-partnerships-manager-apac-crypto-com/105812) |
-| Fiat User Growth Marketing Manager Strategy | Binance | 4d | , |  | growth marketing, growth, marketing manager, strategy, non tech | [Apply](https://web3.career/fiat-user-growth-marketing-manager-strategy-binance/105802) |
+| Marketing Lead – Growth Brand | Rampnetwork | 6h | Remote | $68k - $99k | growth, brand, lead, marketing lead, marketing | [Apply](https://web3.career/marketing-lead-growth-brand-rampnetwork/104615) |
+| Product Compliance Lead Growth Partnerships | Okx | 6h | Remote | $171k - $257k | compliance, non tech, growth, partnership, sales | [Apply](https://web3.career/product-compliance-lead-growth-partnerships-okx/104607) |
+| Marketing Manager Regional Growth Germany | Kraken | 6h | , | $90k - $105k | growth, marketing manager, marketing, non tech, remote | [Apply](https://web3.career/marketing-manager-regional-growth-germany-kraken/105983) |
+| Marketing Manager Regional Growth France | Kraken | 6h | N/A | $90k - $105k | france, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/marketing-manager-regional-growth-france-kraken/105982) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Community Growth Manager Fully Remote Worldwide | Bitfinex | 4d | , | $115k - $169k | growth, remote, community manager, non tech, bitcoin | [Apply](https://web3.career/community-growth-manager-fully-remote-worldwide-bitfinex/105782) |
-| Unichain Growth Lead | Uniswaplabs | 4d | Remote | $202k - $224k | growth, lead, crypto, defi, ethereum | [Apply](https://web3.career/unichain-growth-lead-uniswaplabs/105776) |
-| Head of Growth | molecule.xyz | 4d | Remote | $76k - $150k | growth, executive, blockchain, defi, erc 20 | [Apply](https://web3.career/head-of-growth-molecule-xyz/105770) |
-| Head of Growth | Molecule | 5d | , | $84k - $120k | growth, executive, remote, blockchain, defi | [Apply](https://web3.career/head-of-growth-molecule/105726) |
-| Marketing Lead – Growth Brand | Rampnetwork | 6d | Remote | $68k - $99k | growth, brand, lead, marketing lead, marketing | [Apply](https://web3.career/marketing-lead-growth-brand-rampnetwork/104615) |
+| Marketing Manager Regional Growth Brazil | Kraken | 6h | N/A | $90k - $105k | growth, marketing manager, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-manager-regional-growth-brazil-kraken/105981) |
+| Director Brand Growth Partnerships | Kraken | 6h | N/A | $146k - $234k | growth, partnership, sales, non tech, brand | [Apply](https://web3.career/director-brand-growth-partnerships-kraken/105980) |
+| Senior Growth Product Manager | Woo | 6h | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
+| Senior Software Engineer Growth Vertical | Bitgo | 7h | Remote | $165k - $210k | growth, engineer, senior, dev, bitcoin | [Apply](https://web3.career/senior-software-engineer-growth-vertical-bitgo/105327) |
+| Growth Marketer | Avara | 7h | N/A | $75k - $99k | growth, marketing, non tech, remote, blockchain | [Apply](https://web3.career/growth-marketer-avara/105953) |
