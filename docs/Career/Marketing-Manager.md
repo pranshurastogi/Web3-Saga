@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Branding and Communications Manager | Coins.ph | 18h | , | $32k - $58k | marketing, non tech, pr, communications, ads | [Apply](https://web3.career/branding-and-communications-manager-coins/106618) |
-| Director – Growth Products Marketing | visa | 2d | , | $140k - $192k | growth, executive, marketing, non tech, blockchain | [Apply](https://web3.career/director-growth-products-marketing-visa/106590) |
-| Marketing Lead | The Block | 3d | N/A | $65k - $85k | lead, marketing lead, marketing, non tech, remote | [Apply](https://web3.career/marketing-lead-theblockcrypto/106585) |
-| Senior Director Crypto Marketing | PayPal | 3d | , | $188k - $323k | executive, marketing, non tech, senior, crypto | [Apply](https://web3.career/senior-director-crypto-marketing-paypal/106581) |
+| Ecosystem Marketing Manager | Wormholefoundation | 5h | Remote | $39k - $45k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/ecosystem-marketing-manager-wormholefoundation/106741) |
+| Senior Manager Affiliate Strategic Partnerships | Figure | 6h | Remote | $118k - $148k | affiliate, marketing, non tech, partnership, sales | [Apply](https://web3.career/senior-manager-affiliate-strategic-partnerships-figure/106731) |
+| Frontend Developer Marketing Optimization PartTime Contract | Dydx | 6h | Remote | $90k - $100k | dev, front end, marketing, non tech, part time | [Apply](https://web3.career/frontend-developer-marketing-optimization-part-time-contract-dydx/106718) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Marketing Manager Thailand | Binance | 4d | , |  | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-thailand-binance/106543) |
-| ManagerProduct Marketing | Inmobi | 4d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/106506) |
-| Lead Marketing UK | Bitpanda | 4d | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
-| FrontEnd Manager Marketing Compliance | Bitmex | 4d | Remote | $105k - $110k | compliance, non tech, front end, marketing, crypto | [Apply](https://web3.career/front-end-manager-marketing-compliance-bitmex/106096) |
-| Senior Product Marketing Manager B2B | Blockchain | 4d | Remote | $91k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-b2b-blockchain/106477) |
+| Senior Product Marketing Manager Equities | Kraken | 6h | N/A | $110k - $176k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-equities-kraken/106715) |
+| Senior Associate Community Retention | Bitpanda | 6h | Remote | $98k - $109k | marketing, non tech, product manager, community manager, senior | [Apply](https://web3.career/senior-associate-community-retention-bitpanda/105555) |
+| Associate Community Retention | Bitpanda | 6h | Remote |  | marketing, non tech, product manager, community manager, crypto | [Apply](https://web3.career/associate-community-retention-bitpanda/105554) |
+| Product Marketing Manager | Cryptio | 6h | , | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-cryptio/106702) |
+| Affiliates Marketing Specialist | Bitpanda | 6h | Remote | $91k - $117k | marketing specialist, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/affiliates-marketing-specialist-bitpanda/106699) |
