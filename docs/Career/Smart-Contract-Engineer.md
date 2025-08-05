@@ -5,13 +5,13 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Head of Governance House of Stake | Nearfoundation | 3d | Remote | $63k - $112k | executive, smart contract, remote | [Apply](https://web3.career/head-of-governance-house-of-stake-nearfoundation/107360) |
-| FullStack Developer | Nuvolari.ai | 4d | N/A | $56k - $96k | dev, full stack, ai, defi, nextjs | [Apply](https://web3.career/full-stack-developer-nuvolari-ai/107305) |
-| Senior Golang Backend Engineer | Kiln | 12d | , | $133k - $135k | backend, engineer, golang, senior, aws | [Apply](https://web3.career/senior-golang-backend-engineer-kiln/106707) |
-| Blockchain AI Infrastructure Engineer | Dcentralab | 13d | Remote | $72k - $150k | infrastructure, ai, engineer, blockchain, node | [Apply](https://web3.career/blockchain-ai-infrastructure-engineer-dcentralab/106641) |
+| Head of Governance House of Stake | Nearfoundation | 4d | Remote | $63k - $112k | executive, smart contract, remote | [Apply](https://web3.career/head-of-governance-house-of-stake-nearfoundation/107360) |
+| FullStack Developer | Nuvolari.ai | 5d | N/A | $56k - $96k | dev, full stack, ai, defi, nextjs | [Apply](https://web3.career/full-stack-developer-nuvolari-ai/107305) |
+| Senior Golang Backend Engineer | Kiln | 13d | , | $133k - $135k | backend, engineer, golang, senior, aws | [Apply](https://web3.career/senior-golang-backend-engineer-kiln/106707) |
+| Blockchain AI Infrastructure Engineer | Dcentralab | 14d | Remote | $72k - $150k | infrastructure, ai, engineer, blockchain, node | [Apply](https://web3.career/blockchain-ai-infrastructure-engineer-dcentralab/106641) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Product Engineer | Unto Labs | 16d | , | $54k - $90k | engineer, blockchain, crypto, defi, gaming | [Apply](https://web3.career/product-engineer-untolabs/106582) |
-| Engineering Manager Protocol | Uniswaplabs | 17d | Remote | $86k - $90k | executive, engineer, protocol, crypto, defi | [Apply](https://web3.career/engineering-manager-protocol-uniswaplabs/106509) |
-| Head of Operations Web3 External | Serotonin | 23d | , | $90k - $180k | executive, operations, blockchain, crypto, defi | [Apply](https://web3.career/head-of-operations-web3-external-serotonin/106142) |
-| Fullstack Engineer Web3 | Kiln | 25d | , | $133k - $135k | engineer, full stack, blockchain, crypto, defi | [Apply](https://web3.career/fullstack-engineer-web3-kiln/106062) |
-| Legal Ops | Kiln | 26d | , | $87k - $100k | legal, aws, blockchain, crypto, defi | [Apply](https://web3.career/legal-ops-kiln/105976) |
+| Product Engineer | Unto Labs | 17d | , | $54k - $90k | engineer, blockchain, crypto, defi, gaming | [Apply](https://web3.career/product-engineer-untolabs/106582) |
+| Engineering Manager Protocol | Uniswaplabs | 18d | Remote | $86k - $90k | executive, engineer, protocol, crypto, defi | [Apply](https://web3.career/engineering-manager-protocol-uniswaplabs/106509) |
+| Head of Operations Web3 External | Serotonin | 24d | , | $90k - $180k | executive, operations, blockchain, crypto, defi | [Apply](https://web3.career/head-of-operations-web3-external-serotonin/106142) |
+| Fullstack Engineer Web3 | Kiln | 26d | , | $133k - $135k | engineer, full stack, blockchain, crypto, defi | [Apply](https://web3.career/fullstack-engineer-web3-kiln/106062) |
+| Legal Ops | Kiln | 27d | , | $87k - $100k | legal, aws, blockchain, crypto, defi | [Apply](https://web3.career/legal-ops-kiln/105976) |
