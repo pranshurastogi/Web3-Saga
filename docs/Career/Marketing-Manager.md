@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Social Media Marketing Manager Walrus | Sui Foundation | 6h | N/A | $90k - $112k | marketing manager, marketing, non tech, social media, blockchain | [Apply](https://web3.career/social-media-marketing-manager-walrus-suifoundation/109573) |
-| Partner Marketing Manager Walrus | Sui Foundation | 6h | N/A | $90k - $112k | marketing manager, marketing, non tech, blockchain, gaming | [Apply](https://web3.career/partner-marketing-manager-walrus-suifoundation/109572) |
-| Partner Marketing Coordinator Walrus Contract | Sui Foundation | 6h | N/A | $90k - $112k | marketing, non tech, blockchain, gaming | [Apply](https://web3.career/partner-marketing-coordinator-walrus-contract-suifoundation/109571) |
-| Senior Communications Manager Walrus | Mysten Labs | 6h | N/A | $150k - $180k | marketing, non tech, pr, communications, senior | [Apply](https://web3.career/senior-communications-manager-walrus-mystenlabs/109562) |
+| Senior Marketing AI Operations Manager | QuickNode | 16h | N/A | $103k - $117k | ai, marketing, non tech, operations, senior | [Apply](https://web3.career/senior-marketing-ai-operations-manager-quicknode/109620) |
+| Senior Product Marketer L3 | CoinGecko | 17h | , | $105k - $120k | marketing, non tech, senior, blockchain, crypto | [Apply](https://web3.career/senior-product-marketer-l3-coingecko/109617) |
+| Head of Marketing | Decentralized Masters | 20h | , | $105k - $157k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-decentralizedmasters/109612) |
+| Social Media Marketing Manager Walrus | Sui Foundation | 1d | N/A | $90k - $112k | marketing manager, marketing, non tech, social media, blockchain | [Apply](https://web3.career/social-media-marketing-manager-walrus-suifoundation/109573) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Lead Product Marketing Manager OTC Prime | Kraken | 6h | N/A | $127k - $203k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-otc-prime-kraken/109561) |
-| Head of Marketing Operations | Tastylive | 7h | Remote | $180k - $220k | head of marketing, marketing, non tech, executive, operations | [Apply](https://web3.career/head-of-marketing-operations-tastylive/108293) |
-| Ecosystem Partner Marketing Manager | QuickNode | 16h | , | $118k - $132k | marketing manager, marketing, non tech, blockchain, solana | [Apply](https://web3.career/ecosystem-partner-marketing-manager-quicknode/109491) |
-| Chief Marketing Officer | Decentralized Masters | 19h | , | $105k - $157k | cmo, executive, marketing, non tech, blockchain | [Apply](https://web3.career/chief-marketing-officer-decentralizedmasters/109485) |
-| Marketing Manager | Confirmo | 2d | , | $21k - $54k | marketing manager, marketing, non tech, crypto | [Apply](https://web3.career/marketing-manager-confirmo/109203) |
+| Partner Marketing Manager Walrus | Sui Foundation | 1d | N/A | $90k - $112k | marketing manager, marketing, non tech, blockchain, gaming | [Apply](https://web3.career/partner-marketing-manager-walrus-suifoundation/109572) |
+| Partner Marketing Coordinator Walrus Contract | Sui Foundation | 1d | N/A | $90k - $112k | marketing, non tech, blockchain, gaming | [Apply](https://web3.career/partner-marketing-coordinator-walrus-contract-suifoundation/109571) |
+| Senior Communications Manager Walrus | Mysten Labs | 1d | N/A | $150k - $180k | marketing, non tech, pr, communications, senior | [Apply](https://web3.career/senior-communications-manager-walrus-mystenlabs/109562) |
+| Lead Product Marketing Manager OTC Prime | Kraken | 1d | N/A | $127k - $203k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-otc-prime-kraken/109561) |
+| Head of Marketing Operations | Tastylive | 1d | Remote | $180k - $220k | head of marketing, marketing, non tech, executive, operations | [Apply](https://web3.career/head-of-marketing-operations-tastylive/108293) |
