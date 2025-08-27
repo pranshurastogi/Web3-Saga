@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Social Media Manager X | CoinStats | 4h | N/A |  | social media, non tech, content marketing, copywriting, digital marketing | [Apply](https://web3.career/social-media-manager-for-x-coinstats/110450) |
-| Web3 Marketing Specialist | ROVR Network | 3d | , | $36k - $90k | marketing specialist, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/web3-marketing-specialist-rovrnetwork/109883) |
-| Senior Marketing AI Operations Manager | QuickNode | 4d | N/A | $103k - $117k | ai, marketing, non tech, operations, senior | [Apply](https://web3.career/senior-marketing-ai-operations-manager-quicknode/109620) |
-| Senior Product Marketer L3 | CoinGecko | 4d | , | $105k - $120k | marketing, non tech, senior, blockchain, crypto | [Apply](https://web3.career/senior-product-marketer-l3-coingecko/109617) |
+| CRM Retention Lead | Avant Arte | 4h | , | $84k - $148k | marketing, non tech, product manager, crm, lead | [Apply](https://web3.career/crm-retention-lead-avantarte/110934) |
+| Head of Marketing | Oasisnetwork | 6h | N/A | $36k - $65k | head of marketing, marketing, non tech, executive, remote | [Apply](https://web3.career/head-of-marketing-oasisnetwork/73767) |
+| Manager Marketing Operations | Inmobi | 6h | Remote | $105k - $110k | marketing, non tech, operations, remote | [Apply](https://web3.career/manager-marketing-operations-inmobi/99742) |
+| Senior Manager Affiliate Strategic Partnerships | Figure | 6h | Remote | $118k - $148k | affiliate, marketing, non tech, partnership, sales | [Apply](https://web3.career/senior-manager-affiliate-strategic-partnerships-figure/106731) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Head of Marketing | Decentralized Masters | 4d | , | $105k - $157k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-decentralizedmasters/109612) |
-| Social Media Marketing Manager Walrus | Sui Foundation | 4d | N/A | $90k - $112k | marketing manager, marketing, non tech, social media, blockchain | [Apply](https://web3.career/social-media-marketing-manager-walrus-suifoundation/109573) |
-| Partner Marketing Manager Walrus | Sui Foundation | 4d | N/A | $90k - $112k | marketing manager, marketing, non tech, blockchain, gaming | [Apply](https://web3.career/partner-marketing-manager-walrus-suifoundation/109572) |
-| Partner Marketing Coordinator Walrus Contract | Sui Foundation | 4d | N/A | $90k - $112k | marketing, non tech, blockchain, gaming | [Apply](https://web3.career/partner-marketing-coordinator-walrus-contract-suifoundation/109571) |
-| Senior Communications Manager Walrus | Mysten Labs | 4d | N/A | $150k - $180k | marketing, non tech, pr, communications, senior | [Apply](https://web3.career/senior-communications-manager-walrus-mystenlabs/109562) |
+| Associate Community Retention | Bitpanda | 6h | Remote |  | marketing, non tech, product manager, community manager, crypto | [Apply](https://web3.career/associate-community-retention-bitpanda/105554) |
+| Affiliates Marketing Specialist | Bitpanda | 6h | Remote | $91k - $117k | marketing specialist, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/affiliates-marketing-specialist-bitpanda/106699) |
+| Permance Marketing Specialist | Bitpanda | 6h | , | $13k - $110k | marketing specialist, marketing, non tech, bitcoin | [Apply](https://web3.career/performance-marketing-specialist-bitpanda/59316) |
+| FrontEnd Manager Marketing Compliance | Bitmex | 6h | Remote | $105k - $110k | compliance, non tech, front end, marketing, crypto | [Apply](https://web3.career/front-end-manager-marketing-compliance-bitmex/106096) |
+| Marketing Internship | Bitmex | 6h | Remote | $84k - $115k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/marketing-internship-bitmex/94275) |
