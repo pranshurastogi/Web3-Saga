@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Business Development Manager | Scrollio | 1d | Remote | $91k - $96k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-scrollio/109188) |
-| Director of Business Development Payments | Avalabs | 1d | Remote | $194k - $242k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/director-of-business-development-payments-avalabs/110813) |
-| Business Development Manager | Alpaca | 1d | Remote | $68k - $90k | business development, sales, non tech, crypto, remote | [Apply](https://web3.career/business-development-manager-alpaca/104042) |
-| Business Development Manager | Woo | 1d | Remote | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-woo/95644) |
+| China GTM Business Development Manager | Sentient | 6h | , | $68k - $75k | china, business development, sales, non tech, gtm | [Apply](https://web3.career/china-gtm-business-development-manager-sentient/112068) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Business Development Manager | Copperco | 6h | Remote | $100k - $145k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-copperco/105560) |
+| Head of Business Development | Petal | 19h | , | $98k - $108k | business development, sales, non tech, executive, crypto | [Apply](https://web3.career/head-of-business-development-petal/111759) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Business Development Manager Trading | Okx | 1d | Remote | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-trading-okx/110770) |
-| BD Manager Web3 | OSL | 6d | , | $91k - $96k | business development, blockchain, crypto, defi | [Apply](https://web3.career/bd-manager-web3-osl/109611) |
-| Business Development Rollups NYC SF | Gelato | 7d | , | $91k - $96k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-rollups-nyc-sf-gelato/109453) |
-| Business Development Intern | The Block | 7d | N/A | $18k - $22k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/business-development-intern-theblockcrypto/109318) |
-| SPRING Marketing and Business Development Intern | Integra | 8d | Remote | $32k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/spring-marketing-and-business-development-intern-integra/109179) |
+| Business Development Manager | Scrollio | 2d | Remote | $91k - $96k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-scrollio/109188) |
+| Director of Business Development Payments | Avalabs | 2d | Remote | $194k - $242k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/director-of-business-development-payments-avalabs/110813) |
+| Business Development Manager | Alpaca | 2d | Remote | $68k - $90k | business development, sales, non tech, crypto, remote | [Apply](https://web3.career/business-development-manager-alpaca/104042) |
+| Business Development Manager | Woo | 2d | Remote | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-woo/95644) |
+| Business Development Manager Trading | Okx | 2d | Remote | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-trading-okx/110770) |
