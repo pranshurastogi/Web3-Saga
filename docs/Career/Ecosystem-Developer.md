@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Protocol Growth Partnerships Manager | Anchorage Digital | 5h | N/A | $108k - $111k | growth, partnership, sales, non tech, protocol | [Apply](https://web3.career/protocol-growth-partnerships-manager-anchorage/115026) |
-| Growth Marketing | Menyala | 1d | Remote | $32k - $65k | growth marketing, growth, marketing, non tech, remote | [Apply](https://web3.career/growth-marketing-menyala/114228) |
-| Growth Marketing Manager | Localcoin | 1d | N/A | $72k - $115k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-localcoin/77971) |
-| Head of Growth Marketing | Tastylive | 1d | Remote | $230k - $260k | growth marketing, growth, executive, marketing, non tech | [Apply](https://web3.career/head-of-growth-marketing-tastylive/108292) |
+| Senior Client Growth Manager | Inmobi | 6h | Remote | $87k - $105k | growth, senior, remote | [Apply](https://web3.career/senior-client-growth-manager-inmobi/115852) |
+| Growth Consultant LATAM | Avalabs | 6h | N/A | $54k - $90k | growth, consulting, remote, gaming, blockchain | [Apply](https://web3.career/growth-consultant-latam-avalabs/80818) |
+| Senior Growth Product Manager | Woo | 6h | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
+| Growth Manager SEO ASO Russian Speaker | Okx | 7h | Remote | $75k - $99k | growth, seo, non tech, blockchain, crypto | [Apply](https://web3.career/growth-manager-seo-aso-russian-speaker-okx/115696) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Content Growth Strategist | pod network | 5d | N/A | $45k - $99k | growth, remote, blockchain, crypto, discord | [Apply](https://web3.career/content-growth-strategist-podnetwork/112716) |
-| Associate Growth Marketing | Gemini | 5d | , | $32k - $58k | growth marketing, growth, marketing, non tech, crypto | [Apply](https://web3.career/associate-growth-marketing-gemini/112656) |
-| Growth Lead | Petal | 6d | , | $91k - $99k | growth, lead, blockchain, crypto, defi | [Apply](https://web3.career/growth-lead-petal/112320) |
-| Lead Product Manager Exchange Growth Fraud | Gemini | 7d | , | $168k - $240k | growth, security, lead, product manager, non tech | [Apply](https://web3.career/lead-product-manager-exchange-growth-fraud-gemini/111633) |
-| Growth intern | The Block | 7d | N/A | $15k - $18k | growth, intern, entry level, remote, crypto | [Apply](https://web3.career/growth-intern-theblockcrypto/111528) |
+| Protocol Growth Partnerships Manager | Anchorage Digital | 1d | N/A | $108k - $111k | growth, partnership, sales, non tech, protocol | [Apply](https://web3.career/protocol-growth-partnerships-manager-anchorage/115026) |
+| Growth Marketing | Menyala | 2d | Remote | $32k - $65k | growth marketing, growth, marketing, non tech, remote | [Apply](https://web3.career/growth-marketing-menyala/114228) |
+| Growth Marketing Manager | Localcoin | 2d | N/A | $72k - $115k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-localcoin/77971) |
+| Head of Growth Marketing | Tastylive | 2d | Remote | $230k - $260k | growth marketing, growth, executive, marketing, non tech | [Apply](https://web3.career/head-of-growth-marketing-tastylive/108292) |
+| Content Growth Strategist | pod network | 6d | N/A | $45k - $99k | growth, remote, blockchain, crypto, discord | [Apply](https://web3.career/content-growth-strategist-podnetwork/112716) |
