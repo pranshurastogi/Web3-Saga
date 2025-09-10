@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Base Ads Marketing Operations Manager US | Base | 14m | N/A | $90k - $100k | ads, marketing, non tech, operations, remote | [Apply](https://web3.career/base-ads-marketing-operations-manager-us-base/118755) |
-| VP of Marketing Intelligence | Crypto.com | 18h | , | $157k - $160k | marketing, non tech, vp of marketing, executive, aws | [Apply](https://web3.career/vp-of-marketing-intelligence-crypto-com/118128) |
-| ZIGChain Marketing Lead | ZIGCHAIN | 2d | N/A |  | lead, marketing lead, marketing, non tech, remote | [Apply](https://web3.career/zigchain-marketing-lead-zigchain/105881) |
-| Marketing Manager Community Growth Roles Web3 TON | AI Dogg | 3d | Remote | $45k - $75k | ton developer, ethereum, func developer, growth, marketing manager | [Apply](https://web3.career/marketing-manager-community-growth-roles-web3-ton-aidogg/117369) |
+| Head of Marketing | Oasisnetwork | 5h | N/A | $36k - $65k | head of marketing, marketing, non tech, executive, remote | [Apply](https://web3.career/head-of-marketing-oasisnetwork/73767) |
+| SUMMER Marketing and Business Development Intern | Integra | 5h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
+| Associate Community Retention | Bitpanda | 6h | Remote |  | marketing, non tech, product manager, community manager, crypto | [Apply](https://web3.career/associate-community-retention-bitpanda/105554) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Marketing Manager | Metis.io | 3d | N/A | $10k | marketing manager, marketing, non tech, growth marketing, head of marketing | [Apply](https://web3.career/marketing-manager-metis-io/107718) |
-| Crypto Client Relationship Manager | Robinhood | 4d | , | $85k - $100k | marketing, non tech, crypto | [Apply](https://web3.career/crypto-client-relationship-manager-robinhood/116181) |
-| SUMMER Marketing and Business Development Intern | Integra | 4d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
-| Marketing Director | Coins.ph | 5d | , | $21k - $72k | executive, cmo, marketing, non tech, crypto | [Apply](https://web3.career/marketing-director-coins/115396) |
-| Marketing Lead | Cere Network | 5d | , |  | lead, marketing lead, marketing, non tech, gaming | [Apply](https://web3.career/marketing-lead-cere-network/78887) |
+| Lead Marketing UK | Bitpanda | 6h | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
+| Marketing Internship | Bitmex | 6h | Remote | $84k - $115k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/marketing-internship-bitmex/94275) |
+| Affiliate Operations Manager Fogo | Douro Labs | 6h | N/A | $81k - $85k | affiliate, marketing, non tech, operations, crypto | [Apply](https://web3.career/affiliate-operations-manager-fogo-dourolabs/119780) |
+| Account Manager Partnership Marketing | Alliedglobalmarketing | 6h | Remote | $63k - $75k | account manager, sales, non tech, partnership, marketing | [Apply](https://web3.career/account-manager-partnership-marketing-alliedglobalmarketing/100450) |
+| Product Manager Growth | Alchemy | 6h | remote | $54k - $87k | marketing, non tech, product manager, remote | [Apply](https://web3.career/product-manager-growth-alchemy/31091) |
