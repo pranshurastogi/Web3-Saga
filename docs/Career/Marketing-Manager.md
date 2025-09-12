@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Growth Marketing Manager — Ukraine | Binance | 17h | Eastern Europe |  | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/senior-growth-marketing-manager-ukraine-binance/120966) |
-| Digital Marketing Associate New Grad | D3 | 20h | , | $32k - $81k | digital marketing, intern, entry level, marketing, non tech | [Apply](https://web3.career/digital-marketing-associate-new-grad-d3/120736) |
-| Marketing Intern Web3 | HELIX | 22h | Remote | $72k - $75k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/marketing-intern-web3-helix/120636) |
-| Head of Marketing | Oasisnetwork | 1d | N/A | $36k - $65k | head of marketing, marketing, non tech, executive, remote | [Apply](https://web3.career/head-of-marketing-oasisnetwork/73767) |
+| Vice President Product Marketing | Grayscaleinvestments | 6h | Remote | $32k - $58k | marketing, non tech, product marketing, crypto, remote | [Apply](https://web3.career/vice-president-product-marketing-grayscaleinvestments/122946) |
+| Marketing Associate | Magic Eden | 6h | Remote | $105k - $162k | marketing, non tech, bitcoin, dapp, nft | [Apply](https://web3.career/marketing-associate-magiceden/122880) |
+| Senior Marketing Specialist MarTech | Kraken | 6h | N/A | $96k - $153k | marketing specialist, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-marketing-specialist-martech-kraken/122847) |
+| Futures Affiliate Manager APAC MENA | Kraken | 6h | Remote | $39k - $45k | affiliate, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/futures-affiliate-manager-apac-mena-kraken/122816) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| SUMMER Marketing and Business Development Intern | Integra | 1d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
-| Relationship Manager | Copperco | 1d | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
-| Associate Community Retention | Bitpanda | 1d | Remote |  | marketing, non tech, product manager, community manager, crypto | [Apply](https://web3.career/associate-community-retention-bitpanda/105554) |
-| Lead Marketing UK | Bitpanda | 1d | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
-| Marketing Internship | Bitmex | 1d | Remote | $84k - $115k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/marketing-internship-bitmex/94275) |
+| Logos Campaign Director | Logos | 7h | Remote | $32k - $90k | marketing, non tech, executive, crypto, remote | [Apply](https://web3.career/logos-campaign-director-logos/100142) |
+| Affiliate Growth Manager Fogo | Douro Labs | 16h | Asia | $54k - $90k | affiliate, marketing, non tech, growth, crypto | [Apply](https://web3.career/affiliate-growth-manager-fogo-dourolabs/122122) |
+| Digital Marketing Lead | TON Foundation | 19h | Remote | $88k - $111k | digital marketing, lead, marketing lead, marketing, non tech | [Apply](https://web3.career/digital-marketing-lead-ton-foundation/121923) |
+| Permance Marketing Specialist Crypto Blockchain | Caiz | 21h | Remote | $39k - $45k | marketing specialist, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/performance-marketing-specialist-crypto-blockchain-caiz/121693) |
+| Senior Growth Marketing Manager — Ukraine | Binance | 1d | Eastern Europe |  | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/senior-growth-marketing-manager-ukraine-binance/120966) |
