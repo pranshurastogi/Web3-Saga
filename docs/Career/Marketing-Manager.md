@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Growth Marketing Lead | Bitso | 14m | MÃ©xico | $91k - $96k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-bitso/126180) |
-| Affiliate Growth Manager Fogo | Pyth Network | 3d | , | $81k - $180k | affiliate, marketing, non tech, growth, crypto | [Apply](https://web3.career/affiliate-growth-manager-fogo-pythnetwork/124739) |
-| Affiliate Operations Manager Fogo | Pyth Network | 3d | , | $23k - $62k | affiliate, marketing, non tech, operations, crypto | [Apply](https://web3.career/affiliate-operations-manager-fogo-pythnetwork/124737) |
-| Full Stack Marketing Manager Remote Friendly East Coast US Preferred | Obinex | 4d | , | $54k - $80k | marketing manager, remote, full stack, marketing, non tech | [Apply](https://web3.career/full-stack-marketing-manager-remote-friendly-east-coast-us-preferred-obinex/123573) |
+| KOL Business Development Manager | Syndr | 6h | Remote | $54k - $90k | business development, sales, non tech, influencer marketing, social media | [Apply](https://web3.career/kol-business-development-manager-syndr/128028) |
+| Head of Marketing | Oasisnetwork | 6h | N/A | $36k - $65k | head of marketing, marketing, non tech, executive, remote | [Apply](https://web3.career/head-of-marketing-oasisnetwork/73767) |
+| Chief Marketing Officer Breakout Prop | Kraken | 6h | N/A | $146k - $234k | cmo, executive, marketing, non tech, blockchain | [Apply](https://web3.career/chief-marketing-officer-breakout-prop-kraken/127863) |
+| APAC Regional Marketing Lead | Layerzerolabs | 6h | Remote | $88k - $110k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/apac-regional-marketing-lead-layerzerolabs/127766) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Vice President Product Marketing | Grayscaleinvestments | 4d | Remote | $32k - $58k | marketing, non tech, product marketing, crypto, remote | [Apply](https://web3.career/vice-president-product-marketing-grayscaleinvestments/122946) |
-| Marketing Associate | Magic Eden | 4d | Remote | $105k - $162k | marketing, non tech, bitcoin, dapp, nft | [Apply](https://web3.career/marketing-associate-magiceden/122880) |
-| Senior Marketing Specialist MarTech | Kraken | 4d | N/A | $96k - $153k | marketing specialist, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-marketing-specialist-martech-kraken/122847) |
-| Futures Affiliate Manager APAC MENA | Kraken | 4d | Remote | $39k - $45k | affiliate, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/futures-affiliate-manager-apac-mena-kraken/122816) |
-| Logos Campaign Director | Logos | 4d | Remote | $32k - $90k | marketing, non tech, executive, crypto, remote | [Apply](https://web3.career/logos-campaign-director-logos/100142) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Director Channel Marketing | Grayscaleinvestments | 6h | Remote | $32k - $90k | executive, marketing, non tech, crypto, remote | [Apply](https://web3.career/director-channel-marketing-grayscaleinvestments/127734) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
+| Marketing Internship | Bitmex | 6h | Remote | $84k - $115k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/marketing-internship-bitmex/94275) |
+| Communications Manager | Alliedglobalmarketing | 6h | Remote |  | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/communications-manager-alliedglobalmarketing/127502) |
