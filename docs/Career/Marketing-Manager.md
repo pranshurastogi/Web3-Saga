@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Marketing Manager Peru | Binance | 14h | , |  | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-peru-binance/128754) |
-| Marketing Campaign Manager | Coins.ph | 15h | , | $32k - $65k | marketing, non tech | [Apply](https://web3.career/marketing-campaign-manager-coins/128722) |
-| Web3 Marketing Lead | GlitchD Labs | 22h | Remote | $111k - $119k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/web3-marketing-lead-glitchdlabs/128296) |
-| KOL Business Development Manager | Syndr | 1d | Remote | $54k - $90k | business development, sales, non tech, influencer marketing, social media | [Apply](https://web3.career/kol-business-development-manager-syndr/128028) |
+| Creator Marketing Associate Contract | Sui Foundation | 6h | European Union | $90k - $112k | marketing, non tech, blockchain, crypto, gaming | [Apply](https://web3.career/creator-marketing-associate-contract-suifoundation/130307) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Head Of Marketing Venture Business | Improbable | 6h | , | $135k - $151k | head of marketing, marketing, non tech, executive, vc | [Apply](https://web3.career/head-of-marketing-venture-business-improbable/130241) |
+| Associate Community Retention | Bitpanda | 6h | Remote |  | marketing, non tech, product manager, community manager, crypto | [Apply](https://web3.career/associate-community-retention-bitpanda/105554) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Head of Marketing | Oasisnetwork | 1d | N/A | $36k - $65k | head of marketing, marketing, non tech, executive, remote | [Apply](https://web3.career/head-of-marketing-oasisnetwork/73767) |
-| Chief Marketing Officer Breakout Prop | Kraken | 1d | N/A | $146k - $234k | cmo, executive, marketing, non tech, blockchain | [Apply](https://web3.career/chief-marketing-officer-breakout-prop-kraken/127863) |
-| APAC Regional Marketing Lead | Layerzerolabs | 1d | Remote | $88k - $110k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/apac-regional-marketing-lead-layerzerolabs/127766) |
-| SUMMER Marketing and Business Development Intern | Integra | 1d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
-| Director Channel Marketing | Grayscaleinvestments | 1d | Remote | $32k - $90k | executive, marketing, non tech, crypto, remote | [Apply](https://web3.career/director-channel-marketing-grayscaleinvestments/127734) |
+| Permance Marketing Specialist | Bitpanda | 6h | , | $13k - $110k | marketing specialist, marketing, non tech, bitcoin | [Apply](https://web3.career/performance-marketing-specialist-bitpanda/59316) |
+| Lead Marketing UK | Bitpanda | 6h | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
+| Partner Marketing Manager | Aptoslabs | 6h | Remote | $140k - $175k | marketing manager, marketing, non tech, blockchain, defi | [Apply](https://web3.career/partner-marketing-manager-aptoslabs/130075) |
+| Account Manager Partnership Marketing Music + Sports | Alliedglobalmarketing | 6h | Remote | $63k - $75k | account manager, sales, non tech, partnership, marketing | [Apply](https://web3.career/account-manager-partnership-marketing-music-sports-alliedglobalmarketing/130074) |
+| Head of Marketing Operations | Tastylive | 7h | Remote | $180k - $220k | head of marketing, marketing, non tech, executive, operations | [Apply](https://web3.career/head-of-marketing-operations-tastylive/108293) |
