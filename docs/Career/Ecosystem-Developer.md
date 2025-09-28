@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Growth Marketing Lead United States Canada | CoinTracker | 1d | N/A | $135k - $185k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-united-states-canada-cointracker/135228) |
-| Senior Growth Product Manager | Coins.ph | 1d | , | $68k - $90k | growth, product manager, non tech, senior, crypto | [Apply](https://web3.career/senior-growth-product-manager-coins/134661) |
-| Business Development Client Manager | Runtime Verification | 2d | N/A |  | business development, sales, non tech, account manager, growth | [Apply](https://web3.career/business-development-client-manager-runtime-verification/134232) |
-| Senior Fullstack Engineer Growth | Bitso | 3d | Latin America | $87k - $87k | growth, engineer, full stack, senior, aws | [Apply](https://web3.career/senior-fullstack-engineer-growth-bitso/133506) |
+| Growth Marketing Lead United States Canada | CoinTracker | 2d | N/A | $135k - $185k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-united-states-canada-cointracker/135228) |
+| Senior Growth Product Manager | Coins.ph | 3d | , | $68k - $90k | growth, product manager, non tech, senior, crypto | [Apply](https://web3.career/senior-growth-product-manager-coins/134661) |
+| Business Development Client Manager | Runtime Verification | 3d | N/A |  | business development, sales, non tech, account manager, growth | [Apply](https://web3.career/business-development-client-manager-runtime-verification/134232) |
+| Senior Fullstack Engineer Growth | Bitso | 4d | Latin America | $87k - $87k | growth, engineer, full stack, senior, aws | [Apply](https://web3.career/senior-fullstack-engineer-growth-bitso/133506) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| iOS Growth PM — AI Image Generation | Myshell | 3d | Remote |  | growth, ai, ios, mobile, remote | [Apply](https://web3.career/ios-growth-pm-ai-image-generation-myshell/133347) |
-| Developer Relations Ecosystem Growth Lead | Sentient | 3d | , | $72k - $78k | developer relations, growth, dev, lead, discord | [Apply](https://web3.career/developer-relations-ecosystem-growth-lead-sentient/133341) |
-| Growth Consultant LATAM | Avalabs | 3d | N/A | $54k - $90k | growth, consulting, remote, gaming, blockchain | [Apply](https://web3.career/growth-consultant-latam-avalabs/80818) |
-| Senior Growth Product Manager | Woo | 3d | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
-| Growth Marketing Manager | Taxbit | 3d | Remote | $90k - $150k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-taxbit/133044) |
+| iOS Growth PM — AI Image Generation | Myshell | 4d | Remote |  | growth, ai, ios, mobile, remote | [Apply](https://web3.career/ios-growth-pm-ai-image-generation-myshell/133347) |
+| Developer Relations Ecosystem Growth Lead | Sentient | 4d | , | $72k - $78k | developer relations, growth, dev, lead, discord | [Apply](https://web3.career/developer-relations-ecosystem-growth-lead-sentient/133341) |
+| Growth Consultant LATAM | Avalabs | 4d | N/A | $54k - $90k | growth, consulting, remote, gaming, blockchain | [Apply](https://web3.career/growth-consultant-latam-avalabs/80818) |
+| Senior Growth Product Manager | Woo | 4d | Remote | $68k - $90k | growth, product manager, non tech, senior, blockchain | [Apply](https://web3.career/senior-growth-product-manager-woo/95664) |
+| Growth Marketing Manager | Taxbit | 4d | Remote | $90k - $150k | growth marketing, growth, marketing manager, marketing, non tech | [Apply](https://web3.career/growth-marketing-manager-taxbit/133044) |
