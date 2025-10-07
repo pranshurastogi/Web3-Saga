@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Marketing Lead | Cere Network | 2d | , |  | lead, marketing lead, marketing, non tech, gaming | [Apply](https://web3.career/marketing-lead-cere-network/78887) |
-| Marketing Lead | Alliance | 2d | , | $160k - $240k | lead, marketing lead, marketing, non tech, crypto | [Apply](https://web3.career/marketing-lead-alliance/137850) |
-| Business Development Manager – TGE Marketing | ChainGPT | 2d | N/A |  | business development, sales, non tech, marketing, remote | [Apply](https://web3.career/business-development-manager-tge-marketing-chaingpt/137849) |
-| Fulltime Marketing Manager Korea Remote | Buidlpad | 3d | N/A | $36k - $60k | marketing manager, remote, full time, marketing, non tech | [Apply](https://web3.career/full-time-marketing-manager-korea-remote-buidlpad/114531) |
+| Marketing Manager | Metis.io | 13h | N/A | $10k | marketing manager, marketing, non tech, growth marketing, head of marketing | [Apply](https://web3.career/marketing-manager-metis-io/107718) |
+| Marketing Lead | Cere Network | 3d | , |  | lead, marketing lead, marketing, non tech, gaming | [Apply](https://web3.career/marketing-lead-cere-network/78887) |
+| Marketing Lead | Alliance | 3d | , | $160k - $240k | lead, marketing lead, marketing, non tech, crypto | [Apply](https://web3.career/marketing-lead-alliance/137850) |
+| Business Development Manager – TGE Marketing | ChainGPT | 3d | N/A |  | business development, sales, non tech, marketing, remote | [Apply](https://web3.career/business-development-manager-tge-marketing-chaingpt/137849) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Ecosystem Marketing Manager | Metaplex | 3d | N/A | $90k - $140k | marketing manager, marketing, non tech, defi, gaming | [Apply](https://web3.career/ecosystem-marketing-manager-metaplex/137835) |
-| Internal Communications Manager | MoonPay | 3d | N/A | $39k - $45k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/internal-communications-manager-moonpay/137817) |
-| Product Marketing Lead | Succinct | 3d | Remote | $125k - $175k | lead, marketing lead, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-lead-succinct/137805) |
-| Senior Manager – Global Campaign Management Brand Business | Inmobi | 3d | Remote | $37k - $43k | marketing, non tech, brand, senior, remote | [Apply](https://web3.career/senior-manager-global-campaign-management-brand-business-inmobi/137800) |
-| Lead Marketing UK | Bitpanda | 3d | Remote | $105k - $148k | lead, marketing, non tech, crypto, bitcoin | [Apply](https://web3.career/lead-marketing-uk-bitpanda/101610) |
+| Fulltime Marketing Manager Korea Remote | Buidlpad | 4d | N/A | $36k - $60k | marketing manager, remote, full time, marketing, non tech | [Apply](https://web3.career/full-time-marketing-manager-korea-remote-buidlpad/114531) |
+| Ecosystem Marketing Manager | Metaplex | 4d | N/A | $90k - $140k | marketing manager, marketing, non tech, defi, gaming | [Apply](https://web3.career/ecosystem-marketing-manager-metaplex/137835) |
+| Internal Communications Manager | MoonPay | 4d | N/A | $39k - $45k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/internal-communications-manager-moonpay/137817) |
+| Product Marketing Lead | Succinct | 4d | Remote | $125k - $175k | lead, marketing lead, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-lead-succinct/137805) |
+| Senior Manager – Global Campaign Management Brand Business | Inmobi | 4d | Remote | $37k - $43k | marketing, non tech, brand, senior, remote | [Apply](https://web3.career/senior-manager-global-campaign-management-brand-business-inmobi/137800) |
