@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Education Marketing Manager Kyrgyzstan | Binance | 16h | , |  | marketing manager, education, marketing, non tech, blockchain | [Apply](https://web3.career/education-marketing-manager-kyrgyzstan-binance/138266) |
-| Frontend Developer Marketing | solflare | 1d | N/A | $60k | dev, front end, marketing, non tech, aws | [Apply](https://web3.career/frontend-developer-marketing-solflare/138253) |
-| Influencer Manager Crypto | TheSoul Publishing | 3d | Remote | $54k - $58k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/influencer-manager-crypto-thesoulpublishing/138229) |
-| Senior Marketing Manager KZ | Binance | 3d | , |  | marketing manager, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-marketing-manager-kz-binance/138217) |
+| Marketing Manager | KRIPTOMAT (FintechX OU) | 4h | , | $21k - $54k | marketing manager, marketing, non tech, crypto | [Apply](https://web3.career/marketing-manager-kriptomat/138394) |
+| Senior Product Marketing Manager | Bcbgroup | 5h | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| Head of Marketing | Oasisnetwork | 6h | N/A | $36k - $65k | head of marketing, marketing, non tech, executive, remote | [Apply](https://web3.career/head-of-marketing-oasisnetwork/73767) |
+| Head of Marketing | Succinct | 6h | Remote | $175k - $225k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-succinct/138378) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Marketing Manager Kyrgyzstan | Binance | 4d | , |  | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-kyrgyzstan-binance/138212) |
-| Marketing Designer | Bluecubeservices | 4d | Remote | $39k - $45k | design, non tech, marketing, blockchain, crypto | [Apply](https://web3.career/marketing-designer-bluecubeservices/138139) |
-| Public Relations Manager | Coin Market Cap Ltd | 5d | , | $72k - $99k | pr, non tech, marketing, blockchain, crypto | [Apply](https://web3.career/public-relations-manager-coinmarketcap/138115) |
-| Marketing Associate | Quidax | 6d | , | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/marketing-associate-quidaxcareers/138059) |
-| Product Marketing Manager Bitcoin DeFi | IO Global | 6d | Remote | $54k - $72k | marketing manager, marketing, non tech, product marketing, bitcoin | [Apply](https://web3.career/product-marketing-manager-bitcoin-defi-ioglobal/138033) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Public Relations Lead – EU Remote | P2P. org | 6h | Remote |  | pr, non tech, marketing, remote, lead | [Apply](https://web3.career/public-relations-lead-eu-remote-p2p-org/138369) |
+| Head of Affiliate KOL Growth | Kraken | 6h | European Union | $134k - $192k | affiliate, marketing, non tech, growth, executive | [Apply](https://web3.career/head-of-affiliate-kol-growth-kraken/138362) |
+| Product Marketing Manager | ENS Labs | 6h | N/A | $71k - $118k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-enslabs/138356) |
