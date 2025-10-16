@@ -5,10 +5,10 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Engineer | Layerzerolabs | 6h | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
-| Developer Relations Manager | Polymarket | 12d | N/A | $87k - $95k | developer relations, dev, blockchain, crypto, defi | [Apply](https://web3.career/developer-relations-manager-polymarket/137778) |
-| Developer Relations Ecosystem Growth Lead | Sentient | 21d | , | $72k - $78k | developer relations, growth, dev, lead, discord | [Apply](https://web3.career/developer-relations-ecosystem-growth-lead-sentient/133341) |
-| Developer Relations NYC | Sei Development Foundation | 22d | , | $77k - $84k | developer relations, dev, blockchain, crypto, discord | [Apply](https://web3.career/developer-relations-nyc-seidevelopmentfoundation/132747) |
+| Developer Relations Engineer | Layerzerolabs | 1d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
+| Developer Relations Manager | Polymarket | 13d | N/A | $87k - $95k | developer relations, dev, blockchain, crypto, defi | [Apply](https://web3.career/developer-relations-manager-polymarket/137778) |
+| Developer Relations Ecosystem Growth Lead | Sentient | 22d | , | $72k - $78k | developer relations, growth, dev, lead, discord | [Apply](https://web3.career/developer-relations-ecosystem-growth-lead-sentient/133341) |
+| Developer Relations NYC | Sei Development Foundation | 23d | , | $77k - $84k | developer relations, dev, blockchain, crypto, discord | [Apply](https://web3.career/developer-relations-nyc-seidevelopmentfoundation/132747) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Subnet Community Moderator Developer Relations | Affine.io | 1mo | N/A | $18k - $42k | developer relations, community manager, non tech, dev, discord | [Apply](https://web3.career/subnet-community-moderator-developer-relations-affine-io/124134) |
 | Director of Developer Relations | Ripple | 1mo | , | $216k - $270k | developer relations, dev, executive, blockchain, crypto | [Apply](https://web3.career/director-of-developer-relations-ripple/120802) |
