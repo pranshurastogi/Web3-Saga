@@ -5,8 +5,8 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Engineer | Layerzerolabs | 9d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
-| Developer Relations Engineer | The Sia Foundation | 16d | , | $149k - $178k | developer relations, dev, engineer, blockchain, discord | [Apply](https://web3.career/developer-relations-engineer-the-sia-foundation/138590) |
+| Developer Relations Engineer | Layerzerolabs | 10d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
+| Developer Relations Engineer | The Sia Foundation | 17d | , | $149k - $178k | developer relations, dev, engineer, blockchain, discord | [Apply](https://web3.career/developer-relations-engineer-the-sia-foundation/138590) |
 | Developer Relations Manager | Polymarket | 1mo | N/A | $87k - $95k | developer relations, dev, blockchain, crypto, defi | [Apply](https://web3.career/developer-relations-manager-polymarket/137778) |
 | Developer Relations Ecosystem Growth Lead | Sentient | 1mo | , | $72k - $78k | developer relations, growth, dev, lead, discord | [Apply](https://web3.career/developer-relations-ecosystem-growth-lead-sentient/133341) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
