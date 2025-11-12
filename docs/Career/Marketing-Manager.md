@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| NUVA Marketing Manager | Animoca Brands Limited | 15h | N/A | $45k - $52k | marketing manager, marketing, non tech, remote, blockchain | [Apply](https://web3.career/nuva-marketing-manager-animocabrands/140053) |
-| Member of Marketing Asia | Anchorage Digital | 3d | , | $103k - $118k | ai, marketing, non tech, crypto | [Apply](https://web3.career/member-of-marketing-asia-anchorage/139941) |
-| Analyst Marketing Europe | Gemini | 4d | , | $76k - $80k | analyst, marketing, non tech, crypto | [Apply](https://web3.career/analyst-marketing-europe-gemini/139861) |
-| Product Marketing Director | Bitso | 4d | MÃ©xico | $21k - $72k | executive, cmo, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-director-bitso/139860) |
+| Vibe Marketer Intern | Token Metrics | 4h | , | $54k - $75k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/vibe-marketer-intern-tokenmetrics/140222) |
+| Senior Product Marketing Manager | Bcbgroup | 6h | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Head of Product Marketing DeepBook | Mysten Labs | 6h | N/A | $160k - $240k | executive, marketing, non tech, product manager, product marketing | [Apply](https://web3.career/head-of-product-marketing-deepbook-mystenlabs/140176) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Lead Product Marketing Manager OTC | Kraken | 4d | European Union | $88k - $110k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-otc-kraken/139829) |
-| Product Marketing Manager | Copperco | 4d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-copperco/139828) |
-| Marketing Manager Affiliate LATAM | Kraken | 4d | N/A | $39k - $45k | affiliate, marketing, non tech, marketing manager, blockchain | [Apply](https://web3.career/marketing-manager-affiliate-latam-kraken/139827) |
-| Senior Specialist Marketing Web3 | Bitpanda | 4d | Remote | $98k - $110k | marketing, non tech, senior, crypto, bitcoin | [Apply](https://web3.career/senior-specialist-marketing-web3-bitpanda/138856) |
-| Content Marketing Lead | Superstate | 4d | , | $77k - $100k | content marketing, lead, marketing lead, marketing, non tech | [Apply](https://web3.career/content-marketing-lead-superstate/139806) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Lead Product Marketing Manager | Figure | 6h | Remote | $144k - $180k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-figure/138893) |
+| Content Specialist AEO SEO | Kraken | 6h | N/A | $86k - $134k | marketing, non tech, copywriting, seo, blockchain | [Apply](https://web3.career/content-specialist-aeo-seo-kraken/140165) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
+| Data Analyst Marketing | Bluecubeservices | 6h | Remote | $79k - $100k | analyst, data science, marketing, non tech, blockchain | [Apply](https://web3.career/data-analyst-marketing-bluecubeservices/140151) |
