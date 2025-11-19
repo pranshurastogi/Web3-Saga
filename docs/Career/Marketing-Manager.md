@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| KOL Manager Influencer Marketing Rally.fun | GenLayer Labs | 4d | N/A |  | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/kol-manager-influencer-marketing-rally-fun-genlayer-labs/140382) |
-| Relationship Manager | Copper.co | 4d | , | $100k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copper-co/140377) |
-| Marketing Manager | Bitso | 4d | Latin America | $21k - $54k | marketing manager, marketing, non tech, crypto | [Apply](https://web3.career/marketing-manager-bitso/140368) |
-| Institutional Marketing Manager | Polygon Labs | 4d | N/A | $90k - $125k | marketing manager, marketing, non tech, blockchain, discord | [Apply](https://web3.career/institutional-marketing-manager-polygonlabs/140344) |
+| Senior Product Marketing Manager | Bcbgroup | 5h | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Lead Product Marketing Manager | Figure | 6h | Remote | $144k - $180k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-figure/138893) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| VIP Relationship Manager | Kraken | 4d | , | $39k - $45k | marketing, non tech, blockchain, crypto | [Apply](https://web3.career/vip-relationship-manager-kraken/140329) |
-| Product Marketing Manager | Copperco | 4d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-copperco/139828) |
-| Senior Specialist Marketing Web3 | Bitpanda | 4d | Remote | $98k - $110k | marketing, non tech, senior, crypto, bitcoin | [Apply](https://web3.career/senior-specialist-marketing-web3-bitpanda/138856) |
-| Affiliate Manager NYC | Nansen | 4d | Remote | $39k - $45k | affiliate, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/affiliate-manager-nyc-nansen/140308) |
-| Marketing Graphic Designer | Kast | 5d | Remote | $84k - $144k | graphic designer, design, non tech, marketing, crypto | [Apply](https://web3.career/marketing-graphic-designer-kast/140300) |
+| Sr. Institutional Relationship Manager | Kraken | 6h | , | $93k - $115k | marketing, non tech, senior, blockchain, crypto | [Apply](https://web3.career/sr-institutional-relationship-manager-kraken/140573) |
+| Product Marketing Manager | Copperco | 6h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-copperco/139828) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
+| Associate Community Retention | Bitpanda | 6h | Remote |  | marketing, non tech, product manager, community manager, crypto | [Apply](https://web3.career/associate-community-retention-bitpanda/105554) |
+| TCG Marketing Manager | Chiru Labs | 6h | N/A | $54k - $99k | marketing manager, marketing, non tech, discord, gaming | [Apply](https://web3.career/tcg-marketing-manager-chirulabs/140563) |
