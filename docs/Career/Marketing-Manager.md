@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Member of Marketing Policy Communications | Anchorage Digital | 2h | , | $176k - $255k | pr, non tech, communications, marketing, blockchain | [Apply](https://web3.career/member-of-marketing-policy-communications-anchorage/140856) |
-| Affiliate Operations Greater China | Binance | 16h | Asia |  | china, affiliate, marketing, non tech, operations | [Apply](https://web3.career/affiliate-operations-greater-china-binance/140848) |
-| Podcast Booking Executive Communications Manager Tech Focus 100% remote | Tether | 3d | , | $122k - $163k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/podcast-booking-executive-communications-manager-tech-focus-100-remote-tether/140805) |
-| Podcast Booking Executive Communications Manager Tech Focus 100% remote | Tether | 3d | , | $122k - $163k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/podcast-booking-executive-communications-manager-tech-focus-100-remote-tether/140802) |
+| Senior Product Marketing Manager | Bcbgroup | 6h | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| Growth Marketing Associate | Serotonin | 6h | , | $50k - $80k | growth marketing, growth, marketing, non tech, blockchain | [Apply](https://web3.career/growth-marketing-associate-serotonin/140919) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Podcast Booking Executive Communications Manager Tech Focus 100% remote | Tether | 3d | , | $122k - $163k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/podcast-booking-executive-communications-manager-tech-focus-100-remote-tether/140798) |
-| Podcast Booking Executive Communications Manager Tech Focus 100% remote | Tether | 3d | , | $122k - $163k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/podcast-booking-executive-communications-manager-tech-focus-100-remote-tether/140797) |
-| Podcast Booking Executive Communications Manager Tech Focus 100% remote | Tether | 3d | , | $122k - $163k | marketing, non tech, pr, communications, remote | [Apply](https://web3.career/podcast-booking-executive-communications-manager-tech-focus-100-remote-tether/140795) |
-| Marketing Events Intern | Lensa | 4d | , | $72k - $75k | events manager, non tech, intern, entry level, marketing | [Apply](https://web3.career/marketing-events-intern-lensa/140773) |
-| Product Marketing Manager Crypto Experience Preferred | TMGM | 4d | , | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-crypto-experience-preferred-tmgm/140765) |
+| Product Marketing Lead | Matter Labs | 6h | Remote | $87k - $87k | lead, marketing lead, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-lead-matterlabs/140903) |
+| Lead Product Marketing Manager | Figure | 6h | Remote | $144k - $180k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-figure/138893) |
+| Product Marketing Manager | Copperco | 6h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-copperco/139828) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
+| Associate Community Retention | Bitpanda | 6h | Remote |  | marketing, non tech, product manager, community manager, crypto | [Apply](https://web3.career/associate-community-retention-bitpanda/105554) |
