@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Customer Growth Lead Americas | Immutable | 18h | , | $102k - $109k | growth, lead, crypto, ethereum, gaming | [Apply](https://web3.career/customer-growth-lead-americas-immutable/140937) |
-| Growth Marketing Associate | Serotonin | 1d | , | $50k - $80k | growth marketing, growth, marketing, non tech, blockchain | [Apply](https://web3.career/growth-marketing-associate-serotonin/140919) |
-| Lead Client Growth Manager | Inmobi | 1d | Remote | $115k - $173k | growth, lead, remote | [Apply](https://web3.career/lead-client-growth-manager-inmobi/104919) |
-| Senior Site Reliability Engineer Growth | Kraken | 1d | N/A | $127k - $203k | growth, engineer, reliability, senior, blockchain | [Apply](https://web3.career/senior-site-reliability-engineer-growth-kraken/140900) |
+| Growth Marketing Lead | Windranger Labs | 6h | , | $91k - $96k | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-windrangerlabs/141019) |
+| Sr. QA Automation Engineer Growth | Kraken | 6h | , | $98k - $106k | growth, engineer, quality assurance, senior, blockchain | [Apply](https://web3.career/sr-qa-automation-engineer-growth-kraken/141014) |
+| Senior Engineering Manager – Growth Acquire | Kraken | 6h | , | $88k - $110k | engineering manager, engineer, growth, senior, blockchain | [Apply](https://web3.career/senior-engineering-manager-growth-acquire-kraken/141012) |
+| Product Growth Specialist Manager Futures | Binance | 7h | , |  | growth, blockchain, crypto | [Apply](https://web3.career/product-growth-specialist-manager-futures-binance/140986) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Growth Marketer | Bitmex | 1d | Remote |  | growth, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/growth-marketer-bitmex/139429) |
-| Software Engineer Growth | Bitgo | 1d | Remote | $160k - $200k | growth, engineer, dev, bitcoin, blockchain | [Apply](https://web3.career/software-engineer-growth-bitgo/140676) |
-| Institutional Growth Lead Greater China | Solana Foundation | 1d | , | $87k - $87k | china, growth, lead, blockchain, solana | [Apply](https://web3.career/institutional-growth-lead-greater-china-solanafoundation/140874) |
-| Payments Growth Lead Greater China | Solana Foundation | 1d | , | $87k - $87k | china, growth, lead, blockchain, solana | [Apply](https://web3.career/payments-growth-lead-greater-china-solanafoundation/140873) |
-| Institutional Growth Lead Japan | Solana Foundation | 1d | N/A | $98k - $112k | japan, growth, lead, blockchain, defi | [Apply](https://web3.career/institutional-growth-lead-japan-solanafoundation/140872) |
+| DeFi Ecosystem Growth Specialist | Lido | 16h | Remote | $91k - $180k | growth, blockchain, crypto, defi, ethereum | [Apply](https://web3.career/defi-ecosystem-growth-specialist-lido/140974) |
+| Senior Organic Growth Manager | Crypto.com | 18h | N/A | $80k - $90k | growth, senior, crypto | [Apply](https://web3.career/senior-organic-growth-manager-crypto-com/140973) |
+| Growth Lead DOMA | D3 | 20h | , | $105k - $107k | growth, lead, blockchain, crypto, defi | [Apply](https://web3.career/growth-lead-doma-d3/140967) |
+| Social Media Strategy Growth Lead Web3 Blockchain | Peace Through Trade (PTT Coin) | Layer-1 PoW Blockchain | 20h | , | $111k - $119k | growth, strategy, non tech, lead, social media | [Apply](https://web3.career/social-media-strategy-growth-lead-web3-blockchain-peacethroughtrade-pttcoin-layer-1powblockchain/140966) |
+| Customer Growth Lead Americas | Immutable | 1d | , | $102k - $109k | growth, lead, crypto, ethereum, gaming | [Apply](https://web3.career/customer-growth-lead-americas-immutable/140937) |
