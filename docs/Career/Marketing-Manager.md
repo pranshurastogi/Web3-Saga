@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Marketing Manager | Metis.io | 3d | N/A | $10k | marketing manager, marketing, non tech, growth marketing, head of marketing | [Apply](https://web3.career/marketing-manager-metis-io/107718) |
-| Marketing Communications Manager with Focus on Product Marketing | Crypto Finance AG | 3d | , | $39k - $45k | marketing, non tech, pr, communications, product marketing | [Apply](https://web3.career/marketing-communications-manager-with-focus-on-product-marketing-cryptofinanceag/141363) |
-| Marketing Lead | Fun.xyz | 4d | , | $91k - $112k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-lead-fun-xyz/141312) |
-| Product Marketing Manager | Uphold | 4d | , | $90k - $114k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-uphold/141311) |
+| Senior Product Marketing Manager | Bcbgroup | 6h | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| Developer Marketing Lead | Solana Foundation | 6h | N/A | $140k - $180k | dev, lead, marketing lead, marketing, non tech | [Apply](https://web3.career/developer-marketing-lead-solanafoundation/141497) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Content Marketing Manager remote anywhere in the World | Bitfinex | 4d | , | $88k - $117k | content marketing, marketing manager, remote, marketing, non tech | [Apply](https://web3.career/content-marketing-manager-remote-anywhere-in-the-world-bitfinex/141295) |
-| Marketing Manager | Wormholefoundation | 4d | Remote | $39k - $45k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-wormholefoundation/141288) |
-| Marketing Manager Lifecycle Onchain | Kraken | 4d | , | $39k - $45k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-lifecycle-onchain-kraken/141278) |
-| Content Marketing Manager | ENS Labs | 4d | , | $84k - $149k | content marketing, marketing manager, marketing, non tech, remote | [Apply](https://web3.career/content-marketing-manager-enslabs/141277) |
-| Assistant Relationship Manager | Coinhako | 4d | , | $81k - $87k | virtual assistant, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/assistant-relationship-manager-coinhako/141273) |
+| Sr Manager Marketing Analytics Breakout Prop | Kraken | 6h | N/A | $127k - $254k | stats, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/sr-manager-marketing-analytics-breakout-prop-kraken/141490) |
+| Permance Marketing Manager Emerging Media Channel Innovation | Kraken | 6h | N/A | $110k - $220k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/performance-marketing-manager-emerging-media-channel-innovation-kraken/141484) |
+| Lead Product Marketing Manager | Figure | 6h | Remote | $144k - $180k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-figure/138893) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
+| Intern Marketing | Bitpanda | 6h | Remote | $31k - $72k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/intern-marketing-bitpanda/141156) |
