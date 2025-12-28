@@ -5,8 +5,8 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Engineer | Layerzerolabs | 1d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
-| Developer Relations Solana Validators | Pye | 3d | N/A | $120k - $140k | developer relations, dev, defi, discord, solana | [Apply](https://web3.career/developer-relations-solana-validators-pye/142025) |
+| Developer Relations Engineer | Layerzerolabs | 2d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
+| Developer Relations Solana Validators | Pye | 4d | N/A | $120k - $140k | developer relations, dev, defi, discord, solana | [Apply](https://web3.career/developer-relations-solana-validators-pye/142025) |
 | Developer Relations NYC | MLabs | 2mo | , | $150k - $225k | developer relations, dev, blockchain, crypto, discord | [Apply](https://web3.career/developer-relations-nyc-mlabs/139700) |
 | China Developer Relations Ecosystem Growth | Sentient | 2mo | , | $77k - $109k | china, developer relations, growth, dev, crypto | [Apply](https://web3.career/china-developer-relations-ecosystem-growth-sentient/139525) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
