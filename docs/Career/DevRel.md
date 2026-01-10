@@ -5,9 +5,9 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Engineer | Layerzerolabs | 2d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
-| Developer Relations Engineer Crypto AI Global Remote Non.US | Token Metrics Inc. | 10d | Remote | $87k - $100k | developer relations, remote, ai, dev, engineer | [Apply](https://web3.career/developer-relations-engineer-crypto-ai-global-remote-non-us-tokenmetricsinc/142161) |
-| Developer Relations Solana Validators | Pye | 16d | N/A | $120k - $140k | developer relations, dev, defi, discord, solana | [Apply](https://web3.career/developer-relations-solana-validators-pye/142025) |
+| Developer Relations Engineer | Layerzerolabs | 3d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
+| Developer Relations Engineer Crypto AI Global Remote Non.US | Token Metrics Inc. | 11d | Remote | $87k - $100k | developer relations, remote, ai, dev, engineer | [Apply](https://web3.career/developer-relations-engineer-crypto-ai-global-remote-non-us-tokenmetricsinc/142161) |
+| Developer Relations Solana Validators | Pye | 17d | N/A | $120k - $140k | developer relations, dev, defi, discord, solana | [Apply](https://web3.career/developer-relations-solana-validators-pye/142025) |
 | Developer Relations NYC | MLabs | 2mo | , | $150k - $225k | developer relations, dev, blockchain, crypto, discord | [Apply](https://web3.career/developer-relations-nyc-mlabs/139700) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | China Developer Relations Ecosystem Growth | Sentient | 2mo | , | $77k - $109k | china, developer relations, growth, dev, crypto | [Apply](https://web3.career/china-developer-relations-ecosystem-growth-sentient/139525) |
