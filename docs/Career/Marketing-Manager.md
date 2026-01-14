@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Crypto Twitter Marketing Intern | Sei Labs | 3d | , | $32k - $80k | intern, entry level, marketing, non tech, social media | [Apply](https://web3.career/crypto-twitter-marketing-intern-seilabs/142547) |
-| Marketing Project Manager 100% remote | Tether | 3d | , | $102k - $120k | remote, marketing, non tech, project manager, bitcoin | [Apply](https://web3.career/marketing-project-manager-100-remote-tether/142532) |
-| Marketing Project Manager 100% remote | Tether | 3d | , | $102k - $120k | remote, marketing, non tech, project manager, bitcoin | [Apply](https://web3.career/marketing-project-manager-100-remote-tether/142531) |
-| Marketing Project Manager 100% remote | Tether | 3d | , | $102k - $120k | remote, marketing, non tech, project manager, bitcoin | [Apply](https://web3.career/marketing-project-manager-100-remote-tether/142528) |
+| KOL Marketing Manager | Consensys | 25m | N/A | $90k - $109k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/kol-marketing-manager-consensys/142794) |
+| Senior Product Marketing Manager | Bcbgroup | 6h | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Binance Accelerator Program Content Specialist | Binance | 4d | Europe |  | marketing, non tech, copywriting, blockchain | [Apply](https://web3.career/binance-accelerator-program-content-specialist-binance/142448) |
-| Product Marketer DeFi | Keyrock | 5d | , | $72k - $99k | marketing, non tech, crypto, defi, nft | [Apply](https://web3.career/product-marketer-defi-keyrock/142436) |
-| Influencer Marketing Specialist | Coins.ph | 6d | , | $54k - $58k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/influencer-marketing-specialist-coins/142405) |
-| KOL Program Manager | Coins.ph | 6d | , | $105k - $161k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/kol-program-manager-coins/142404) |
-| Senior Product Marketing Manager | Bcbgroup | 6d | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| Senior Permance Marketing Manager Crypto | Figure | 6h | Remote | $118k - $148k | marketing manager, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-performance-marketing-manager-crypto-figure/142765) |
+| Senior Lifecycle Marketing Manager | Figure | 6h | Remote | $104k - $130k | marketing manager, marketing, non tech, senior, blockchain | [Apply](https://web3.career/senior-lifecycle-marketing-manager-figure/142764) |
+| Lead Product Marketing Manager Crypto Products | Figure | 6h | Remote | $150k - $180k | marketing manager, lead, marketing, non tech, product marketing | [Apply](https://web3.career/lead-product-marketing-manager-crypto-products-figure/142763) |
+| Head of Crypto Partner and Field Marketing | Figure | 6h | Remote | $148k - $170k | executive, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/head-of-crypto-partner-and-field-marketing-figure/142762) |
+| Relationship Manager | Copperco | 6h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
