@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Product Marketing Manager | Bcbgroup | 1d | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
-| Marketing Manager Lifecycle Margin Trading | Kraken | 1d | N/A | $96k - $192k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-lifecycle-margin-trading-kraken/143342) |
-| Marketing Manager Lifecycle Futures Trading | Kraken | 1d | N/A | $96k - $192k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-lifecycle-futures-trading-kraken/143341) |
-| SUMMER Marketing and Business Development Intern | Integra | 1d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| VP of Marketing | Phantom | 6h | Remote | $140k - $240k | marketing, non tech, vp of marketing, executive, bitcoin | [Apply](https://web3.career/vp-of-marketing-phantom/143538) |
+| Social Media and Marketing Manager | Genies | 6h | Remote | $85k - $105k | marketing manager, marketing, non tech, social media, gaming | [Apply](https://web3.career/social-media-and-marketing-manager-genies/143525) |
+| Senior Product Marketing Manager Banking and Capital Markets | Chainlink Labs | 6h | , | $90k - $93k | marketing manager, finance, non tech, marketing, product marketing | [Apply](https://web3.career/senior-product-marketing-manager-banking-and-capital-markets-chainlinklabs/143520) |
+| Director of Marketing | Hivemind Capital | 20h | , | $125k - $160k | cmo, executive, marketing, non tech, blockchain | [Apply](https://web3.career/director-of-marketing-hivemindcapital/143456) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Manager Product Marketing | Inmobi | 1d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
-| Affiliate Marketing Manager | Polymarket | 1d | , | $21k - $54k | affiliate, marketing, non tech, marketing manager | [Apply](https://web3.career/affiliate-marketing-manager-polymarket/143333) |
-| Senior Specialist Product Marketing Bitpanda's Stocks Card | Bitpanda | 1d | Remote | $96k - $110k | marketing, non tech, product marketing, senior, crypto | [Apply](https://web3.career/senior-specialist-product-marketing-bitpanda-s-stocks-card-bitpanda/141687) |
-| Intern Affiliate Influencer Marketing | Bitpanda | 1d | Remote | $31k - $72k | affiliate, marketing, non tech, influencer marketing, social media | [Apply](https://web3.career/intern-affiliate-influencer-marketing-bitpanda/142744) |
-| Affiliate Marketing Specialist CEE | Bitpanda | 1d | Remote | $88k - $117k | affiliate, marketing, non tech, marketing specialist, crypto | [Apply](https://web3.career/affiliate-marketing-specialist-cee-bitpanda/142743) |
+| Head of Marketing | MLabs | 20h | , | $200k - $300k | head of marketing, marketing, non tech, executive, crypto | [Apply](https://web3.career/head-of-marketing-mlabs/143448) |
+| Senior Product Marketing Manager | Bcbgroup | 2d | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| Marketing Manager Lifecycle Margin Trading | Kraken | 2d | N/A | $96k - $192k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-lifecycle-margin-trading-kraken/143342) |
+| Marketing Manager Lifecycle Futures Trading | Kraken | 2d | N/A | $96k - $192k | marketing manager, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/marketing-manager-lifecycle-futures-trading-kraken/143341) |
+| SUMMER Marketing and Business Development Intern | Integra | 2d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
