@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Product Marketing Manager Crypto International | Robinhood | 27m | , | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-crypto-international-robinhood/143807) |
-| Marketing Lead AIVM Blockchain Africa | ChainGPT | 22h | Remote | $88k - $111k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-lead-aivm-blockchain-africa-chaingpt/143758) |
-| Marketing and Content Manager Ethereum | Agent | 2d | Latin America Latin America Latin America | $30k - $36k | marketing, non tech, copywriting, ethereum, blockchain | [Apply](https://web3.career/marketing-and-content-manager-ethereum-agent/143711) |
-| Product Marketing Manager Crypto US | Robinhood | 3d | , | $119k - $140k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-crypto-us-robinhood/143636) |
+| Senior Product Marketing Manager | Bcbgroup | 6h | Remote | $92k - $115k | marketing manager, marketing, non tech, product marketing, senior | [Apply](https://web3.career/senior-product-marketing-manager-bcbgroup/135328) |
+| SUMMER Marketing and Business Development Intern | Integra | 6h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Specialist Permance Marketing | Bitpanda | 6h | Remote | $84k - $113k | marketing, non tech, crypto, bitcoin, remote | [Apply](https://web3.career/specialist-performance-marketing-bitpanda/89427) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Product Marketing Manager Crypto Onchain | Robinhood | 3d | , | $136k - $160k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-crypto-onchain-robinhood/143635) |
-| Senior Marketing Lead f m x | Staking Facilities GmbH | 4d | Remote | $84k - $150k | lead, marketing lead, marketing, non tech, senior | [Apply](https://web3.career/senior-marketing-lead-f-m-x-stakingfacilitiesgmbh/143616) |
-| VP Growth Marketing influencer strategy token launch OleX — recommended | Travoom | 4d | , | $112k - $150k | growth, influencer marketing, social media, non tech, kol | [Apply](https://web3.career/vp-growth-marketing-influencer-strategy-token-launch-olex-recommended-travoom/143588) |
-| VP of Marketing | Phantom | 4d | Remote | $140k - $240k | marketing, non tech, vp of marketing, executive, bitcoin | [Apply](https://web3.career/vp-of-marketing-phantom/143538) |
-| Social Media and Marketing Manager | Genies | 4d | Remote | $85k - $105k | marketing manager, marketing, non tech, social media, gaming | [Apply](https://web3.career/social-media-and-marketing-manager-genies/143525) |
+| Intern Marketing | Bitpanda | 6h | Remote | $31k - $72k | intern, entry level, marketing, non tech, crypto | [Apply](https://web3.career/intern-marketing-bitpanda/141156) |
+| Intern Affiliate Influencer Marketing | Bitpanda | 6h | Remote | $31k - $72k | affiliate, marketing, non tech, influencer marketing, social media | [Apply](https://web3.career/intern-affiliate-influencer-marketing-bitpanda/142744) |
+| Affiliate Marketing Specialist Nordics Benelux | Bitpanda | 6h | Remote | $88k - $117k | affiliate, marketing, non tech, marketing specialist, crypto | [Apply](https://web3.career/affiliate-marketing-specialist-nordics-benelux-bitpanda/142742) |
+| Affiliate Marketing Specialist CEE | Bitpanda | 6h | Remote | $88k - $117k | affiliate, marketing, non tech, marketing specialist, crypto | [Apply](https://web3.career/affiliate-marketing-specialist-cee-bitpanda/142743) |
+| Software Engineer Manager Marketing | Bitmex | 7h | Remote | $45k - $55k | engineer, marketing, non tech, dev, aws | [Apply](https://web3.career/software-engineer-manager-marketing-bitmex/141458) |
