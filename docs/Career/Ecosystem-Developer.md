@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Head of Growth | Genius | 13h | , | $90k - $110k | growth, executive, crypto, defi | [Apply](https://web3.career/head-of-growth-genius/137565) |
-| Growth Engineer Up to $200k base | Sharpe Search | 20h | , | $150k - $200k | growth, engineer, aws, crypto, discord | [Apply](https://web3.career/growth-engineer-up-to-200k-base-sharpesearch/144002) |
-| Growth Lead Trading Product | Binance | 1d | , |  | growth, lead, blockchain, crypto | [Apply](https://web3.career/growth-lead-trading-product-binance/143979) |
-| Senior Product Manager Derivative Trading Growth UX | Bitmex | 1d | Remote | $98k - $109k | growth, product manager, non tech, senior, design | [Apply](https://web3.career/senior-product-manager-derivative-trading-growth-ux-bitmex/138136) |
+| Business Intelligence Manager Growth | Okx | 6h | Remote | $87k - $109k | growth, blockchain, crypto, remote | [Apply](https://web3.career/business-intelligence-manager-growth-okx/142099) |
+| Senior Product Manager Growth Marketing | Bitmex | 7h | Remote | $96k - $109k | growth, marketing, non tech, product manager, senior | [Apply](https://web3.career/senior-product-manager-growth-marketing-bitmex/144062) |
+| Manager Growth Partnerships | Coinbase | 20h | , | $193k - $228k | growth, partnership, sales, non tech, blockchain | [Apply](https://web3.career/manager-growth-partnerships-coinbase/144039) |
+| Head of Growth | Genius | 1d | , | $90k - $110k | growth, executive, crypto, defi | [Apply](https://web3.career/head-of-growth-genius/137565) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Growth Marketer | Bitmex | 1d | Remote |  | growth, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/growth-marketer-bitmex/139429) |
-| Frontend Engineer Growth | Bitgo | 1d | Remote | $160k - $230k | growth, engineer, front end, bitcoin, crypto | [Apply](https://web3.career/frontend-engineer-growth-bitgo/142090) |
-| Growth Operations Manager Binance Academy | Binance | 5d | South East Asia |  | growth, operations, blockchain, crypto | [Apply](https://web3.career/growth-operations-manager-binance-academy-binance/143644) |
-| Senior Growth Engagement Manager Crypto Institutional | Robinhood | 5d | , | $88k - $109k | growth, senior, crypto | [Apply](https://web3.career/senior-growth-engagement-manager-crypto-institutional-robinhood/143632) |
-| Senior Growth Engagement Manager Crypto Institutional | Robinhood | 5d | , | $88k - $109k | growth, senior, crypto | [Apply](https://web3.career/senior-growth-engagement-manager-crypto-institutional-robinhood/143631) |
+| Growth Engineer Up to $200k base | Sharpe Search | 2d | , | $150k - $200k | growth, engineer, aws, crypto, discord | [Apply](https://web3.career/growth-engineer-up-to-200k-base-sharpesearch/144002) |
+| Growth Lead Trading Product | Binance | 2d | , |  | growth, lead, blockchain, crypto | [Apply](https://web3.career/growth-lead-trading-product-binance/143979) |
+| Senior Product Manager Derivative Trading Growth UX | Bitmex | 2d | Remote | $98k - $109k | growth, product manager, non tech, senior, design | [Apply](https://web3.career/senior-product-manager-derivative-trading-growth-ux-bitmex/138136) |
+| Growth Marketer | Bitmex | 2d | Remote |  | growth, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/growth-marketer-bitmex/139429) |
+| Frontend Engineer Growth | Bitgo | 2d | Remote | $160k - $230k | growth, engineer, front end, bitcoin, crypto | [Apply](https://web3.career/frontend-engineer-growth-bitgo/142090) |
