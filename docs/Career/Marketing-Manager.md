@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Chief Marketing Officer | Finoverse | 4h | , | $21k - $72k | cmo, executive, marketing, non tech | [Apply](https://web3.career/chief-marketing-officer-finoverse/145095) |
-| SUMMER Marketing and Business Development Intern | Integra | 1d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
-| Manager Product Marketing | Inmobi | 1d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
-| Product Marketing Manager | Shakepay | 1d | , |  | marketing manager, product marketing, marketing, non tech | [Apply](https://web3.career/product-marketing-manager-shakepay/58369) |
+| Director of Product Marketing MetaMask | Consensys | 41m | N/A | $146k - $215k | executive, marketing, non tech, product manager, product marketing | [Apply](https://web3.career/director-of-product-marketing-metamask-consensys/145204) |
+| Regional Marketing Director APAC | Circle | 1h | , | $54k - $60k | executive, cmo, marketing, non tech, blockchain | [Apply](https://web3.career/regional-marketing-director-apac-circle/145199) |
+| Member of Product Marketing Stablecoins | Anchorage Digital | 3h | N/A | $68k - $148k | marketing, non tech, product manager, product marketing, crypto | [Apply](https://web3.career/member-of-product-marketing-stablecoins-anchorage/145195) |
+| Analyst Digital Marketing | Grayscaleinvestments | 7h | Remote | $77k - $79k | digital marketing, analyst, marketing, non tech, blockchain | [Apply](https://web3.career/analyst-digital-marketing-grayscaleinvestments/95739) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Sales Junior Client Relationship Manager | B2c2 | 1d | Remote | $45k - $60k | junior, entry level, marketing, non tech, sales | [Apply](https://web3.career/sales-junior-client-relationship-manager-b2c2/144718) |
-| Ecosystem Marketing Lead | D3 | 3d | , | $77k - $105k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/ecosystem-marketing-lead-d3/144914) |
-| Lifecyle Marketing Lead | Phantom | 4d | N/A | $150k - $180k | lead, marketing lead, marketing, non tech, bitcoin | [Apply](https://web3.career/lifecyle-marketing-lead-phantom/144905) |
-| Lifecyle Marketing Manager | Phantom | 5d | N/A | $150k - $180k | marketing manager, marketing, non tech, bitcoin, blockchain | [Apply](https://web3.career/lifecyle-marketing-manager-phantom/144893) |
-| Product Marketing Lead MetaMask Prediction Markets Sports | Consensys | 5d | N/A | $122k - $203k | lead, marketing lead, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-lead-metamask-prediction-markets-sports-consensys/144862) |
+| Specialist Permance Marketing | Bitpanda | 7h | Remote | $84k - $113k | marketing, non tech, crypto, bitcoin, remote | [Apply](https://web3.career/specialist-performance-marketing-bitpanda/89427) |
+| Affiliate Marketing Specialist CEE | Bitpanda | 7h | Remote | $88k - $117k | affiliate, marketing, non tech, marketing specialist, crypto | [Apply](https://web3.career/affiliate-marketing-specialist-cee-bitpanda/142743) |
+| Affiliate Marketing Specialist Nordics Benelux | Bitpanda | 7h | Remote | $88k - $117k | affiliate, marketing, non tech, marketing specialist, crypto | [Apply](https://web3.career/affiliate-marketing-specialist-nordics-benelux-bitpanda/142742) |
+| Software Engineer Manager Marketing | Bitmex | 7h | Remote | $45k - $55k | engineer, marketing, non tech, dev, aws | [Apply](https://web3.career/software-engineer-manager-marketing-bitmex/141458) |
+| Senior Product Manager Growth Marketing | Bitmex | 7h | Remote | $96k - $109k | growth, marketing, non tech, product manager, senior | [Apply](https://web3.career/senior-product-manager-growth-marketing-bitmex/144062) |
