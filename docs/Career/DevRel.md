@@ -5,10 +5,10 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Engineer | Layerzerolabs | 4d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
-| Developer Relations Engineer | Horizenlabs | 4d | Remote | $143k - $148k | developer relations, dev, engineer, blockchain, solidity | [Apply](https://web3.career/developer-relations-engineer-horizenlabs/144979) |
-| Developer Relations Lead | GenLayer Labs | 13d | , | $98k - $120k | developer relations, dev, lead, blockchain, crypto | [Apply](https://web3.career/developer-relations-lead-genlayerlabs/144331) |
-| Chief Brand Industry Representative Speaker APAC | RUNX | 23d | N/A | $140k - $280k | brand, executive, brand marketing, crypto, developer relations | [Apply](https://web3.career/chief-brand-industry-representative-speaker-apac-runx/143613) |
+| Developer Relations Engineer | Layerzerolabs | 5d | , | $72k - $90k | developer relations, dev, engineer, gaming, blockchain | [Apply](https://web3.career/developer-relations-engineer-layerzerolabs/73712) |
+| Developer Relations Engineer | Horizenlabs | 5d | Remote | $143k - $148k | developer relations, dev, engineer, blockchain, solidity | [Apply](https://web3.career/developer-relations-engineer-horizenlabs/144979) |
+| Developer Relations Lead | GenLayer Labs | 14d | , | $98k - $120k | developer relations, dev, lead, blockchain, crypto | [Apply](https://web3.career/developer-relations-lead-genlayerlabs/144331) |
+| Chief Brand Industry Representative Speaker APAC | RUNX | 24d | N/A | $140k - $280k | brand, executive, brand marketing, crypto, developer relations | [Apply](https://web3.career/chief-brand-industry-representative-speaker-apac-runx/143613) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Developer Relations Engineer Crypto AI Global Remote Non.US | Token Metrics Inc. | 2mo | Remote | $87k - $100k | developer relations, remote, ai, dev, engineer | [Apply](https://web3.career/developer-relations-engineer-crypto-ai-global-remote-non-us-tokenmetricsinc/142161) |
 | Developer Relations Solana Validators | Pye | 2mo | N/A | $120k - $140k | developer relations, dev, defi, discord, solana | [Apply](https://web3.career/developer-relations-solana-validators-pye/142025) |
