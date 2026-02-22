@@ -5,8 +5,8 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Full Stack Developer Front End Leaning | Winnables | 16d | N/A | $62k - $70k | dev, front end, full stack, remote, blockchain | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
-| Full Stack Developer | Wing Assistant | 27d | , | $22k - $54k | dev, full stack, bitcoin, blockchain, crypto | [Apply](https://web3.career/full-stack-developer-getwingapp/143712) |
+| Full Stack Developer Front End Leaning | Winnables | 17d | N/A | $62k - $70k | dev, front end, full stack, remote, blockchain | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
+| Full Stack Developer | Wing Assistant | 28d | , | $22k - $54k | dev, full stack, bitcoin, blockchain, crypto | [Apply](https://web3.career/full-stack-developer-getwingapp/143712) |
 | Senior QA Automation Engineer Web3 | Kraken | 1mo | N/A | $83k - $166k | engineer, quality assurance, senior, blockchain, crypto | [Apply](https://web3.career/senior-qa-automation-engineer-web3-kraken/143340) |
 | Smart Contract Engineer | CoW DAO | 1mo | N/A |  | engineer, ethereum, evm, python, rust | [Apply](https://web3.career/smart-contract-engineer-cow-dao/142606) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
