@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Business Development Manager 3 months renewable Contractor | Coin Market Cap Ltd | 15h | , | $140k - $210k | business development, sales, non tech, contractor, crypto | [Apply](https://web3.career/business-development-manager-3-months-renewable-contractor-coinmarketcap/146215) |
-| Business Development Manager | Douro Labs | 17h | Asia | $84k - $150k | business development, sales, non tech, crypto, defi | [Apply](https://web3.career/business-development-manager-dourolabs/146214) |
-| Director of Sales Business Development | Tastylive | 2d | Remote | $150k - $165k | business development, sales, non tech, executive, remote | [Apply](https://web3.career/director-of-sales-business-development-tastylive/142247) |
-| Business Development Payment Global | Binance | 4d | Asia |  | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-payment-global-binance/146010) |
+| Business Development Manager Crypto Web3 | Henderson Scott US | 20h | , | $100k - $120k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-crypto-web3-hendersonscottus/146244) |
+| Business Development Manager 3 months renewable Contractor | Coin Market Cap Ltd | 1d | , | $140k - $210k | business development, sales, non tech, contractor, crypto | [Apply](https://web3.career/business-development-manager-3-months-renewable-contractor-coinmarketcap/146215) |
+| Business Development Manager | Douro Labs | 1d | Asia | $84k - $150k | business development, sales, non tech, crypto, defi | [Apply](https://web3.career/business-development-manager-dourolabs/146214) |
+| Director of Sales Business Development | Tastylive | 3d | Remote | $150k - $165k | business development, sales, non tech, executive, remote | [Apply](https://web3.career/director-of-sales-business-development-tastylive/142247) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Sales Business Development Director | Nearfoundation | 4d | Remote | $119k - $180k | business development, sales, non tech, executive, aws | [Apply](https://web3.career/sales-business-development-director-nearfoundation/142458) |
-| SUMMER Marketing and Business Development Intern | Integra | 4d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
-| Head of BD Staking NYC | Nansen | 4d | , | $72k - $75k | business development, executive, blockchain, crypto | [Apply](https://web3.career/head-of-bd-staking-nyc-nansen/138489) |
-| Business Development Lead Must: VC fintech crypto Web3 Fluent | Embakire Workforce | 8d | , | $150k - $200k | business development, sales, non tech, vc, fintech | [Apply](https://web3.career/business-development-lead-must-vc-fintech-crypto-web3-fluent-embakireworkforce/145793) |
-| Business Development iGaming | fun.xyz | 12d | , | $155k - $205k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-igaming-funxyz/145386) |
+| Business Development Payment Global | Binance | 5d | Asia |  | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-payment-global-binance/146010) |
+| Sales Business Development Director | Nearfoundation | 5d | Remote | $119k - $180k | business development, sales, non tech, executive, aws | [Apply](https://web3.career/sales-business-development-director-nearfoundation/142458) |
+| SUMMER Marketing and Business Development Intern | Integra | 5d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
+| Head of BD Staking NYC | Nansen | 5d | , | $72k - $75k | business development, executive, blockchain, crypto | [Apply](https://web3.career/head-of-bd-staking-nyc-nansen/138489) |
+| Business Development Lead Must: VC fintech crypto Web3 Fluent | Embakire Workforce | 9d | , | $150k - $200k | business development, sales, non tech, vc, fintech | [Apply](https://web3.career/business-development-lead-must-vc-fintech-crypto-web3-fluent-embakireworkforce/145793) |
