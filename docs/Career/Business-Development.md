@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Business Development Lead US | Yield.xyz | 1d | N/A |  | business development, sales, non tech, lead, remote | [Apply](https://web3.career/business-development-lead-us-yield-xyz/144792) |
-| Business Development Manager Sponsorship | Finoverse | 3d | , | $66k - $90k | business development, sales, non tech | [Apply](https://web3.career/business-development-manager-sponsorship-finoverse/146552) |
-| Director of Sales Business Development | Tastylive | 3d | Remote | $150k - $165k | business development, sales, non tech, executive, remote | [Apply](https://web3.career/director-of-sales-business-development-tastylive/142247) |
-| Institutional BD Lead U.S. | Kamino | 4d | , | $77k - $107k | business development, lead, crypto, defi, solana | [Apply](https://web3.career/institutional-bd-lead-u-s-kamino/146511) |
+| Institutional BD – DeFi Lending App: 0815 | Referment | 19h | , | $175k - $250k | business development, blockchain, crypto, defi, remote | [Apply](https://web3.career/institutional-bd-defi-lending-app-0-815-referment/146710) |
+| Business Development Director Blockchain | Iopa Solutions | 20h | , | $190k - $270k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/business-development-director-blockchain-iopasolutions/146706) |
+| Business Development Lead US | Yield.xyz | 2d | N/A |  | business development, sales, non tech, lead, remote | [Apply](https://web3.career/business-development-lead-us-yield-xyz/144792) |
+| Business Development Manager Sponsorship | Finoverse | 4d | , | $66k - $90k | business development, sales, non tech | [Apply](https://web3.career/business-development-manager-sponsorship-finoverse/146552) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Business Development Manager | Intalex | 4d | , | $100k - $200k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-intalex/146492) |
-| Senior Enterprise Sales Lead | Routescan.io | 5d | N/A |  | lead, sales, non tech, senior, blockchain | [Apply](https://web3.career/senior-enterprise-sales-lead-routescan-io/146480) |
-| Sales Business Development Director | Nearfoundation | 5d | Remote | $119k - $180k | business development, sales, non tech, executive, aws | [Apply](https://web3.career/sales-business-development-director-nearfoundation/142458) |
-| Business Development Manager | Douro Labs | 5d | Asia | $68k - $90k | business development, sales, non tech, defi | [Apply](https://web3.career/business-development-manager-dourolabs/146411) |
-| Affiliate BD Manager 제휴 사업 개발 및 관리 | Woo | 5d | Remote | $36k - $90k | affiliate, marketing, non tech, business development, remote | [Apply](https://web3.career/affiliate-bd-manager-woo/146392) |
+| Director of Sales Business Development | Tastylive | 4d | Remote | $150k - $165k | business development, sales, non tech, executive, remote | [Apply](https://web3.career/director-of-sales-business-development-tastylive/142247) |
+| Institutional BD Lead U.S. | Kamino | 5d | , | $77k - $107k | business development, lead, crypto, defi, solana | [Apply](https://web3.career/institutional-bd-lead-u-s-kamino/146511) |
+| Business Development Manager | Intalex | 5d | , | $100k - $200k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-intalex/146492) |
+| Senior Enterprise Sales Lead | Routescan.io | 6d | N/A |  | lead, sales, non tech, senior, blockchain | [Apply](https://web3.career/senior-enterprise-sales-lead-routescan-io/146480) |
+| Sales Business Development Director | Nearfoundation | 6d | Remote | $119k - $180k | business development, sales, non tech, executive, aws | [Apply](https://web3.career/sales-business-development-director-nearfoundation/142458) |
