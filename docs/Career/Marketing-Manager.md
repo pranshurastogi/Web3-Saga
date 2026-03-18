@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Product Marketing Manager | MLabs | 20h | , | $36k - $65k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-mlabs/147303) |
-| Marketing Business Analyst APAC | Binance | 22h | Asia |  | analyst, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-business-analyst-apac-binance/147302) |
-| Product Marketing Manager Crypto | Robinhood | 3d | , | $136k - $160k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-crypto-robinhood/147213) |
-| Growth Marketing Lead | Otto | 3d | N/A |  | growth marketing, growth, lead, marketing lead, marketing | [Apply](https://web3.career/growth-marketing-lead-otto/147209) |
+| Growth Marketing Ops Simple Earn | Binance | 9m | Asia |  | growth marketing, growth, marketing, non tech, blockchain | [Apply](https://web3.career/growth-marketing-ops-simple-earn-binance/147428) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Analyst Digital Marketing | Grayscaleinvestments | 6h | Remote | $77k - $79k | digital marketing, analyst, marketing, non tech, blockchain | [Apply](https://web3.career/analyst-digital-marketing-grayscaleinvestments/95739) |
+| Vibe Marketer | Nansen | 7h | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/vibe-marketer-nansen/147379) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Marketing Business Analyst LATAM | Binance | 4d | , |  | analyst, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-business-analyst-latam-binance/147163) |
-| Growth Permance Marketing Manager 100% remote | Tether Operations Limited | 4d | , | $112k - $153k | growth, marketing manager, remote, marketing, non tech | [Apply](https://web3.career/growth-performance-marketing-manager-100-remote-tetheroperationslimited/147107) |
-| Marketing Project Manager 100% remote Worldwide | Tether Operations Limited | 4d | , | $103k - $120k | remote, marketing, non tech, project manager, bitcoin | [Apply](https://web3.career/marketing-project-manager-100-remote-worldwide-tetheroperationslimited/147103) |
-| Marketing Project Manager 100% remote | Tether Operations Limited | 4d | DC Bogotá CO | $103k - $120k | remote, marketing, non tech, project manager, bitcoin | [Apply](https://web3.career/marketing-project-manager-100-remote-tetheroperationslimited/147089) |
-| Product Marketing Manager | Layerzerolabs | 4d | Remote | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-layerzerolabs/138905) |
+| Product Marketing Manager | Shakepay | 7h | , |  | marketing manager, product marketing, marketing, non tech | [Apply](https://web3.career/product-marketing-manager-shakepay/58369) |
+| Principal Product Marketing Manager | Taxbit | 7h | Remote | $180k - $210k | marketing manager, marketing, non tech, executive, product marketing | [Apply](https://web3.career/principal-product-marketing-manager-taxbit/143869) |
+| Sales Junior Client Relationship Manager | B2c2 | 7h | Remote | $45k - $60k | junior, entry level, marketing, non tech, sales | [Apply](https://web3.career/sales-junior-client-relationship-manager-b2c2/144718) |
+| Product Marketing Manager | MLabs | 2d | , | $36k - $65k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-mlabs/147303) |
+| Marketing Business Analyst APAC | Binance | 2d | Asia |  | analyst, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-business-analyst-apac-binance/147302) |

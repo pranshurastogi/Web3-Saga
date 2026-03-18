@@ -5,8 +5,8 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Full Stack Developer Front End Leaning | Winnables | 10d | N/A | $62k - $70k | dev, front end, full stack, remote, blockchain | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
-| Director Stock Tokenization Product | Securitize | 12d | , | $54k - $90k | tokenization, executive, blockchain, defi, smart contract | [Apply](https://web3.career/director-stock-tokenization-product-securitize/146509) |
+| Full Stack Developer Front End Leaning | Winnables | 11d | N/A | $62k - $70k | dev, front end, full stack, remote, blockchain | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
+| Director Stock Tokenization Product | Securitize | 13d | , | $54k - $90k | tokenization, executive, blockchain, defi, smart contract | [Apply](https://web3.career/director-stock-tokenization-product-securitize/146509) |
 | Full Stack Developer | Wing Assistant | 2mo | , | $22k - $54k | dev, full stack, bitcoin, blockchain, crypto | [Apply](https://web3.career/full-stack-developer-getwingapp/143712) |
 | Senior QA Automation Engineer Web3 | Kraken | 2mo | N/A | $83k - $166k | engineer, quality assurance, senior, blockchain, crypto | [Apply](https://web3.career/senior-qa-automation-engineer-web3-kraken/143340) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
