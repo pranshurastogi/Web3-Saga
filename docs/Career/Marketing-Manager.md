@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Social Media Content Manager | Binance | 9h | , |  | marketing, non tech, copywriting, social media, blockchain | [Apply](https://web3.career/social-media-content-manager-binance/147697) |
-| Growth Campaign Manager | Binance | 9h | , |  | marketing, non tech, growth, blockchain, crypto | [Apply](https://web3.career/growth-campaign-manager-binance/147696) |
-| Marketing Designer | LI.FI | 4d | Remote | $60k - $80k | design, non tech, marketing, crypto, remote | [Apply](https://web3.career/marketing-designer-li-fi/147548) |
-| Principal Product Marketing Manager Payward Services | Kraken | 4d | N/A | $116k - $259k | marketing manager, marketing, non tech, executive, product marketing | [Apply](https://web3.career/principal-product-marketing-manager-payward-services-kraken/147546) |
+| Product Marketing Manager | Layerzerolabs | 6h | Remote | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-layerzerolabs/138905) |
+| Manager Product Marketing | Inmobi | 6h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Director Product Marketing | Inmobi | 6h | Remote | $21k - $65k | executive, marketing, non tech, product marketing, remote | [Apply](https://web3.career/director-product-marketing-inmobi/147846) |
+| Analyst Digital Marketing | Grayscaleinvestments | 6h | Remote | $77k - $79k | digital marketing, analyst, marketing, non tech, blockchain | [Apply](https://web3.career/analyst-digital-marketing-grayscaleinvestments/95739) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Marketing Operations Lead Breakout Prop | Kraken | 4d | N/A | $96k - $192k | lead, marketing, non tech, operations, blockchain | [Apply](https://web3.career/marketing-operations-lead-breakout-prop-kraken/147545) |
-| Product Marketing Manager | Layerzerolabs | 4d | Remote | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-layerzerolabs/138905) |
-| Marketing Summer Associate | Groma | 4d | Remote | $20k | marketing, non tech, blockchain, remote | [Apply](https://web3.career/marketing-summer-associate-groma/147536) |
-| VIP Relationship Manager | Blockchain | 4d | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/vip-relationship-manager-blockchain/146099) |
-| Binance Accelerator Program Affiliate CIS | Binance | 5d | , |  | affiliate, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/binance-accelerator-program-affiliate-cis-binance/147505) |
+| Product Marketing Associate | Chainalysis | 6h | , | $113k - $189k | marketing, non tech, product marketing, blockchain, crypto | [Apply](https://web3.career/product-marketing-associate-chainalysis/147832) |
+| VIP Relationship Manager | Blockchain | 7h | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/vip-relationship-manager-blockchain/146099) |
+| Marketing Analyst | Blockchain | 7h | Remote | $81k - $85k | marketing analyst, analyst, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-analyst-blockchain/147826) |
+| Product Marketing Manager | Shakepay | 7h | , |  | marketing manager, product marketing, marketing, non tech | [Apply](https://web3.career/product-marketing-manager-shakepay/58369) |
+| Marketing Lead | Immunefi | 7h | Remote | $63k - $99k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/marketing-lead-immunefi/147824) |
