@@ -5,9 +5,9 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Smart Contract Engineer SOL | Casino SOL | 8d | USA | $480k - $500k | engineer, ethereum, smart contract, solana | [Apply](https://web3.career/smart-contract-engineer-sol-casino-sol/147455) |
-| Full Stack Developer Front End Leaning | Winnables | 20d | N/A | $62k - $70k | dev, front end, full stack, remote, blockchain | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
-| Director Stock Tokenization Product | Securitize | 22d | , | $54k - $90k | tokenization, executive, blockchain, defi, smart contract | [Apply](https://web3.career/director-stock-tokenization-product-securitize/146509) |
+| Smart Contract Engineer SOL | Casino SOL | 9d | USA | $480k - $500k | engineer, ethereum, smart contract, solana | [Apply](https://web3.career/smart-contract-engineer-sol-casino-sol/147455) |
+| Full Stack Developer Front End Leaning | Winnables | 21d | N/A | $62k - $70k | dev, front end, full stack, remote, blockchain | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
+| Director Stock Tokenization Product | Securitize | 23d | , | $54k - $90k | tokenization, executive, blockchain, defi, smart contract | [Apply](https://web3.career/director-stock-tokenization-product-securitize/146509) |
 | Full Stack Developer | Wing Assistant | 2mo | , | $22k - $54k | dev, full stack, bitcoin, blockchain, crypto | [Apply](https://web3.career/full-stack-developer-getwingapp/143712) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Senior QA Automation Engineer Web3 | Kraken | 2mo | N/A | $83k - $166k | engineer, quality assurance, senior, blockchain, crypto | [Apply](https://web3.career/senior-qa-automation-engineer-web3-kraken/143340) |
