@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| DACH Growth Campaign Manager | Binance | 23h | Europe |  | marketing, non tech, growth, blockchain, crypto | [Apply](https://web3.career/dach-growth-campaign-manager-binance/148128) |
-| Product Marketing Manager | Nearfoundation | 4d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
-| Business Marketing Lead | Monad Foundation | 4d | N/A | $91k - $150k | lead, marketing lead, marketing, non tech, blockchain | [Apply](https://web3.career/business-marketing-lead-monadfoundation/148034) |
-| Director Product Marketing DSP | Inmobi | 4d | Remote | $21k - $65k | executive, marketing, non tech, product marketing, remote | [Apply](https://web3.career/director-product-marketing-dsp-inmobi/148026) |
+| Lead Growth Product Marketing Manager | Pulley | 6h | Remote | $171k - $190k | growth, marketing manager, lead, marketing, non tech | [Apply](https://web3.career/lead-growth-product-marketing-manager-pulley/148237) |
+| Product Marketing Manager | Nearfoundation | 6h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Product Marketing Manager | Layerzerolabs | 6h | Remote | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-layerzerolabs/138905) |
+| Manager Product Marketing | Inmobi | 7h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Solana PERP DEX: Superis Labs Marketing Lead | Superis Labs (Solana DEX) | 6d | N/A |  | lead, marketing lead, marketing, non tech, brand | [Apply](https://web3.career/solana-perp-dex-superis-labs-marketing-lead-superis-labs-solana-dex/147910) |
-| Blockchain Analysis Client Relationship Manager Remote | Silver Miller | 6d | N/A | $36k - $65k | remote, marketing, non tech, blockchain | [Apply](https://web3.career/blockchain-analysis-client-relationship-manager-remote-silvermiller/147879) |
-| Social Media Manager | Quantum | 6d | N/A | $40k - $70k | social media, non tech, blockchain, crypto, marketing | [Apply](https://web3.career/social-media-manager-quantum/147873) |
-| Product Marketing Manager | Layerzerolabs | 6d | Remote | $32k - $58k | marketing manager, marketing, non tech, product marketing, crypto | [Apply](https://web3.career/product-marketing-manager-layerzerolabs/138905) |
-| Manager Product Marketing | Inmobi | 6d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Analyst Digital Marketing | Grayscaleinvestments | 7h | Remote | $77k - $79k | digital marketing, analyst, marketing, non tech, blockchain | [Apply](https://web3.career/analyst-digital-marketing-grayscaleinvestments/95739) |
+| VIP Relationship Manager | Blockchain | 7h | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/vip-relationship-manager-blockchain/146099) |
+| Product Marketing Manager | Shakepay | 7h | , |  | marketing manager, product marketing, marketing, non tech | [Apply](https://web3.career/product-marketing-manager-shakepay/58369) |
+| Principal Product Marketing Manager | Taxbit | 7h | Remote | $180k - $210k | marketing manager, marketing, non tech, executive, product marketing | [Apply](https://web3.career/principal-product-marketing-manager-taxbit/143869) |
+| Sales Junior Client Relationship Manager | B2c2 | 7h | Remote | $45k - $60k | junior, entry level, marketing, non tech, sales | [Apply](https://web3.career/sales-junior-client-relationship-manager-b2c2/144718) |
