@@ -5,7 +5,7 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Smart Contract Engineer SOL | Casino SOL | 20d | USA | $480k - $500k | engineer, ethereum, smart contract, solana | [Apply](https://web3.career/smart-contract-engineer-sol-casino-sol/147455) |
+| Smart Contract Engineer SOL | Casino SOL | 21d | USA | $480k - $500k | engineer, ethereum, smart contract, solana | [Apply](https://web3.career/smart-contract-engineer-sol-casino-sol/147455) |
 | Full Stack Developer Front End Leaning | Winnables | 1mo | N/A | $62k - $70k | dev, front end, full stack, blockchain, docker | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
 | Director Stock Tokenization Product | Securitize | 1mo | , | $54k - $90k | tokenization, executive, blockchain, defi, smart contract | [Apply](https://web3.career/director-stock-tokenization-product-securitize/146509) |
 | Full Stack Developer | Wing Assistant | 2mo | , | $22k - $54k | dev, full stack, bitcoin, blockchain, crypto | [Apply](https://web3.career/full-stack-developer-getwingapp/143712) |
