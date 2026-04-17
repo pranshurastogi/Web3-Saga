@@ -5,9 +5,9 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Relationship Manager | The Tie | 5d | , | $120k - $140k | marketing, non tech, senior, blockchain, crypto | [Apply](https://web3.career/senior-relationship-manager-thetie/148547) |
-| Smart Contract Developer | Golfiuns | 5d | N/A | $90k - $100k | dev, ethereum, blockchain, crypto, defi | [Apply](https://web3.career/smart-contract-developer-golfiuns/148542) |
-| Smart Contract Engineer SOL | Casino SOL | 28d | USA | $480k - $500k | engineer, ethereum, smart contract, solana | [Apply](https://web3.career/smart-contract-engineer-sol-casino-sol/147455) |
+| Senior Relationship Manager | The Tie | 6d | , | $120k - $140k | marketing, non tech, senior, blockchain, crypto | [Apply](https://web3.career/senior-relationship-manager-thetie/148547) |
+| Smart Contract Developer | Golfiuns | 6d | N/A | $90k - $100k | dev, ethereum, blockchain, crypto, defi | [Apply](https://web3.career/smart-contract-developer-golfiuns/148542) |
+| Smart Contract Engineer SOL | Casino SOL | 29d | USA | $480k - $500k | engineer, ethereum, smart contract, solana | [Apply](https://web3.career/smart-contract-engineer-sol-casino-sol/147455) |
 | Full Stack Developer Front End Leaning | Winnables | 1mo | N/A | $62k - $70k | dev, front end, full stack, blockchain, docker | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Director Stock Tokenization Product | Securitize | 1mo | , | $54k - $90k | tokenization, executive, blockchain, defi, smart contract | [Apply](https://web3.career/director-stock-tokenization-product-securitize/146509) |
