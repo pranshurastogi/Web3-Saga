@@ -5,8 +5,8 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Relationship Manager | The Tie | 11d | , | $120k - $140k | marketing, non tech, senior, blockchain, crypto | [Apply](https://web3.career/senior-relationship-manager-thetie/148547) |
-| Smart Contract Developer | Golfiuns | 11d | N/A | $90k - $100k | dev, ethereum, blockchain, crypto, defi | [Apply](https://web3.career/smart-contract-developer-golfiuns/148542) |
+| Senior Relationship Manager | The Tie | 12d | , | $120k - $140k | marketing, non tech, senior, blockchain, crypto | [Apply](https://web3.career/senior-relationship-manager-thetie/148547) |
+| Smart Contract Developer | Golfiuns | 12d | N/A | $90k - $100k | dev, ethereum, blockchain, crypto, defi | [Apply](https://web3.career/smart-contract-developer-golfiuns/148542) |
 | Full Stack Developer Front End Leaning | Winnables | 2mo | N/A | $62k - $70k | dev, front end, full stack, blockchain, docker | [Apply](https://web3.career/full-stack-developer-front-end-leaning-winnables/105877) |
 | Director Stock Tokenization Product | Securitize | 2mo | , | $54k - $90k | tokenization, executive, blockchain, defi, smart contract | [Apply](https://web3.career/director-stock-tokenization-product-securitize/146509) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
