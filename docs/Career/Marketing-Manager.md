@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Marketing Intern NYC | Inmobi | 4d | Remote | $36k - $86k | intern, entry level, marketing, non tech, remote | [Apply](https://web3.career/marketing-intern-nyc-inmobi/148933) |
-| Founder Brand Social Media Manager Crypto | Gravity Team | 5d | N/A |  | co founder, brand, social media, non tech, content writer | [Apply](https://web3.career/founder-brand-social-media-manager-crypto-gravity-team/148899) |
-| User Acquisition Sales Lead Couple.com | Lawyer.com | 5d | , | $90k - $90k | lead, sales, non tech, user acquisition, marketing | [Apply](https://web3.career/user-acquisition-sales-lead-couple-com-lawyer-com/148889) |
-| Product Marketing Manager | Nearfoundation | 6d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Product Marketing Manager | Nearfoundation | 7h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Permance Marketing Strategist Breakout | Kraken | 7h | , | $64k - $99k | marketing strategist, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/performance-marketing-strategist-breakout-kraken/149029) |
+| Manager Product Marketing | Inmobi | 7h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Permance Marketing Creative Designer Breakout | Kraken | 7h | , | $39k - $45k | design, non tech, marketing, blockchain, crypto | [Apply](https://web3.career/performance-marketing-creative-designer-breakout-kraken/149023) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| SUMMER Marketing and Business Development Intern | Integra | 6d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/summer-marketing-and-business-development-intern-integra/95750) |
-| Lead Content Marketing | Inmobi | 6d | Remote | $32k - $43k | content marketing, lead, marketing, non tech, remote | [Apply](https://web3.career/lead-content-marketing-inmobi/148823) |
-| Director Marketing | Inmobi | 6d | Remote | $21k - $65k | executive, marketing, non tech, remote | [Apply](https://web3.career/director-marketing-inmobi/148822) |
-| Manager Product Marketing | Inmobi | 6d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
-| Data Analyst Marketing | Bluecubeservices | 6d | Remote | $79k - $100k | analyst, data science, marketing, non tech, blockchain | [Apply](https://web3.career/data-analyst-marketing-bluecubeservices/140151) |
+| Data Analyst Marketing | Bluecubeservices | 7h | Remote | $79k - $100k | analyst, data science, marketing, non tech, blockchain | [Apply](https://web3.career/data-analyst-marketing-bluecubeservices/140151) |
+| VIP Relationship Manager | Blockchain | 7h | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/vip-relationship-manager-blockchain/146099) |
+| Product Marketing Manager | Taxbit | 8h | Remote | $125k - $150k | marketing manager, marketing, non tech, product marketing, bitcoin | [Apply](https://web3.career/product-marketing-manager-taxbit/148778) |
+| Marketing Coordinator | Localcoin | 8h | N/A | $91k - $115k | marketing, non tech, bitcoin, blockchain, crypto | [Apply](https://web3.career/marketing-coordinator-localcoin/92644) |
+| Product Marketing Manager Prime OTC | Bitgo | 8h | Remote | $91k - $120k | marketing manager, marketing, non tech, product marketing, bitcoin | [Apply](https://web3.career/product-marketing-manager-prime-otc-bitgo/148991) |
