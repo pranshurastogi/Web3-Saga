@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Growth Retention Specialist | Launchpadtechnologiesinc | 1d | Remote | $68k - $72k | growth, marketing, non tech, product manager, remote | [Apply](https://web3.career/growth-retention-specialist-launchpadtechnologiesinc/149441) |
-| Events Marketing Manager | Squads | 1d | Europe | $84k - $150k | events manager, non tech, marketing manager, marketing, crypto | [Apply](https://web3.career/events-marketing-manager-squads/149421) |
-| Crypto Associate Relationship Manager | DRW | 2d | N/A | $100k - $150k | marketing, non tech, crypto, java | [Apply](https://web3.career/crypto-associate-relationship-manager-drw/149416) |
-| Product Marketing Manager | Nearfoundation | 3d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Content Creator | Cosmoverse | 13h | N/A | $36k - $40k | content marketing, content writer, marketing, web3, remote | [Apply](https://web3.career/content-creator-cosmoverse/149488) |
+| Marketing Lead | Very AI | 17h | , | $77k - $107k | lead, marketing lead, marketing, non tech, crypto | [Apply](https://web3.career/marketing-lead-veryai/149468) |
+| Web3 KOL Key Opinion Leader BD Manager | YJVC | 21h | , | $68k - $80k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/web3-kol-key-opinion-leader-bd-manager-yjvc/149465) |
+| Growth Retention Specialist | Launchpadtechnologiesinc | 2d | Remote | $68k - $72k | growth, marketing, non tech, product manager, remote | [Apply](https://web3.career/growth-retention-specialist-launchpadtechnologiesinc/149441) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| FALL Marketing and Business Development Intern | Integra | 3d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
-| Manager Product Marketing | Inmobi | 3d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
-| Data Analyst Marketing | Bluecubeservices | 3d | Remote | $79k - $100k | analyst, data science, marketing, non tech, blockchain | [Apply](https://web3.career/data-analyst-marketing-bluecubeservices/140151) |
-| Technical Content Marketing Manager | Alpaca | 3d | Remote | $39k - $58k | content marketing, marketing manager, marketing, non tech, crypto | [Apply](https://web3.career/technical-content-marketing-manager-alpaca/149362) |
-| VIP Relationship Manager | Blockchain | 3d | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/vip-relationship-manager-blockchain/146099) |
+| Events Marketing Manager | Squads | 3d | Europe | $84k - $150k | events manager, non tech, marketing manager, marketing, crypto | [Apply](https://web3.career/events-marketing-manager-squads/149421) |
+| Crypto Associate Relationship Manager | DRW | 3d | N/A | $100k - $150k | marketing, non tech, crypto, java | [Apply](https://web3.career/crypto-associate-relationship-manager-drw/149416) |
+| Product Marketing Manager | Nearfoundation | 4d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| FALL Marketing and Business Development Intern | Integra | 4d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
+| Manager Product Marketing | Inmobi | 4d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
