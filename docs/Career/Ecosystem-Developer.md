@@ -5,13 +5,13 @@ sidebar_position: 3
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Growth Retention Specialist | Launchpadtechnologiesinc | 2d | Remote | $68k - $72k | growth, marketing, non tech, product manager, remote | [Apply](https://web3.career/growth-retention-specialist-launchpadtechnologiesinc/149441) |
-| Lead Client Growth Manager | Inmobi | 4d | Remote | $115k - $173k | growth, lead, remote | [Apply](https://web3.career/lead-client-growth-manager-inmobi/104919) |
-| Growth Specialist | Bitmex | 4d | Remote | $64k - $90k | growth, crypto, discord, bitcoin, remote | [Apply](https://web3.career/growth-specialist-bitmex/147053) |
-| Growth Engineer Data Systems | Bitmex | 4d | Remote | $112k - $115k | growth, engineer, crypto, discord, javascript | [Apply](https://web3.career/growth-engineer-data-systems-bitmex/146102) |
+| Growth Retention Specialist | Launchpadtechnologiesinc | 3d | Remote | $68k - $72k | growth, marketing, non tech, product manager, remote | [Apply](https://web3.career/growth-retention-specialist-launchpadtechnologiesinc/149441) |
+| Lead Client Growth Manager | Inmobi | 5d | Remote | $115k - $173k | growth, lead, remote | [Apply](https://web3.career/lead-client-growth-manager-inmobi/104919) |
+| Growth Specialist | Bitmex | 5d | Remote | $64k - $90k | growth, crypto, discord, bitcoin, remote | [Apply](https://web3.career/growth-specialist-bitmex/147053) |
+| Growth Engineer Data Systems | Bitmex | 5d | Remote | $112k - $115k | growth, engineer, crypto, discord, javascript | [Apply](https://web3.career/growth-engineer-data-systems-bitmex/146102) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Head of Growth | Ooble Studio | 8d | Remote | $24k - $36k | growth, executive, crypto, solana, remote | [Apply](https://web3.career/head-of-growth-ooblestudio/149287) |
-| Growth Hacker [Web3.0 Only] | Partnerverse | 8d | N/A | $54k - $99k | growth hacker, growth, blockchain, crypto, defi | [Apply](https://web3.career/growth-hacker-web3-0-only-partnerverse/149267) |
-| Senior Staff Engineer Growth Product | Okx | 9d | Remote | $27k - $120k | growth, engineer, senior, blockchain, crypto | [Apply](https://web3.career/senior-staff-engineer-growth-product-okx/149250) |
-| Senior Staff Engineer Growth | Okx | 9d | Remote | $27k - $120k | growth, engineer, senior, blockchain, crypto | [Apply](https://web3.career/senior-staff-engineer-growth-okx/149249) |
-| Senior Manager Client Growth | Inmobi | 16d | Remote | $169k - $228k | growth, senior, remote | [Apply](https://web3.career/senior-manager-client-growth-inmobi/149101) |
+| Head of Growth | Ooble Studio | 9d | Remote | $24k - $36k | growth, executive, crypto, solana, remote | [Apply](https://web3.career/head-of-growth-ooblestudio/149287) |
+| Growth Hacker [Web3.0 Only] | Partnerverse | 9d | N/A | $54k - $99k | growth hacker, growth, blockchain, crypto, defi | [Apply](https://web3.career/growth-hacker-web3-0-only-partnerverse/149267) |
+| Senior Staff Engineer Growth Product | Okx | 10d | Remote | $27k - $120k | growth, engineer, senior, blockchain, crypto | [Apply](https://web3.career/senior-staff-engineer-growth-product-okx/149250) |
+| Senior Staff Engineer Growth | Okx | 10d | Remote | $27k - $120k | growth, engineer, senior, blockchain, crypto | [Apply](https://web3.career/senior-staff-engineer-growth-okx/149249) |
+| Senior Manager Client Growth | Inmobi | 17d | Remote | $169k - $228k | growth, senior, remote | [Apply](https://web3.career/senior-manager-client-growth-inmobi/149101) |
