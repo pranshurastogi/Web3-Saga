@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Project Manager Content Manager 100% Worldwide remote 6 months contract with potential extension CET Timezone | Bitfinex | 5h | , | $91k - $120k | remote, marketing, non tech, copywriting, project manager | [Apply](https://web3.career/project-manager-content-manager-100-worldwide-remote-6-months-contract-with-potential-extension-cet-timezone-bitfinex/149611) |
-| Affiliate Relationship Manager APAC | Binance | 14h | , |  | affiliate, marketing, non tech, blockchain, crypto | [Apply](https://web3.career/affiliate-relationship-manager-apac-binance/149606) |
-| Digital Marketing Analytics Intern | Impossible Cloud | 15h | , | $36k - $86k | digital marketing, stats, intern, entry level, marketing | [Apply](https://web3.career/digital-marketing-analytics-intern-impossiblecloud/149604) |
-| Creative Strategist Campaign Manager MakeReady Editions | Avant Arte | 1d | , | $32k - $65k | marketing, non tech | [Apply](https://web3.career/creative-strategist-campaign-manager-make-ready-editions-avantarte/149570) |
+| Contract Communications Manager Maternity Leave Cover | Gsrmarkets | 7h | Remote | $32k - $58k | marketing, non tech, pr, communications, crypto | [Apply](https://web3.career/contract-communications-manager-maternity-leave-cover-gsrmarkets/149666) |
+| AI Video Editor Permance Marketing Growth | Kraken | 7h | N/A | $83k - $166k | growth, ai, marketing, non tech, video | [Apply](https://web3.career/ai-video-editor-performance-marketing-growth-kraken/149663) |
+| Wealth Lending Marketing Specialist | Bluecubeservices | 7h | Remote | $32k - $58k | marketing specialist, marketing, non tech, crypto, remote | [Apply](https://web3.career/wealth-lending-marketing-specialist-bluecubeservices/149657) |
+| Partnership CoMarketing Specialist | Bluecubeservices | 7h | Remote | $98k - $108k | marketing specialist, partnership, sales, non tech, marketing | [Apply](https://web3.career/partnership-co-marketing-specialist-bluecubeservices/149655) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Product Marketing Manager | Nearfoundation | 1d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
-| FALL Marketing and Business Development Intern | Integra | 1d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
-| Manager Product Marketing | Inmobi | 1d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
-| Data Analyst Marketing | Bluecubeservices | 1d | Remote | $79k - $100k | analyst, data science, marketing, non tech, blockchain | [Apply](https://web3.career/data-analyst-marketing-bluecubeservices/140151) |
-| Head of Marketing | Allium | 1d | N/A | $105k - $180k | head of marketing, marketing, non tech, executive, blockchain | [Apply](https://web3.career/head-of-marketing-allium/149548) |
+| Lead Generation Marketer Institutional | Bluecubeservices | 7h | Remote | $87k - $110k | lead, marketing, non tech, crypto, remote | [Apply](https://web3.career/lead-generation-marketer-institutional-bluecubeservices/149654) |
+| Growth Marketer Perpetual Futres Prediction Markets | Bluecubeservices | 7h | Remote | $54k - $99k | growth, marketing, non tech, crypto, discord | [Apply](https://web3.career/growth-marketer-perpetual-futres-prediction-markets-bluecubeservices/149652) |
+| Affiliate Marketing Specialist | Bluecubeservices | 7h | Remote | $81k - $99k | affiliate, marketing, non tech, marketing specialist, crypto | [Apply](https://web3.career/affiliate-marketing-specialist-bluecubeservices/149650) |
+| Affiliate Relationships Manager | Tastylive | 8h | Remote | $95k - $125k | affiliate, marketing, non tech, remote | [Apply](https://web3.career/affiliate-relationships-manager-tastylive/148776) |
+| Project Manager Content Manager 100% Worldwide remote 6 months contract with potential extension CET Timezone | Bitfinex | 1d | , | $91k - $120k | remote, marketing, non tech, copywriting, project manager | [Apply](https://web3.career/project-manager-content-manager-100-worldwide-remote-6-months-contract-with-potential-extension-cet-timezone-bitfinex/149611) |
