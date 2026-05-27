@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Director of Marketing Operations | Fireblocks | 1d | , | $112k - $156k | cmo, executive, marketing, non tech, operations | [Apply](https://web3.career/director-of-marketing-operations-fireblocks/149722) |
-| Project Manager Content Manager 100% Worldwide remote 6 months contract with potential extension CET Timezone 2 | Bitfinex | 2d | , | $91k - $120k | remote, marketing, non tech, copywriting, project manager | [Apply](https://web3.career/project-manager-content-manager-100-worldwide-remote-6-months-contract-with-potential-extension-cet-timezone-2-bitfinex/149707) |
-| Product Marketing Associate | Jupiter | 3d | Remote | $102k - $150k | marketing, non tech, product marketing, blockchain, crypto | [Apply](https://web3.career/product-marketing-associate-jupiter/149703) |
-| Contract Communications Manager Maternity Leave Cover | Gsrmarkets | 3d | Remote | $32k - $58k | marketing, non tech, pr, communications, crypto | [Apply](https://web3.career/contract-communications-manager-maternity-leave-cover-gsrmarkets/149666) |
+| Product Marketing Manager | Nearfoundation | 7h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| FALL Marketing and Business Development Intern | Integra | 7h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
+| Manager Product Marketing | Inmobi | 7h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Lead Communications Strategist Global Culture | Inmobi | 7h | Remote |  | marketing, non tech, pr, communications, lead | [Apply](https://web3.career/lead-communications-strategist-global-culture-inmobi/149774) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| AI Video Editor Permance Marketing Growth | Kraken | 3d | N/A | $83k - $166k | growth, ai, marketing, non tech, video | [Apply](https://web3.career/ai-video-editor-performance-marketing-growth-kraken/149663) |
-| Wealth Lending Marketing Specialist | Bluecubeservices | 3d | Remote | $32k - $58k | marketing specialist, marketing, non tech, crypto, remote | [Apply](https://web3.career/wealth-lending-marketing-specialist-bluecubeservices/149657) |
-| Partnership CoMarketing Specialist | Bluecubeservices | 3d | Remote | $98k - $108k | marketing specialist, partnership, sales, non tech, marketing | [Apply](https://web3.career/partnership-co-marketing-specialist-bluecubeservices/149655) |
-| Lead Generation Marketer Institutional | Bluecubeservices | 3d | Remote | $87k - $110k | lead, marketing, non tech, crypto, remote | [Apply](https://web3.career/lead-generation-marketer-institutional-bluecubeservices/149654) |
-| Growth Marketer Perpetual Futres Prediction Markets | Bluecubeservices | 3d | Remote | $54k - $99k | growth, marketing, non tech, crypto, discord | [Apply](https://web3.career/growth-marketer-perpetual-futres-prediction-markets-bluecubeservices/149652) |
+| Marketing | Ellipsis Labs | 7h | , | $150k - $200k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/marketing-ellipsislabs/149765) |
+| Relationship Manager | Copperco | 7h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
+| Data Analyst Marketing | Bluecubeservices | 8h | Remote | $79k - $100k | analyst, data science, marketing, non tech, blockchain | [Apply](https://web3.career/data-analyst-marketing-bluecubeservices/140151) |
+| VIP Relationship Manager | Blockchain | 8h | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/vip-relationship-manager-blockchain/146099) |
+| Product Marketing Manager | Taxbit | 8h | Remote | $125k - $150k | marketing manager, marketing, non tech, product marketing, bitcoin | [Apply](https://web3.career/product-marketing-manager-taxbit/148778) |
