@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Product Marketing Manager | Nearfoundation | 7h | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
-| FALL Marketing and Business Development Intern | Integra | 7h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
-| Manager Product Marketing | Inmobi | 7h | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
-| Lead Communications Strategist Global Culture | Inmobi | 7h | Remote |  | marketing, non tech, pr, communications, lead | [Apply](https://web3.career/lead-communications-strategist-global-culture-inmobi/149774) |
+| Marketing User Acquisition Manager Media Buyer | Limit Break | 19h | , | $90k - $112k | marketing, non tech, user acquisition, blockchain, gaming | [Apply](https://web3.career/marketing-user-acquisition-manager-media-buyer-limitbreak/149793) |
+| Marketing User Acquisition Creative Producer | Limit Break | 19h | , | $90k - $112k | producer, non tech, marketing, user acquisition, blockchain | [Apply](https://web3.career/marketing-user-acquisition-creative-producer-limitbreak/149792) |
+| Senior Relationship Manager Digital Assets | The Tie | 20h | , | $120k - $140k | finance, non tech, marketing, senior, blockchain | [Apply](https://web3.career/senior-relationship-manager-digital-assets-thetie/149790) |
+| Product Marketing Manager | Nearfoundation | 1d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Marketing | Ellipsis Labs | 7h | , | $150k - $200k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/marketing-ellipsislabs/149765) |
-| Relationship Manager | Copperco | 7h | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
-| Data Analyst Marketing | Bluecubeservices | 8h | Remote | $79k - $100k | analyst, data science, marketing, non tech, blockchain | [Apply](https://web3.career/data-analyst-marketing-bluecubeservices/140151) |
-| VIP Relationship Manager | Blockchain | 8h | Remote | $39k - $45k | marketing, non tech, blockchain, crypto, remote | [Apply](https://web3.career/vip-relationship-manager-blockchain/146099) |
-| Product Marketing Manager | Taxbit | 8h | Remote | $125k - $150k | marketing manager, marketing, non tech, product marketing, bitcoin | [Apply](https://web3.career/product-marketing-manager-taxbit/148778) |
+| FALL Marketing and Business Development Intern | Integra | 1d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
+| Manager Product Marketing | Inmobi | 1d | Remote |  | marketing, non tech, product marketing, remote | [Apply](https://web3.career/manager-product-marketing-inmobi/108140) |
+| Lead Communications Strategist Global Culture | Inmobi | 1d | Remote |  | marketing, non tech, pr, communications, lead | [Apply](https://web3.career/lead-communications-strategist-global-culture-inmobi/149774) |
+| Marketing | Ellipsis Labs | 1d | , | $150k - $200k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/marketing-ellipsislabs/149765) |
+| Relationship Manager | Copperco | 1d | Remote | $80k - $120k | marketing, non tech, blockchain, crypto, defi | [Apply](https://web3.career/relationship-manager-copperco/105562) |
