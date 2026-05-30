@@ -5,7 +5,7 @@ sidebar_position: 2
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Developer Relations Intern | BNB Chain | 7d | N/A | $15k - $30k | developer relations, dev, intern, entry level, blockchain | [Apply](https://web3.career/developer-relations-intern-bnbchain/149697) |
+| Developer Relations Intern | BNB Chain | 8d | N/A | $15k - $30k | developer relations, dev, intern, entry level, blockchain | [Apply](https://web3.career/developer-relations-intern-bnbchain/149697) |
 | Developer Relations Lead | Autheo | 1mo | N/A | $36k - $70k | developer relations, dev, lead, blockchain, crypto | [Apply](https://web3.career/developer-relations-lead-autheo/148704) |
 | Developer Relations Engineer CISbased | TON Foundation | 2mo | Remote |  | developer relations, dev, engineer, blockchain, java | [Apply](https://web3.career/developer-relations-engineer-cis-based-ton-foundation/148198) |
 | Developer Relations Engineer | Improbable | 2mo | N/A | $36k - $90k | developer relations, dev, engineer, blockchain, defi | [Apply](https://web3.career/developer-relations-engineer-improbable/148021) |
