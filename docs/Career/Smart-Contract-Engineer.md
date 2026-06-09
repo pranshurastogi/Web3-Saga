@@ -5,9 +5,9 @@ sidebar_position: 5
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Relationship Manager Digital Assets | The Tie | 12d | , | $120k - $140k | finance, non tech, marketing, senior, blockchain | [Apply](https://web3.career/senior-relationship-manager-digital-assets-thetie/149790) |
-| Software Engineer Stablecoin | edkey | 15d | , | $122k - $150k | engineer, dev, aws, blockchain, crypto | [Apply](https://web3.career/software-engineer-stablecoin-edkey/149733) |
-| Senior Blockchain Developer | Lemon.io | 16d | N/A |  | dev, senior, blockchain, ethereum, ethereumjs | [Apply](https://web3.career/senior-blockchain-developer-lemon-io/149705) |
+| Senior Relationship Manager Digital Assets | The Tie | 13d | , | $120k - $140k | finance, non tech, marketing, senior, blockchain | [Apply](https://web3.career/senior-relationship-manager-digital-assets-thetie/149790) |
+| Software Engineer Stablecoin | edkey | 16d | , | $122k - $150k | engineer, dev, aws, blockchain, crypto | [Apply](https://web3.career/software-engineer-stablecoin-edkey/149733) |
+| Senior Blockchain Developer | Lemon.io | 17d | N/A |  | dev, senior, blockchain, ethereum, ethereumjs | [Apply](https://web3.career/senior-blockchain-developer-lemon-io/149705) |
 | Director of Cybersecurity Incident Response Brazil | Coins.ph | 26d | Vila Velha, Espírito Santo | $121k - $180k | executive, aws, blockchain, crypto, smart contract | [Apply](https://web3.career/director-of-cybersecurity-incident-response-brazil-coins/149403) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
 | Crypto Security Engineer | Blockchain | 1mo | Remote | $98k - $145k | engineer, security, aws, blockchain, crypto | [Apply](https://web3.career/crypto-security-engineer-blockchain/149233) |
