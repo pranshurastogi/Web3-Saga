@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Manager Global Card Business Development Operations | Binance | 2d | , |  | business development, sales, non tech, operations, senior | [Apply](https://web3.career/senior-manager-global-card-business-development-operations-binance/150534) |
-| Manager Card Business Development Operations | Binance | 2d | , |  | business development, sales, non tech, operations, blockchain | [Apply](https://web3.career/manager-card-business-development-operations-binance/150533) |
-| FALL Marketing and Business Development Intern | Integra | 3d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
-| Business Development Representative | Taxbit | 3d | Remote | $140k - $180k | business development, sales, non tech, bitcoin, crypto | [Apply](https://web3.career/business-development-representative-taxbit/106278) |
+| Senior Manager Global Card Business Development Operations | Binance | 3d | , |  | business development, sales, non tech, operations, senior | [Apply](https://web3.career/senior-manager-global-card-business-development-operations-binance/150534) |
+| Manager Card Business Development Operations | Binance | 3d | , |  | business development, sales, non tech, operations, blockchain | [Apply](https://web3.career/manager-card-business-development-operations-binance/150533) |
+| FALL Marketing and Business Development Intern | Integra | 4d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
+| Business Development Representative | Taxbit | 4d | Remote | $140k - $180k | business development, sales, non tech, bitcoin, crypto | [Apply](https://web3.career/business-development-representative-taxbit/106278) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Senior Manager Manager Business Development Institutional VIP Sales APAC EMEA | Crypto.com | 3d | , | $100k - $150k | business development, sales, non tech, senior, crypto | [Apply](https://web3.career/senior-manager-manager-business-development-institutional-vip-sales-apac-emea-crypto-com/150451) |
-| Director of Sales Business Development | Tastylive | 8d | Remote | $150k - $165k | business development, sales, non tech, executive, remote | [Apply](https://web3.career/director-of-sales-business-development-tastylive/142247) |
-| Institutional Business Development Manager | Wintermute | 11d | , | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/institutional-business-development-manager-wintermute-trading/150218) |
-| Institutional Business Development Director | Wintermute | 11d | , | $140k - $180k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/institutional-business-development-director-wintermute-trading/150217) |
-| Business Development Lead | Perena | 15d | N/A | $81k - $107k | business development, sales, non tech, lead, defi | [Apply](https://web3.career/business-development-lead-perena/150091) |
+| Senior Manager Manager Business Development Institutional VIP Sales APAC EMEA | Crypto.com | 4d | , | $100k - $150k | business development, sales, non tech, senior, crypto | [Apply](https://web3.career/senior-manager-manager-business-development-institutional-vip-sales-apac-emea-crypto-com/150451) |
+| Director of Sales Business Development | Tastylive | 9d | Remote | $150k - $165k | business development, sales, non tech, executive, remote | [Apply](https://web3.career/director-of-sales-business-development-tastylive/142247) |
+| Institutional Business Development Manager | Wintermute | 12d | , | $68k - $75k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/institutional-business-development-manager-wintermute-trading/150218) |
+| Institutional Business Development Director | Wintermute | 12d | , | $140k - $180k | business development, sales, non tech, executive, blockchain | [Apply](https://web3.career/institutional-business-development-director-wintermute-trading/150217) |
+| Business Development Lead | Perena | 16d | N/A | $81k - $107k | business development, sales, non tech, lead, defi | [Apply](https://web3.career/business-development-lead-perena/150091) |
