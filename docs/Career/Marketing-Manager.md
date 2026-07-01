@@ -5,13 +5,13 @@ sidebar_position: 4
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Senior Permance Marketing Manager Remote Europe | Koinly | 25d | N/A | $60k - $88k | marketing manager, remote, marketing, non tech, senior | [Apply](https://web3.career/senior-performance-marketing-manager-remote-europe-koinly/150081) |
-| Defi Marketing Lead | Bond Labs | 4d | N/A | $80k - $110k | lead, marketing lead, marketing, non tech, community manager | [Apply](https://web3.career/defi-marketing-lead-bond-labs/150795) |
-| Director Marketing | Inmobi | 4d | Remote | $21k - $65k | executive, marketing, non tech, remote | [Apply](https://web3.career/director-marketing-inmobi/148822) |
-| Content Marketing Internship | Bitmex | 4d | Remote | $64k - $90k | content marketing, intern, entry level, marketing, non tech | [Apply](https://web3.career/content-marketing-internship-bitmex/138850) |
+| Product Marketing Lead | Ripple | 2h | , | $184k - $225k | lead, marketing lead, marketing, non tech, product marketing | [Apply](https://web3.career/product-marketing-lead-ripple/150965) |
+| Senior Manager Marketing Analytics | Ripple | 2h | , | $170k - $200k | stats, marketing, non tech, senior, crypto | [Apply](https://web3.career/senior-manager-marketing-analytics-ripple/150958) |
+| Senior Content Marketing Specialist | Ripple | 2h | , | $91k - $115k | content marketing, marketing specialist, marketing, non tech, senior | [Apply](https://web3.career/senior-content-marketing-specialist-ripple/150957) |
+| Marketing Operations Manager | Ripple | 2h | , | $132k - $160k | marketing, non tech, operations, crypto | [Apply](https://web3.career/marketing-operations-manager-ripple/150956) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| 한국 시장 KOL Affiliate BD 매니저 | Woo | 4d | Remote | $98k - $108k | affiliate, marketing, non tech, business development, influencer marketing | [Apply](https://web3.career/kol-affiliate-bd-woo/150773) |
-| Permance Marketing Specialist Mobile | Blockchain | 4d | Remote | $90k - $103k | marketing specialist, marketing, non tech, mobile, blockchain | [Apply](https://web3.career/performance-marketing-specialist-mobile-blockchain/148785) |
-| Senior Brand Marketing Designer | Kast | 6d | , | $98k - $150k | brand, design, non tech, marketing, senior | [Apply](https://web3.career/senior-brand-marketing-designer-kast/150734) |
-| Influencer | 🌶Salsa Valley🌶 | 6d | , | $72k - $93k | influencer marketing, social media, non tech, kol, marketing | [Apply](https://web3.career/influencer-salsavalley/150714) |
-| Product Marketing Manager | Nearfoundation | 6d | Remote | $39k - $45k | marketing manager, marketing, non tech, product marketing, blockchain | [Apply](https://web3.career/product-marketing-manager-nearfoundation/100183) |
+| Corporate Brand Marketing Manager | Ripple | 2h | , | $132k - $160k | brand marketing, marketing manager, brand, marketing, non tech | [Apply](https://web3.career/corporate-brand-marketing-manager-ripple/150953) |
+| Content Marketing Manager | Ripple | 2h | , | $132k - $165k | content marketing, marketing manager, marketing, non tech, blockchain | [Apply](https://web3.career/content-marketing-manager-ripple/150952) |
+| Associate Email Marketing Manager | Ripple | 2h | , | $115k - $130k | email marketing, marketing manager, marketing, non tech, crypto | [Apply](https://web3.career/associate-email-marketing-manager-ripple/150950) |
+| Communications Manager EMEA APAC | Ripple | 2h | , | $32k - $58k | marketing, non tech, pr, communications, crypto | [Apply](https://web3.career/communications-manager-emea-apac-ripple/150897) |
+| Coordinator Digital Marketing Commercial Partnerships | Reservoir | 7h | , | $49k - $55k | digital marketing, partnership, sales, non tech, marketing | [Apply](https://web3.career/coordinator-digital-marketing-commercial-partnerships-reservoir/150876) |
