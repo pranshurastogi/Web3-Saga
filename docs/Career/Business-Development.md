@@ -5,13 +5,13 @@ sidebar_position: 1
 
 | Job Title | Company | Posted Time | Remote | Salary | Tags | Apply Link |
 |-----------|---------|-------------|--------|--------|------|------------|
-| Web3 BD | CertiK | 3h | N/A | $122k - $150k | business development, remote, blockchain, crypto | [Apply](https://web3.career/web3-bd-certik/151119) |
-| FALL Marketing and Business Development Intern | Integra | 7h | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
-| Business Development Representative | Taxbit | 7h | Remote | $140k - $180k | business development, sales, non tech, bitcoin, crypto | [Apply](https://web3.career/business-development-representative-taxbit/106278) |
-| Business Development Senior Manager RippleX | Ripple | 3d | , | $68k - $90k | business development, sales, non tech, senior, blockchain | [Apply](https://web3.career/business-development-senior-manager-ripplex-ripple/151037) |
+| Web3 BD | CertiK | 1d | N/A | $122k - $150k | business development, remote, blockchain, crypto | [Apply](https://web3.career/web3-bd-certik/151119) |
+| FALL Marketing and Business Development Intern | Integra | 1d | Remote | $21k - $60k | business development, sales, non tech, intern, entry level | [Apply](https://web3.career/fall-marketing-and-business-development-intern-integra/95748) |
+| Business Development Representative | Taxbit | 1d | Remote | $140k - $180k | business development, sales, non tech, bitcoin, crypto | [Apply](https://web3.career/business-development-representative-taxbit/106278) |
+| Business Development Senior Manager RippleX | Ripple | 4d | , | $68k - $90k | business development, sales, non tech, senior, blockchain | [Apply](https://web3.career/business-development-senior-manager-ripplex-ripple/151037) |
 | N/A | N/A | N/A | N/A |  |  | [Apply](https://web3.career/metana) |
-| Business Development Manager Sunrise | Wormhole Labs | 6d | Remote | $103k - $150k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-sunrise-wormholelabs/151018) |
-| Business Development Manager | CoW DAO | 6d | N/A |  | business development, sales, non tech, partnership, sales engineer | [Apply](https://web3.career/business-development-manager-cow-dao/150995) |
-| Business Development Lead Tokenization Fintech | Fhenix | 7d | , | $31k - $72k | business development, sales, non tech, tokenization, fintech | [Apply](https://web3.career/business-development-lead-tokenization-fintech-fhenix/150986) |
-| Binance Accelerator Program Academy Business Development | Binance | 7d | South East Asia |  | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/binance-accelerator-program-academy-business-development-binance/150841) |
-| Account Executive Business Development Manager | KAST | 8d | , | $98k - $180k | account manager, sales, non tech, business development, executive | [Apply](https://web3.career/account-executive-business-development-manager-kast/150824) |
+| Business Development Manager Sunrise | Wormhole Labs | 7d | Remote | $103k - $150k | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/business-development-manager-sunrise-wormholelabs/151018) |
+| Business Development Manager | CoW DAO | 7d | N/A |  | business development, sales, non tech, partnership, sales engineer | [Apply](https://web3.career/business-development-manager-cow-dao/150995) |
+| Business Development Lead Tokenization Fintech | Fhenix | 8d | , | $31k - $72k | business development, sales, non tech, tokenization, fintech | [Apply](https://web3.career/business-development-lead-tokenization-fintech-fhenix/150986) |
+| Binance Accelerator Program Academy Business Development | Binance | 8d | South East Asia |  | business development, sales, non tech, blockchain, crypto | [Apply](https://web3.career/binance-accelerator-program-academy-business-development-binance/150841) |
+| Account Executive Business Development Manager | KAST | 9d | , | $98k - $180k | account manager, sales, non tech, business development, executive | [Apply](https://web3.career/account-executive-business-development-manager-kast/150824) |
